@@ -1,0 +1,3 @@
+The iTrust system provides an interface for administrators to manage drug interactions. The administrator is presented with two lists of drug names and their corresponding NDC codes. From these lists, the administrator selects one drug from each list to record a potential interaction between the two drugs. The system stores both selected drugs along with a textual description of the possible effects of their interaction.
+
+Additionally, the administrator can select a single drug and view a list of all known drug interactions involving that drug. From this list, the administrator can choose a specific pair of drugs and delete the recorded interaction between them if needed.
