@@ -1,0 +1,11 @@
+As a healthcare provider utilizing this system, you can view a list of your scheduled appointments efficiently. Here's how the appointment management process works for you:
+
+1. When accessing the page, you will see a table listing your upcoming appointments, including the patient's name, the type of appointment, the scheduled date and time, and the expected duration.
+
+2. The system highlights any scheduling conflicts between appointments, allowing you to identify and resolve overlapping bookings.
+
+3. For each appointment, you can review comments associated with it. If there’s a comment available, you can click on the "Read Comment" link to view detailed notes.
+
+4. If there are no appointments scheduled for you, the system will display a message indicating the absence of any upcoming appointments.
+
+This process enables you to manage your schedule and resolve potential conflicts, ensuring you can focus on delivering healthcare services effectively. You’re provided with clear insights into appointment details, such as duration and comments, but have the flexibility to navigate and manage your calendar seamlessly.

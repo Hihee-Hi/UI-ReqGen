@@ -1,0 +1,8 @@
+This system provides a utility webpage for viewing the database tables and their content, primarily intended for testing purposes. As a user, you would:
+
+Navigate to the displayed page and select a specific table of interest from the floating Table of Contents menu provided on the left side of the page.
+Once you select a table, the page will scroll to display the contents of that table in an organized grid format.
+The table displays column names as headers and rows as entries for all records in the selected database table.
+If there is any missing or erroneous data in a column, it will indicate that the data might be empty or inaccessible.
+The floating menu stays visible on the left side as you scroll, allowing quick access to other tables without returning to the top.
+This utility is useful for database testing by displaying all tables and their current contents in a user-friendly format.

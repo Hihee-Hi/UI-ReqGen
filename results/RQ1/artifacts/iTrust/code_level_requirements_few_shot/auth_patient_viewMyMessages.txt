@@ -1,0 +1,8 @@
+As a patient using this system, you would:
+Log into your account and navigate to the "My Messages" section to view all messages sent to you.
+In the "My Messages" section, you'll see a list of all received messages along with the name of the sender and the date the message was sent.
+If you have any messages, they will be displayed in a table format, where each row represents a message.
+You can read the content of each message in the message body column.
+If you wish to respond to a message, there is an option to reply by clicking the "Reply" link next to the message.
+If you have no messages, an informative note will indicate that your inbox is empty.
+This feature allows you to effectively manage communication with healthcare providers or personnel, ensuring that all interactions are accessible and easy to engage with.

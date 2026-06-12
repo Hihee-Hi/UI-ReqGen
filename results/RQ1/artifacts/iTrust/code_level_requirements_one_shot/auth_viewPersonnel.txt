@@ -1,0 +1,4 @@
+As a user of this system, you would:  
+Select a specific personnel record you wish to review from the available list.  
+The system will display detailed information about the selected personnel, including their full name, a photo associated with their personnel ID, specialty, office location, contact phone number, and email address.  
+This functionality allows you to quickly access and verify professional details for administrative, communication, or collaborative purposes. Since the information is presented in a structured format, it simplifies decision-making processes that rely on personnel data, such as referrals or internal coordination.  

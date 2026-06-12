@@ -1,0 +1,7 @@
+As a patient using this system, you would:
+
+View detailed information about your prescription based on a specific office visit. The system provides a table summarizing essential details of the prescription, including the name of the prescribing doctor, the type and description of the medication, the prescribed dosage, the start and end dates for taking the medication, and any special instructions for usage.
+
+If the prescription information is unavailable or cannot be found, you will see an error message indicating the issue.
+
+You can navigate back to the homepage after reviewing the prescription details by using the provided button. This process allows you to easily access and confirm your prescription details, helping you follow your doctor's recommendations appropriately.

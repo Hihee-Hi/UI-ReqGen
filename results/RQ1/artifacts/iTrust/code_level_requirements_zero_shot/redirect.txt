@@ -1,0 +1,1 @@
+Users attempting to access this part of the system are automatically redirected to a different page where they likely need to authenticate or verify their credentials. This ensures that users follow an appropriate path for gaining access, reflecting a security measure commonly used to protect sensitive areas by guiding users to a login or user verification process.

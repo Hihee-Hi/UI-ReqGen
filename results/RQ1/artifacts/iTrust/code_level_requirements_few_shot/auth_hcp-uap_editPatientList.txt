@@ -1,0 +1,8 @@
+As a healthcare provider using this system, you would:  
+First ensure that you have a patient's Medical ID (MID) available as it is required to proceed.  
+If the patient ID is not found or provided, the system will redirect you to obtain the patient ID before continuing.  
+Once a valid patient ID is recognized, the system will display whether the patient is currently on your monitoring list.  
+Based on their current status, you'll see an option to either "Add" or "Remove" the patient from your list.  
+Confirming this action will either add the patient to or remove them from your monitoring list, and the system will confirm your action with a message stating the change.  
+Additionally, you have the option to opt for a different patient if needed, prompting the system to reset the patient ID and let you select another patient for editing.  
+This tool facilitates easy management and monitoring of your patient's list, ensuring that their status is up to date with your professional monitoring activities.

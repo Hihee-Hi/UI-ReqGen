@@ -1,0 +1,13 @@
+As an administrator using this system, you would:
+
+Manage and update the list of diagnostic laboratory codes known as LOINC codes, which are critical for consistent lab results retrieval.
+
+You can view the current list of LOINC codes, including their respective components, properties, time aspects, systems, scale types, and methods.
+
+To add a new LOINC code, fill in the necessary fields, such as lab procedure code, component, kind of property, time aspect, system, scale type, and method type. Then submit the form for the code to be added to the list.
+
+To update an existing LOINC code's details, click on the code from the list and the form fields will auto-fill with its current information. Make any necessary changes and then submit the form to update the code's details.
+
+Review confirmation messages indicating success or error in code additions or updates, so you can ensure accuracy and completeness in the LOINC codes system.
+
+This interface enables administrators to efficiently manage LOINC code entries, which are fundamental in ensuring data standardization across lab results and procedures.

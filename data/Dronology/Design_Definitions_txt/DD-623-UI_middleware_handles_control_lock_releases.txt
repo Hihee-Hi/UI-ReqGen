@@ -1,0 +1,1 @@
+The UI middleware shall forward control requests from UI clients to release a control lock on a UAV.

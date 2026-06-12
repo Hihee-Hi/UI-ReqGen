@@ -1,0 +1,299 @@
+{
+  "results": {
+    "SR-01": {
+      "title": "User Authentication and Role-Based Access",
+      "decision": "Match",
+      "best_match_toA": "18",
+      "reason": "Both requirements involve user management aspects in a healthcare system, but Document A focuses on administrative data handling tasks like managing lists and personnel, while Document B specifically addresses authentication and role-based access control.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "18",
+          "similarity": 0.5257832027461016,
+          "decision": "Match",
+          "reason": "Both requirements involve user management aspects in a healthcare system, but Document A focuses on administrative data handling tasks like managing lists and personnel, while Document B specifically addresses authentication and role-based access control."
+        },
+        {
+          "rank": 2,
+          "A_id": "22",
+          "similarity": 0.5160271001590723,
+          "decision": "Match",
+          "reason": "Both requirements involve user authentication and roles in a medical system, but Document A focuses on system testing with operational profiles, while Document B emphasizes secure access control, resulting in notable differences in purpose and core functionality."
+        },
+        {
+          "rank": 3,
+          "A_id": "20",
+          "similarity": 0.5089670186236337,
+          "decision": "Match",
+          "reason": "Both requirements involve role-based concepts in healthcare, but Document A focuses on specific patient data access and interactions, while Document B centers on user authentication and role assignment mechanisms, indicating notable differences in purpose and scope."
+        }
+      ]
+    },
+    "SR-02": {
+      "title": "Personnel and Patient Management",
+      "decision": "Match",
+      "best_match_toA": "18",
+      "reason": "Both requirements involve administrative management functions, particularly for personnel, but Document A focuses on system configurations like codes and lists for healthcare providers, while Document B includes patient management and emphasizes secure credentials, leading to differences in scope and purpose.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "18",
+          "similarity": 0.6388218834313787,
+          "decision": "Match",
+          "reason": "Both requirements involve administrative management functions, particularly for personnel, but Document A focuses on system configurations like codes and lists for healthcare providers, while Document B includes patient management and emphasizes secure credentials, leading to differences in scope and purpose."
+        },
+        {
+          "rank": 2,
+          "A_id": "19",
+          "similarity": 0.622537511343718,
+          "decision": "Match",
+          "reason": "The core functionality of managing patient records and demographic information overlaps, but Document B explicitly includes personnel management and emphasizes onboarding and secure credentials, which are not the primary focus in Document A's detailed clinical features like graphing health data and handling deaths."
+        },
+        {
+          "rank": 3,
+          "A_id": "8",
+          "similarity": 0.5273539825629339,
+          "decision": "Match",
+          "reason": "Both requirements involve patient management elements, such as adding or deleting patients, but Document A centers on vital signs monitoring with specific data validation and reporting, while Document B focuses on general administrative record management for personnel and patients, including demographics and security."
+        }
+      ]
+    },
+    "SR-03": {
+      "title": "Appointment Scheduling and Management",
+      "decision": "Match",
+      "best_match_toA": "9",
+      "reason": "Both requirements focus on the core functionality of scheduling, viewing, and managing appointments for healthcare providers and patients, with minor differences in detail or additional features not altering the essential match.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "9",
+          "similarity": 0.6215799439343056,
+          "decision": "Match",
+          "reason": "Both requirements focus on the core functionality of scheduling, viewing, and managing appointments for healthcare providers and patients, with minor differences in detail or additional features not altering the essential match."
+        },
+        {
+          "rank": 2,
+          "A_id": "2",
+          "similarity": 0.520616804497414,
+          "decision": "Match",
+          "reason": "Both requirements involve appointment viewing on a calendar, but Document A focuses on displaying multiple healthcare events with detailed access, while Document B emphasizes scheduling, management, and reminders for appointments only."
+        },
+        {
+          "rank": 3,
+          "A_id": "18",
+          "similarity": 0.4740225455458525,
+          "decision": "Match",
+          "reason": "Both requirements involve administrative functions related to appointments, but Document A focuses on defining and managing appointment types as part of broader system configuration, while Document B is centered on the operational process of scheduling and managing appointments with reminders."
+        }
+      ]
+    },
+    "SR-04": {
+      "title": "Healthcare Data Management and Reporting",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "Both requirements focus on healthcare providers managing comprehensive patient health information, including documenting office visits, updating medical records (labs, prescriptions, diagnoses), and generating reports; core functionalities are semantically identical despite differences in detail.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "19",
+          "similarity": 0.5389377053074249,
+          "decision": "Match",
+          "reason": "Both requirements focus on healthcare providers managing comprehensive patient health information, including documenting office visits, updating medical records (labs, prescriptions, diagnoses), and generating reports; core functionalities are semantically identical despite differences in detail."
+        },
+        {
+          "rank": 2,
+          "A_id": "11",
+          "similarity": 0.5263624179198061,
+          "decision": "Match",
+          "reason": "Both requirements relate to healthcare data management, but Document A focuses specifically on chronic disease risk analysis and patient listing based on predefined conditions, while Document B describes broader general health record management and reporting functions including lab procedures and prescriptions."
+        },
+        {
+          "rank": 3,
+          "A_id": "10",
+          "similarity": 0.5106595022686129,
+          "decision": "Match",
+          "reason": "Both requirements address managing clinical visit data including prescriptions and lab procedures, but Document B has broader scope (reporting, chronic disease assessments) while Document A focuses specifically on modifying visit records and viewing patient history."
+        }
+      ]
+    },
+    "SR-05": {
+      "title": "Secure Messaging and Communication",
+      "decision": "Match",
+      "best_match_toA": "3",
+      "reason": "The core functionality of messaging between patients and healthcare providers, including sending, receiving, and replying to messages, is semantically identical in both requirements, and the titles are highly similar despite differences in detail or the addition of 'secure' in Document B.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "3",
+          "similarity": 0.5662747518990756,
+          "decision": "Match",
+          "reason": "The core functionality of messaging between patients and healthcare providers, including sending, receiving, and replying to messages, is semantically identical in both requirements, and the titles are highly similar despite differences in detail or the addition of 'secure' in Document B."
+        },
+        {
+          "rank": 2,
+          "A_id": "19",
+          "similarity": 0.4460093681669738,
+          "decision": "No Match",
+          "reason": "Document A focuses on comprehensive patient data management (editing health records, demographics, graphing vitals, and reporting), while Document B specifically addresses secure messaging features for communication between patients and providers. The core functionalities are entirely unrelated."
+        },
+        {
+          "rank": 3,
+          "A_id": "14",
+          "similarity": 0.4380003211874455,
+          "decision": "No Match",
+          "reason": "Document A focuses on error handling for invalid inputs and data validation across multiple scenarios, while Document B describes secure messaging functionality for communication between patients and providers. The core purposes (input validation vs. communication features) and scopes are fundamentally unrelated."
+        }
+      ]
+    },
+    "SR-06": {
+      "title": "Telemedicine and Remote Monitoring",
+      "decision": "Match",
+      "best_match_toA": "8",
+      "reason": "Both requirements center on remote monitoring of physiological data, such as blood pressure and glucose levels, with the same core functionality for reporting and oversight to support patient care, despite differences in detail.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "8",
+          "similarity": 0.6000123516186087,
+          "decision": "Match",
+          "reason": "Both requirements center on remote monitoring of physiological data, such as blood pressure and glucose levels, with the same core functionality for reporting and oversight to support patient care, despite differences in detail."
+        },
+        {
+          "rank": 2,
+          "A_id": "11",
+          "similarity": 0.44912251142480364,
+          "decision": "Match",
+          "reason": "Both requirements involve patient monitoring in healthcare, but Document A focuses on chronic disease risk analysis through database queries and alerts, while Document B emphasizes remote telemedicine functionalities for real-time data tracking and interventions, showing notable differences in purpose and scope."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.43399732356652354,
+          "decision": "No Match",
+          "reason": "The core topics and functionalities are fundamentally different: Document A describes detailed patient information management (data entry/editing, demographics, reporting), while Document B focuses exclusively on remote health monitoring and telemedicine features not mentioned in A."
+        }
+      ]
+    },
+    "SR-07": {
+      "title": "Adverse Event Monitoring and Public Health Management",
+      "decision": "Match",
+      "best_match_toA": "1",
+      "reason": "Both address adverse event management in healthcare, but Document A focuses on granular reporting workflows for patients and case-level agent actions, while Document B emphasizes system-level monitoring, trend analysis, and public health interventions.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "1",
+          "similarity": 0.6722624763966724,
+          "decision": "Match",
+          "reason": "Both address adverse event management in healthcare, but Document A focuses on granular reporting workflows for patients and case-level agent actions, while Document B emphasizes system-level monitoring, trend analysis, and public health interventions."
+        },
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.4418152340126494,
+          "decision": "Match",
+          "reason": "Both requirements involve administrator roles in healthcare systems, but Document A focuses on maintaining reference data like codes and lists for system setup, while Document B emphasizes monitoring adverse events and generating reports for public health interventions, showing notable differences in core functionality and scope."
+        },
+        {
+          "rank": 3,
+          "A_id": "8",
+          "similarity": 0.4389128472502143,
+          "decision": "No Match",
+          "reason": "Document A focuses on real-time individual patient vital sign monitoring, data entry validation, and clinician management at the point of care. Document B describes population-level adverse event tracking for medications/immunizations with analytics and public health interventions. Their core purposes, scopes (individual vs. population), and functionalities are fundamentally unrelated."
+        }
+      ]
+    },
+    "SR-08": {
+      "title": "User Profile and Information Management",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "Both requirements involve managing user information including demographics, but Document A focuses on healthcare providers managing patient data with extensive clinical functionalities, while Document B describes general user self-profile management including security settings without clinical context.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "19",
+          "similarity": 0.5645345986731201,
+          "decision": "Match",
+          "reason": "Both requirements involve managing user information including demographics, but Document A focuses on healthcare providers managing patient data with extensive clinical functionalities, while Document B describes general user self-profile management including security settings without clinical context."
+        },
+        {
+          "rank": 2,
+          "A_id": "12",
+          "similarity": 0.48386339641924603,
+          "decision": "Match",
+          "reason": "Both documents mention security aspects (like password changes/security settings), but Document A focuses exclusively on authentication processes (login, password reset, session timeout, logging access attempts), while Document B focuses on broader user profile management including personal information and settings, making their core purposes notably different."
+        },
+        {
+          "rank": 3,
+          "A_id": "20",
+          "similarity": 0.47679706916148534,
+          "decision": "Match",
+          "reason": "Both requirements involve user information handling in a healthcare context, but Document A focuses on accessing and interacting with health-specific data (e.g., records, immunizations, surveys), while Document B centers on managing personal profile details like demographics and security settings for accuracy and security."
+        }
+      ]
+    },
+    "SR-09": {
+      "title": "System Error Handling and Security",
+      "decision": "Match",
+      "best_match_toA": "12",
+      "reason": "Both requirements cover security elements like session management and access restrictions, but Document A focuses specifically on login-related processes with detailed scenarios, while Document B addresses broader system error handling and security measures, resulting in notable scope differences.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "12",
+          "similarity": 0.5153044372794076,
+          "decision": "Match",
+          "reason": "Both requirements cover security elements like session management and access restrictions, but Document A focuses specifically on login-related processes with detailed scenarios, while Document B addresses broader system error handling and security measures, resulting in notable scope differences."
+        },
+        {
+          "rank": 2,
+          "A_id": "14",
+          "similarity": 0.4962755604399582,
+          "decision": "Match",
+          "reason": "Both requirements address error handling, but Document A focuses narrowly on invalid input messages and validation prompts for specific data fields, while Document B encompasses broader security measures like session management and access restrictions alongside error handling."
+        },
+        {
+          "rank": 3,
+          "A_id": "18",
+          "similarity": 0.4723628686275245,
+          "decision": "No Match",
+          "reason": "Document A details administrative data management tasks (e.g., maintaining lists of immunizations, diagnoses, hospitals, and personnel), while Document B focuses exclusively on system-level security features and error handling mechanisms. Their core purposes and functionalities are fundamentally unrelated."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "Coverage Ratio (CR)": 0.5909090909090909,
+    "Generated Match Ratio (GMR)": 1.0,
+    "Matched Reference Requirement Count": 13,
+    "Matched Generated Requirement Count": 9,
+    "Reference Requirement Count": 22,
+    "Generated Requirement Count": 9,
+    "Matched Reference Requirement IDs": [
+      "1",
+      "2",
+      "3",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "14",
+      "18",
+      "19",
+      "20",
+      "22"
+    ],
+    "Matched Generated Requirement IDs": [
+      "SR-01",
+      "SR-02",
+      "SR-03",
+      "SR-04",
+      "SR-05",
+      "SR-06",
+      "SR-07",
+      "SR-08",
+      "SR-09"
+    ]
+  }
+}

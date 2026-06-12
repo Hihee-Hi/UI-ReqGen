@@ -1,0 +1,12 @@
+As a patient using this system, you can access and monitor your medical records with ease. You will:
+
+1. View your personal information, including your name, contact details, and insurance provider information.
+2. Examine a detailed list of past office visits, including the ability to complete surveys related to specific visits.
+3. Review your family's medical history, highlighting any hereditary conditions like diabetes, heart disease, or cancer.
+4. Check your allergy records, seeing when specific allergies were first identified.
+5. Explore your own basic health history, including physical metrics like height and weight, smoking status, and cholesterol levels, along with the corresponding personnel who recorded the data.
+6. Access lab procedure results, including details of tests performed, commentary, and updated statuses.
+7. Review immunization records and report adverse events if they occurred within the last year.
+8. If you represent other patients, switch to view their records and ensure their health information is being properly managed.
+
+This tool provides an organized, comprehensive view of your medical history, while allowing you to interact meaningfully with the data, such as completing surveys or reporting issues related to immunizations. It empowers you to take control of your healthcare journey.

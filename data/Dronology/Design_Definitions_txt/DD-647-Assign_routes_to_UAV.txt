@@ -1,0 +1,1 @@
+The user shall select a UAV and then assign routes to it from an available route list.

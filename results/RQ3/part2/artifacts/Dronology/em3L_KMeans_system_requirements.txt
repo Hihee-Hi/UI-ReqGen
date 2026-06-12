@@ -1,0 +1,22 @@
+[
+    {
+        "id": "Cluster 0",
+        "title": "Flight Route Management",
+        "description": "Users can manage drone flight routes by creating, editing, and deleting waypoints. The system allows users to add new points to a flight path, modify the altitude and speed at each point, and delete routes or waypoints with confirmation prompts. The system provides interactive map features for visualizing and editing flight paths, and the user interface ensures that any changes are reflected immediately, offering real-time management of routes."
+    },
+    {
+        "id": "Cluster 1",
+        "title": "User Interaction and Notifications",
+        "description": "The system provides various user interface components for interaction, such as notifications, splash screens, and waiting windows. Users receive timely notifications for actions performed within the system, and can interact with confirmation windows for specific actions, such as confirming a task or responding to prompts."
+    },
+    {
+        "id": "Cluster 2",
+        "title": "Active Flight Management",
+        "description": "Users can monitor and control active flights in real-time, view UAV status, and adjust mission parameters. The system supports mission operations, emergency actions, and flight path adjustments. Users can interact with a dynamic map interface to control flight paths and manage ongoing operations, ensuring precise tracking and management of drone activities."
+    },
+    {
+        "id": "Cluster 3",
+        "title": "Map and Layer Management",
+        "description": "The system provides users with a dynamic map interface that integrates diverse layers of geospatial data, facilitating a tailored view experience. Users can seamlessly switch between different map views, such as world imagery or street maps, enhancing situational awareness. This interface is especially useful in geographical analysis or navigation contexts, allowing users to select the most informative map layer based on their current needs or objectives."
+    }
+]

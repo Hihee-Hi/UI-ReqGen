@@ -1,0 +1,73 @@
+{
+  "CO-765": [
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMainLayout.java",
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMapComponent.java",
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRMapComponent.java",
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/map/LeafletmapFactory.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/map/VaadinUIMapConstants.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/utils/LayerDescriptor.java"12
+  ],
+  "CO-700": [],
+  "CO-663": [
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/MapDrawingUtil.java",
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRControlsComponent.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FREditModeController.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRInfoBox.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRInfoPanel.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRMainLayout.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRMapComponent.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRMetaInfo.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/FRTableDisplay.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/flightroutes/windows/FRDeleteRouteConfirmation.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/utils/MapMarkerUtilities.java"12
+  ],
+  "CO-645": [
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFAssignRouteComponent.java",2
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFDragLayout.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFInfoBox.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/connector/DronologyActionExecutor.java"12
+  ],
+  "CO-641": [
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMapComponent.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/start/MyUI.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/utils/Configuration.java"
+  ],
+  "CO-620": [],
+  "CO-610": [],
+  "CO-604": [],
+  "CO-598": [],
+  "CO-591": [],
+  "CO-582": [],
+  "CO-570": [],
+  "CO-484": [],
+  "CO-481": [],
+  "CO-480": [],
+  "CO-477": [],
+  "CO-476": [
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFInfoPanel.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMainLayout.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMapViewOperations.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMissionOperations.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/MissionHandler.java"12
+  ],
+  "CO-475": [],
+  "CO-474": [],
+  "CO-473": [],
+  "CO-472": [],
+  "CO-184": [],
+  "CO-105": [
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFControlsComponent.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFEmergencyComponent.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFFollowBar.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFInfoBox.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFInfoPanel.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMainLayout.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/AFMapComponent.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/activeflights/MapDrawingUtil.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/map/LeafletmapFactory.java",
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/start/MyUI.java",12
+    "edu.nd.dronology.ui.vaadin/src/main/java/edu/nd/dronology/ui/vaadin/utils/MapMarkerUtilities.java"
+  ],
+  "CO-91": [],
+  "CO-90": []
+}

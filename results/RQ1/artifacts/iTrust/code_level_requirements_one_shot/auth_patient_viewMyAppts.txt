@@ -1,0 +1,13 @@
+As a patient using this system, you would:
+
+Log in to view a list of your upcoming appointments. The system retrieves all scheduled appointments for your account and displays them in a table.
+
+For each appointment, the table provides detailed information, including the healthcare provider's name, the type of appointment, the scheduled date and time, and the duration.
+
+If any appointments overlap or conflict based on scheduling, they are highlighted to draw your attention.
+
+You can access additional information or comments associated with an appointment by clicking on a specific link provided in the table.
+
+If no appointments are scheduled for you, the system informs you that there are no upcoming appointments.
+
+This streamlined view helps you stay informed about your healthcare schedule and proactively manage any conflicts or relevant details for your appointments.

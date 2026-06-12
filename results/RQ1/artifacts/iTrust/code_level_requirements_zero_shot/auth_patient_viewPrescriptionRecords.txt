@@ -1,0 +1,9 @@
+Users of this system can view and manage prescription records associated with their accounts. As a patient, you can log into the portal to access your prescription information. The interface allows you to perform the following key actions:
+
+1. View Your Own Prescriptions: You can choose to display a list of current prescriptions issued to you. This includes details such as the prescription identification, description, duration, and the prescribing healthcare provider's name. If you wish to report any adverse events associated with your prescriptions, there is an option to indicate your situation.
+
+2. View Other Patients' Prescriptions: If you are authorized as a representative for others, you have the ability to view their prescription records. You can select the individual you represent and view their prescription details in a similar manner to your own.
+
+3. Report Adverse Events: The system facilitates reporting any adverse events you might experience due to your medications. You need to mark the prescriptions related to the adverse events and proceed to submit a report for further action.
+
+The system supports a structured workflow in managing personal and other patients' prescription records, aiding in efficient prescription tracking and adverse event reporting within a healthcare context.

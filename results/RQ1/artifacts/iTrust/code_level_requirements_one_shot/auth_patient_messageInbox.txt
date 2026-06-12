@@ -1,0 +1,10 @@
+As a patient using this system, you would:
+
+- Access your message inbox to view communications sent to you. The messages may include sender details, subject, and the date received.  
+- The system allows you to organize your messages by applying filters based on key criteria such as sender, subject, keywords, excluded words, or a date range. You can test or save these filters as needed.  
+- You can sort your messages by sender name or time, and choose the order (ascending or descending).  
+- Unread messages are highlighted for easy identification, ensuring you don't miss any important communications.  
+- You have a link to read each message individually, which helps you access detailed information about each communication.  
+- If there are currently no messages in your inbox, the system will inform you with a notification.  
+
+This functionality provides a streamlined way for you to manage and view your messages effectively, with tools to filter, sort, and organize communications efficiently.

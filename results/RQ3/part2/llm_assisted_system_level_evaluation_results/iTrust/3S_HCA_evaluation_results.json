@@ -1,0 +1,838 @@
+{
+  "results": {
+    "0": {
+      "title": "Patient Survey and Feedback",
+      "decision": "Match",
+      "best_match_toA": "4",
+      "reason": "Both requirements focus on collecting and displaying patient feedback regarding healthcare experiences, including satisfaction surveys. While Document A is more detailed in implementation specifics and user interactions, the core functionality of collecting feedback and presenting results is semantically the same.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "4",
+          "similarity": 0.5771380051620038,
+          "decision": "Match",
+          "reason": "Both requirements focus on collecting and displaying patient feedback regarding healthcare experiences, including satisfaction surveys. While Document A is more detailed in implementation specifics and user interactions, the core functionality of collecting feedback and presenting results is semantically the same."
+        },
+        {
+          "rank": 3,
+          "A_id": "20",
+          "similarity": 0.43197177788700797,
+          "decision": "Match",
+          "reason": "The requirements are partially related as both mention patient interactions involving surveys, but Document A focuses broadly on patient data access and health history, while Document B is specific to feedback collection and survey evaluation, indicating a notable difference in purpose and scope."
+        },
+        {
+          "rank": 2,
+          "A_id": "8",
+          "similarity": 0.4517990426669591,
+          "decision": "No Match",
+          "reason": "The topics and main functionalities are unrelated. Document A focuses on monitoring patient vital signs and tracking physiologic data, while Document B focuses on patient surveys and feedback collection for healthcare evaluation."
+        }
+      ]
+    },
+    "1": {
+      "title": "Telemedicine and Chronic Disease Monitoring",
+      "decision": "Match",
+      "best_match_toA": "8",
+      "reason": "Both documents describe functionality related to monitoring and managing patient health data, including physiologic measurements like blood pressure and glucose levels by healthcare personnel, UAPs, and patients themselves. While Document A is more detailed, the core purpose and functionality align closely with the broader description in Document B.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "8",
+          "similarity": 0.5937952890148368,
+          "decision": "Match",
+          "reason": "Both documents describe functionality related to monitoring and managing patient health data, including physiologic measurements like blood pressure and glucose levels by healthcare personnel, UAPs, and patients themselves. While Document A is more detailed, the core purpose and functionality align closely with the broader description in Document B."
+        },
+        {
+          "rank": 2,
+          "A_id": "11",
+          "similarity": 0.5811842364791655,
+          "decision": "Match",
+          "reason": "Both requirements address chronic disease management, but Document A focuses on analyzing risk factors from a database and generating warnings for specific diseases, while Document B emphasizes broader functionalities like telemedicine data input and remote monitoring, indicating partial overlap in core functionality."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.4709318814676549,
+          "decision": "Match",
+          "reason": "Both requirements relate to health information management and patient data, but Document A focuses on comprehensive patient information management while Document B emphasizes telemedicine and chronic disease monitoring, showing overlapping but different scopes and purposes."
+        }
+      ]
+    },
+    "2": {
+      "title": "Patient Health Record Management and Reporting",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "Both requirements address managing and viewing comprehensive patient health records, including functionalities like editing PHRs, office visit documentation, prescriptions, lab procedures, and generating reports, although Document A provides more detailed descriptions of the processes and formats.",
+      "all_matches": [
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.5937170317559585,
+          "decision": "Match",
+          "reason": "Both requirements address managing and viewing comprehensive patient health records, including functionalities like editing PHRs, office visit documentation, prescriptions, lab procedures, and generating reports, although Document A provides more detailed descriptions of the processes and formats."
+        },
+        {
+          "rank": 1,
+          "A_id": "10",
+          "similarity": 0.6159349503702113,
+          "decision": "Match",
+          "reason": "The topics and functionalities partially overlap as both involve managing and reviewing office visit and health record information, but Document B has a broader scope that includes patient access and reporting functionalities beyond office visit management."
+        },
+        {
+          "rank": 2,
+          "A_id": "11",
+          "similarity": 0.5941910541005315,
+          "decision": "Match",
+          "reason": "The topics are partially related as both involve health records and patient management, but Document A emphasizes risk analysis for chronic diseases tied to specific diagnoses, while Document B focuses on general management and reporting of health records without the specific functionality related to chronic disease risk factors."
+        }
+      ]
+    },
+    "3": {
+      "title": "User and Staff Account Administration",
+      "decision": "Match",
+      "best_match_toA": "21",
+      "reason": "Both requirements describe functionality related to adding UAP accounts to a system, with Document B providing a broader scope by including additional administrative tasks and user types beyond UAPs. However, the core functionality of adding UAP accounts aligns closely.",
+      "all_matches": [
+        {
+          "rank": 2,
+          "A_id": "21",
+          "similarity": 0.5746061703726442,
+          "decision": "Match",
+          "reason": "Both requirements describe functionality related to adding UAP accounts to a system, with Document B providing a broader scope by including additional administrative tasks and user types beyond UAPs. However, the core functionality of adding UAP accounts aligns closely."
+        },
+        {
+          "rank": 1,
+          "A_id": "18",
+          "similarity": 0.5970505782481481,
+          "decision": "Match",
+          "reason": "The requirements overlap in the administrative tasks for user management, such as adding new users and password reset functionality, but they differ in scope and focus. Document A focuses on detailed management of medical data (codes, hospitals, and specialties), while Document B emphasizes broader user account management."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.5546788509885748,
+          "decision": "Match",
+          "reason": "Both requirements involve user management, including adding new accounts and resetting passwords. However, Document A focuses on detailed patient information and medical record management, while Document B emphasizes general account administration for various roles, leading to partial overlap in functionality."
+        }
+      ]
+    },
+    "4": {
+      "title": "Medical Coding System Management",
+      "decision": "Match",
+      "best_match_toA": "18",
+      "reason": "Both requirements focus on administrative management of medical codes, including CPT, ICD, and LOINC. Though Document A includes specific actions like adding/updating codes and has additional details, the core functionality and purpose are highly similar to Document B.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "18",
+          "similarity": 0.5696692231744047,
+          "decision": "Match",
+          "reason": "Both requirements focus on administrative management of medical codes, including CPT, ICD, and LOINC. Though Document A includes specific actions like adding/updating codes and has additional details, the core functionality and purpose are highly similar to Document B."
+        },
+        {
+          "rank": 2,
+          "A_id": "16",
+          "similarity": 0.44315300664643076,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated; Document A focuses on immunization management for patients, while Document B deals with managing medical coding systems for administrative purposes."
+        },
+        {
+          "rank": 3,
+          "A_id": "15",
+          "similarity": 0.41410635086249636,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated. Document A focuses on managing lab procedures and technician assignment, while Document B concerns the administration of medical coding systems used for billing and documentation."
+        }
+      ]
+    },
+    "5": {
+      "title": "Tester Portal and Transaction Tracking",
+      "decision": "Match",
+      "best_match_toA": "22",
+      "reason": "While both requirements are related to testing and involve interaction with the system, Document A focuses on system testing with operational profile details specific to user types, whereas Document B emphasizes granting testers portal access and transaction tracking for auditing and debugging. There is overlap in the testing domain but differences in scope and purpose.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "22",
+          "similarity": 0.559707009539466,
+          "decision": "Match",
+          "reason": "While both requirements are related to testing and involve interaction with the system, Document A focuses on system testing with operational profile details specific to user types, whereas Document B emphasizes granting testers portal access and transaction tracking for auditing and debugging. There is overlap in the testing domain but differences in scope and purpose."
+        },
+        {
+          "rank": 2,
+          "A_id": "12",
+          "similarity": 0.32576599219614694,
+          "decision": "No Match",
+          "reason": "The topics and functionality of the two items are unrelated. Document A focuses on login, security features, and session handling, while Document B addresses tester access and transaction tracking."
+        },
+        {
+          "rank": 3,
+          "A_id": "18",
+          "similarity": 0.30294377723837224,
+          "decision": "No Match",
+          "reason": "The topic and descriptions are entirely different; one focuses on administrator management functions, while the other addresses tester portal access and transaction tracking for auditing and debugging."
+        }
+      ]
+    },
+    "6": {
+      "title": "Tester Utilities and Blackbox Tools",
+      "decision": "Match",
+      "best_match_toA": "22",
+      "reason": "Both requirements are related to testing functions, but they differ in scope and functionality. Document A focuses on system testing with usage profiles, while Document B emphasizes tester tools like a blackbox utility for analyzing system behavior.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "22",
+          "similarity": 0.44671820704461035,
+          "decision": "Match",
+          "reason": "Both requirements are related to testing functions, but they differ in scope and functionality. Document A focuses on system testing with usage profiles, while Document B emphasizes tester tools like a blackbox utility for analyzing system behavior."
+        },
+        {
+          "rank": 2,
+          "A_id": "15",
+          "similarity": 0.22937292395072628,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are entirely unrelated; Document A focuses on lab procedure management, while Document B pertains to tester utilities and blackbox testing tools."
+        },
+        {
+          "rank": 3,
+          "A_id": "18",
+          "similarity": 0.22628074937469514,
+          "decision": "No Match",
+          "reason": "The titles and descriptions of the requirements are unrelated, as Document A focuses on administrator management functions, while Document B refers to tester utilities and blackbox testing tools, serving entirely different roles and purposes in the system."
+        }
+      ]
+    },
+    "7": {
+      "title": "Hospital Information Management",
+      "decision": "Match",
+      "best_match_toA": "18",
+      "reason": "Both requirements are related to hospital and administrator management, but Document A outlines specific operations like adding or modifying hospital entries and managing personnel assignments, while Document B broadly describes managing hospital assignments and listings without detailing specific functionalities.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "18",
+          "similarity": 0.5448536738931937,
+          "decision": "Match",
+          "reason": "Both requirements are related to hospital and administrator management, but Document A outlines specific operations like adding or modifying hospital entries and managing personnel assignments, while Document B broadly describes managing hospital assignments and listings without detailing specific functionalities."
+        },
+        {
+          "rank": 2,
+          "A_id": "19",
+          "similarity": 0.4736792886398252,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated. Document A focuses on managing patient information and medical records, while Document B pertains to hospital assignments and healthcare personnel management."
+        },
+        {
+          "rank": 3,
+          "A_id": "9",
+          "similarity": 0.3991481499090682,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated; Document A discusses appointment management for LHCPs and patients, while Document B focuses on administrative hospital personnel assignments."
+        }
+      ]
+    },
+    "8": {
+      "title": "Adverse Event Monitoring and Reporting",
+      "decision": "Match",
+      "best_match_toA": "1",
+      "reason": "Both requirements are related to adverse event reporting, supporting patients and providing tools for public health agents to analyze. However, Document A focuses more on specific processes like reporting and removal mechanisms, while Document B mentions charts and monitoring interfaces, indicating a broader scope.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "1",
+          "similarity": 0.7084513364887958,
+          "decision": "Match",
+          "reason": "Both requirements are related to adverse event reporting, supporting patients and providing tools for public health agents to analyze. However, Document A focuses more on specific processes like reporting and removal mechanisms, while Document B mentions charts and monitoring interfaces, indicating a broader scope."
+        },
+        {
+          "rank": 2,
+          "A_id": "8",
+          "similarity": 0.48984322921062606,
+          "decision": "No Match",
+          "reason": "The requirements are unrelated as Document A focuses on monitoring patient vital signs such as blood pressure and glucose levels, while Document B describes monitoring and reporting adverse medical events, which is a different functionality and purpose."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.41720357165398947,
+          "decision": "No Match",
+          "reason": "The requirements are unrelated, as Document A focuses on healthcare provider patient information management, while Document B deals with adverse event monitoring and reporting. There is no overlap in purpose, functionality, or topic."
+        }
+      ]
+    },
+    "9": {
+      "title": "Prescription Records and Renewals",
+      "decision": "Match",
+      "best_match_toA": "5",
+      "reason": "Both requirements focus on managing prescription information, including viewing active and expired prescriptions, with functionality for healthcare providers and patients. While Document A provides more detail, the core functionality is highly similar to the broader description in Document B.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "5",
+          "similarity": 0.6657417869125096,
+          "decision": "Match",
+          "reason": "Both requirements focus on managing prescription information, including viewing active and expired prescriptions, with functionality for healthcare providers and patients. While Document A provides more detail, the core functionality is highly similar to the broader description in Document B."
+        },
+        {
+          "rank": 2,
+          "A_id": "11",
+          "similarity": 0.4976505009364201,
+          "decision": "No Match",
+          "reason": "The topics and descriptions of the two requirements are unrelated; Document A focuses on chronic disease management and risk factor analysis, while Document B deals with prescription record management and renewals."
+        },
+        {
+          "rank": 3,
+          "A_id": "10",
+          "similarity": 0.4800932191808008,
+          "decision": "No Match",
+          "reason": "The topics and functions described are unrelated. Document A focuses on office visit records, allowing modification and viewing details of past visits, whereas Document B focuses on managing prescription information and renewals."
+        }
+      ]
+    },
+    "10": {
+      "title": "User Homepages and Redirection",
+      "decision": "No Match",
+      "best_match_toA": "18",
+      "reason": "The topics and functionalities are unrelated. Document A focuses on detailed administrator management functions and data maintenance, while Document B describes user homepages and redirection based on roles and authentication.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "18",
+          "similarity": 0.38130319722608863,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated. Document A focuses on detailed administrator management functions and data maintenance, while Document B describes user homepages and redirection based on roles and authentication."
+        },
+        {
+          "rank": 2,
+          "A_id": "12",
+          "similarity": 0.3791601912675687,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated. Document A discusses login and security features, while Document B focuses on personalized homepages and user redirection based on roles."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.36430741772923414,
+          "decision": "No Match",
+          "reason": "The requirements are unrelated as Document A focuses on healthcare provider management of patient information, while Document B addresses personalized user homepages and redirection functionality for different roles. The topics and functions do not overlap."
+        }
+      ]
+    },
+    "11": {
+      "title": "Appointment Scheduling and Reminders",
+      "decision": "Match",
+      "best_match_toA": "9",
+      "reason": "Both requirements revolve around handling appointment scheduling and management between patients and providers, including functionalities such as viewing upcoming appointments and managing types. Document A is more detailed, while Document B offers a broader description, but the core functionality and topic/title align closely.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "9",
+          "similarity": 0.6229806054284983,
+          "decision": "Match",
+          "reason": "Both requirements revolve around handling appointment scheduling and management between patients and providers, including functionalities such as viewing upcoming appointments and managing types. Document A is more detailed, while Document B offers a broader description, but the core functionality and topic/title align closely."
+        },
+        {
+          "rank": 2,
+          "A_id": "2",
+          "similarity": 0.5420960618843528,
+          "decision": "Match",
+          "reason": "While both requirements involve calendar management and appointment-related functionalities, Document A focuses primarily on displaying and interacting with detailed appointment information on a calendar, whereas Document B emphasizes scheduling appointments and reminders with administrative functions. There is partial overlap in calendar functionality but distinct differences in scope and purpose."
+        },
+        {
+          "rank": 3,
+          "A_id": "18",
+          "similarity": 0.4154689640156333,
+          "decision": "Match",
+          "reason": "Both requirements involve administrative functions for managing appointment types; however, Document A focuses on adding or modifying appointment types, while Document B emphasizes broader appointment scheduling and reminder functionalities, showing partial overlap but notable differences in scope and features."
+        }
+      ]
+    },
+    "12": {
+      "title": "Secure Messaging and Communication",
+      "decision": "Match",
+      "best_match_toA": "3",
+      "reason": "The topic/title and main function of both requirements are highly similar, as they pertain to secure messaging and communication between patients and healthcare providers, including sending, receiving, replying to messages, and managing notifications. Document A provides more detailed descriptions of the features, but the core functionality is the same.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "3",
+          "similarity": 0.6010312640414952,
+          "decision": "Match",
+          "reason": "The topic/title and main function of both requirements are highly similar, as they pertain to secure messaging and communication between patients and healthcare providers, including sending, receiving, replying to messages, and managing notifications. Document A provides more detailed descriptions of the features, but the core functionality is the same."
+        },
+        {
+          "rank": 2,
+          "A_id": "19",
+          "similarity": 0.43379629104164213,
+          "decision": "No Match",
+          "reason": "The topics and functionalities described in the two requirements are unrelated. Document A focuses on patient information management, while Document B deals with secure messaging and communication between patients and healthcare providers."
+        },
+        {
+          "rank": 3,
+          "A_id": "12",
+          "similarity": 0.4277348678074248,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated; Document A focuses on login and security measures, while Document B revolves around secure messaging and communication features."
+        }
+      ]
+    },
+    "13": {
+      "title": "Personnel and Role Information Access",
+      "decision": "Match",
+      "best_match_toA": "18",
+      "reason": "The titles and descriptions are partially related in that they both involve personnel and data management, but the functionalities differ: Document A focuses on providing administrative functions for maintaining healthcare-related data, while Document B describes role-based access to information about personnel and healthcare roles without specifying administrative data management capabilities.",
+      "all_matches": [
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.5227422134509278,
+          "decision": "Match",
+          "reason": "The titles and descriptions are partially related in that they both involve personnel and data management, but the functionalities differ: Document A focuses on providing administrative functions for maintaining healthcare-related data, while Document B describes role-based access to information about personnel and healthcare roles without specifying administrative data management capabilities."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.5100773871377472,
+          "decision": "Match",
+          "reason": "The titles and topics partially overlap, both dealing with healthcare personnel and patient-related information, but Document A focuses primarily on patient data management, while Document B emphasizes role-based information access for healthcare personnel."
+        },
+        {
+          "rank": 1,
+          "A_id": "20",
+          "similarity": 0.5638156964930278,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as Document A is focused on patient data access and health information, while Document B addresses accessing information about healthcare roles and personnel."
+        }
+      ]
+    },
+    "14": {
+      "title": "ID Retrieval Services",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "The topics are partially related as both involve handling patient identifiers and user information, but Document B focuses specifically on identifier retrieval services, while Document A includes broader functionalities like editing, reviewing, and graphing patient data.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "19",
+          "similarity": 0.4826118660999198,
+          "decision": "Match",
+          "reason": "The topics are partially related as both involve handling patient identifiers and user information, but Document B focuses specifically on identifier retrieval services, while Document A includes broader functionalities like editing, reviewing, and graphing patient data."
+        },
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.46037132811909753,
+          "decision": "No Match",
+          "reason": "The topic and functionality described in the two requirements are entirely unrelated; Document A discusses administrator management, while Document B addresses identifier retrieval services."
+        },
+        {
+          "rank": 3,
+          "A_id": "14",
+          "similarity": 0.4178027035570596,
+          "decision": "No Match",
+          "reason": "The topic and description in Document A focus on error handling and prompting users to correct invalid inputs, while Document B centers around retrieving unique identifiers for different entities. These are unrelated functionalities."
+        }
+      ]
+    },
+    "15": {
+      "title": "Email Simulation Utility",
+      "decision": "Match",
+      "best_match_toA": "1",
+      "reason": "Both requirements involve the concept of fake email communication, but Document A focuses on adverse event reporting and interaction mechanisms, whereas Document B emphasizes a utility for testing fake emails, indicating an overlap in functionality but differing purposes and scope.",
+      "all_matches": [
+        {
+          "rank": 3,
+          "A_id": "1",
+          "similarity": 0.2651640736397954,
+          "decision": "Match",
+          "reason": "Both requirements involve the concept of fake email communication, but Document A focuses on adverse event reporting and interaction mechanisms, whereas Document B emphasizes a utility for testing fake emails, indicating an overlap in functionality but differing purposes and scope."
+        },
+        {
+          "rank": 1,
+          "A_id": "3",
+          "similarity": 0.34600782893467324,
+          "decision": "No Match",
+          "reason": "The topic and descriptions are entirely unrelated; Document A focuses on message communication functionalities, while Document B describes a testing utility for displaying simulated emails."
+        },
+        {
+          "rank": 2,
+          "A_id": "22",
+          "similarity": 0.3031724372316586,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated; Document A focuses on system testing in the context of user transactions for iTrust Medical Records, whereas Document B describes a utility for email simulation testing."
+        }
+      ]
+    },
+    "16": {
+      "title": "Drug Code and Interaction Management",
+      "decision": "Match",
+      "best_match_toA": "6",
+      "reason": "Both requirements focus on managing drug codes and their interactions, including the ability for administrators to review, record, and manage interactions. Even though Document B is broader and includes compliance aspects, the core functionality is the same.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "6",
+          "similarity": 0.7492633735585343,
+          "decision": "Match",
+          "reason": "Both requirements focus on managing drug codes and their interactions, including the ability for administrators to review, record, and manage interactions. Even though Document B is broader and includes compliance aspects, the core functionality is the same."
+        },
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.5212643166822453,
+          "decision": "Match",
+          "reason": "The requirements are partially related as both involve administrator management functions, specifically managing National Drug Codes (NDC). However, Document A covers broader functionalities like the addition/updating of medical codes and listings, while Document B explicitly focuses on drug codes and their interactions for safe prescription practices, indicating differences in scope and purpose."
+        },
+        {
+          "rank": 3,
+          "A_id": "17",
+          "similarity": 0.46918574308002836,
+          "decision": "Match",
+          "reason": "Both involve drug interactions and safety in prescriptions, but Document A focuses on allergy and interaction alerts during prescription, while Document B centers on administrative management of drug codes and interactions."
+        }
+      ]
+    },
+    "17": {
+      "title": "Database Display Tools",
+      "decision": "No Match",
+      "best_match_toA": "6",
+      "reason": "The topics and descriptions are unrelated. Document A focuses on managing drug interactions, while Document B provides tools for displaying and interacting with databases, which serve a different function and purpose.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "6",
+          "similarity": 0.31499308774597434,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated. Document A focuses on managing drug interactions, while Document B provides tools for displaying and interacting with databases, which serve a different function and purpose."
+        },
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.29912667352089767,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated. Document A focuses on administrator management functions including data maintenance for healthcare codes and personnel, while Document B describes tools for database display and interaction."
+        },
+        {
+          "rank": 3,
+          "A_id": "22",
+          "similarity": 0.27732356950434656,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated as one focuses on system testing in a medical records context and the other on database display utilities for interaction and maintenance."
+        }
+      ]
+    },
+    "18": {
+      "title": "Report Request Tracking",
+      "decision": "No Match",
+      "best_match_toA": "19",
+      "reason": "The topic and functionality described in Document A focus on managing detailed patient information and medical records, while Document B pertains specifically to tracking and managing report requests. These topics and functionalities are unrelated.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "19",
+          "similarity": 0.41737358624459875,
+          "decision": "No Match",
+          "reason": "The topic and functionality described in Document A focus on managing detailed patient information and medical records, while Document B pertains specifically to tracking and managing report requests. These topics and functionalities are unrelated."
+        },
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.4037711276734231,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated; Document A focuses on various administrator management functions related to healthcare data, while Document B pertains to tracking report requests and workflows."
+        },
+        {
+          "rank": 3,
+          "A_id": "1",
+          "similarity": 0.4006775457868401,
+          "decision": "No Match",
+          "reason": "The topic and description of the requirements are unrelated, as Document A focuses on adverse event reporting for drugs and immunizations, while Document B concerns tracking and managing report requests for healthcare workflows."
+        }
+      ]
+    },
+    "19": {
+      "title": "Visit Analytics Visualization",
+      "decision": "No Match",
+      "best_match_toA": "10",
+      "reason": "The titles and descriptions are unrelated, with Document A focusing on modifying and viewing records of office visits, while Document B focuses on visualizing visit data trends for analysis and decision-making purposes.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "10",
+          "similarity": 0.2902401418811036,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated, with Document A focusing on modifying and viewing records of office visits, while Document B focuses on visualizing visit data trends for analysis and decision-making purposes."
+        },
+        {
+          "rank": 2,
+          "A_id": "20",
+          "similarity": 0.23975874307226183,
+          "decision": "No Match",
+          "reason": "The topics and functions are unrelated; Document A focuses on patient data access and health history overview, while Document B addresses tools for administrators to visualize visit data analytics."
+        },
+        {
+          "rank": 3,
+          "A_id": "9",
+          "similarity": 0.23972309869334452,
+          "decision": "No Match",
+          "reason": "The topic and descriptions of the requirements are unrelated, as Document A focuses on appointment management while Document B is about visualizing visit data trends for analytics purposes."
+        }
+      ]
+    },
+    "20": {
+      "title": "Reminder Message Management",
+      "decision": "No Match",
+      "best_match_toA": "3",
+      "reason": "The topic and description of Document A focus on individual message communication between patients or LHCPs, while Document B is about administrators managing reminder messages for follow-ups and tracking. These functionalities are unrelated.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "3",
+          "similarity": 0.4338153910200808,
+          "decision": "No Match",
+          "reason": "The topic and description of Document A focus on individual message communication between patients or LHCPs, while Document B is about administrators managing reminder messages for follow-ups and tracking. These functionalities are unrelated."
+        },
+        {
+          "rank": 2,
+          "A_id": "7",
+          "similarity": 0.3586234042754755,
+          "decision": "No Match",
+          "reason": "The topics and functionalities of the requirements are unrelated. Document A focuses on referral management between HCPs, while Document B addresses managing reminder messages for communication tracking."
+        },
+        {
+          "rank": 3,
+          "A_id": "9",
+          "similarity": 0.35154536843940215,
+          "decision": "No Match",
+          "reason": "The topic and description of Document A (Appointment Management) and Document B (Reminder Message Management) are unrelated, as one focuses on scheduling and managing appointments while the other addresses managing reminder messages for communication tracking."
+        }
+      ]
+    },
+    "21": {
+      "title": "Demographics and Personnel Editing",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "The topics are partially related, as both requirements involve editing demographic and personal information. However, Document A focuses specifically on healthcare providers managing patient data with significant detail on medical and health-related functionalities, while Document B is broader and includes patients and staff editing general demographic data without healthcare-specific context.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "19",
+          "similarity": 0.5641950791369652,
+          "decision": "Match",
+          "reason": "The topics are partially related, as both requirements involve editing demographic and personal information. However, Document A focuses specifically on healthcare providers managing patient data with significant detail on medical and health-related functionalities, while Document B is broader and includes patients and staff editing general demographic data without healthcare-specific context."
+        },
+        {
+          "rank": 2,
+          "A_id": "18",
+          "similarity": 0.4561027643247875,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are entirely different. Document A focuses on administrator management functions related to medical records and permissions, while Document B deals with editing demographic and personal information for patients and staff."
+        },
+        {
+          "rank": 3,
+          "A_id": "10",
+          "similarity": 0.44191610367698436,
+          "decision": "No Match",
+          "reason": "The topics and core functionalities of the two items are unrelated. Document A focuses on managing office visit records and interactions with patient-specific data, while Document B is about editing demographic and personal information for user profiles and personnel records."
+        }
+      ]
+    },
+    "22": {
+      "title": "UAP Monitoring and Reference Information",
+      "decision": "Match",
+      "best_match_toA": "8",
+      "reason": "The two requirements are partially related in their focus on patient monitoring by UAPs, but Document A emphasizes detailed functionalities around physiologic data reporting and management, whereas Document B outlines a broader purpose of managing patient lists and accessing reference materials, with less emphasis on specific monitoring data types.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "8",
+          "similarity": 0.5723207138220454,
+          "decision": "Match",
+          "reason": "The two requirements are partially related in their focus on patient monitoring by UAPs, but Document A emphasizes detailed functionalities around physiologic data reporting and management, whereas Document B outlines a broader purpose of managing patient lists and accessing reference materials, with less emphasis on specific monitoring data types."
+        },
+        {
+          "rank": 2,
+          "A_id": "21",
+          "similarity": 0.4871062376300842,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated; Document A describes adding UAP accounts to a system, while Document B focuses on supporting UAPs with monitoring lists and reference materials for patient care."
+        },
+        {
+          "rank": 3,
+          "A_id": "20",
+          "similarity": 0.43879667257203225,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated; Document A focuses on patient data access and viewing health information, while Document B is about supporting UAPs with monitoring lists and reference materials for care delivery."
+        }
+      ]
+    },
+    "23": {
+      "title": "Patient Representative Management",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "Both requirements involve the management of patient representatives, but Document A covers broader healthcare provider functionalities—including managing patient health records—while Document B is focused specifically on managing representative information for advocacy and consent purposes.",
+      "all_matches": [
+        {
+          "rank": 2,
+          "A_id": "19",
+          "similarity": 0.49265898359789606,
+          "decision": "Match",
+          "reason": "Both requirements involve the management of patient representatives, but Document A covers broader healthcare provider functionalities—including managing patient health records—while Document B is focused specifically on managing representative information for advocacy and consent purposes."
+        },
+        {
+          "rank": 3,
+          "A_id": "5",
+          "similarity": 0.46132797209297804,
+          "decision": "Match",
+          "reason": "The topics of both requirements involve the management of patient-related information, with Document A focusing on prescriptions and Document B describing representative management. While there is partial overlap due to the involvement of patient representatives in Document A, the main functionalities differ significantly in scope and purpose."
+        },
+        {
+          "rank": 1,
+          "A_id": "20",
+          "similarity": 0.4938904633790782,
+          "decision": "No Match",
+          "reason": "The topics are unrelated; Document A primarily focuses on accessing patient and family health data, while Document B deals with managing patient representative information for advocacy and consent purposes."
+        }
+      ]
+    },
+    "24": {
+      "title": "Provider Consultation Recording",
+      "decision": "Match",
+      "best_match_toA": "10",
+      "reason": "The titles and functionalities are partially related as both involve recording and managing healthcare-related interactions, but Document A focuses on patient office visit records, while Document B emphasizes consultations between providers for shared decision-making, which differs significantly in scope and purpose.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "10",
+          "similarity": 0.42938630220868856,
+          "decision": "Match",
+          "reason": "The titles and functionalities are partially related as both involve recording and managing healthcare-related interactions, but Document A focuses on patient office visit records, while Document B emphasizes consultations between providers for shared decision-making, which differs significantly in scope and purpose."
+        },
+        {
+          "rank": 2,
+          "A_id": "7",
+          "similarity": 0.4103387569161676,
+          "decision": "Match",
+          "reason": "The titles and core functionalities partially overlap as both focus on interactions between healthcare providers; however, Document A is more specific to referral management, while Document B focuses broadly on recording and managing consultations, showing differences in scope and purpose."
+        },
+        {
+          "rank": 3,
+          "A_id": "19",
+          "similarity": 0.40860327759803955,
+          "decision": "Match",
+          "reason": "The topics are partially related as both involve healthcare providers and patient information management, but the purpose and scope differ significantly. Document A focuses on managing patient records and demographics, whereas Document B emphasizes consultation documentation and shared decision-making between providers."
+        }
+      ]
+    },
+    "25": {
+      "title": "Utility Testing Module",
+      "decision": "Match",
+      "best_match_toA": "22",
+      "reason": "The titles and descriptions of both requirements are partially related as they both deal with testing, but differ significantly in scope—Document A focuses on system testing with user operational profiles, while Document B emphasizes utility testing tools for debugging or validation.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "22",
+          "similarity": 0.40347316735045247,
+          "decision": "Match",
+          "reason": "The titles and descriptions of both requirements are partially related as they both deal with testing, but differ significantly in scope—Document A focuses on system testing with user operational profiles, while Document B emphasizes utility testing tools for debugging or validation."
+        },
+        {
+          "rank": 2,
+          "A_id": "8",
+          "similarity": 0.2126077843559498,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated; Document A focuses on patient vital signs monitoring features, while Document B describes a utility testing module primarily for debugging or validation in system testing."
+        },
+        {
+          "rank": 3,
+          "A_id": "15",
+          "similarity": 0.20545931536080198,
+          "decision": "No Match",
+          "reason": "The topics and functionalities described in Document A and Document B are unrelated. Document A focuses on lab procedure management in a healthcare context, while Document B pertains to utility testing tools for debugging or validating system behavior."
+        }
+      ]
+    },
+    "26": {
+      "title": "Emergency Room Interface",
+      "decision": "Match",
+      "best_match_toA": "19",
+      "reason": "The titles and descriptions partially overlap as both involve healthcare provider interfaces and functionalities, but Document A focuses on comprehensive patient information management while Document B specifically targets emergency-related tools and interfaces, indicating differences in scope and purpose.",
+      "all_matches": [
+        {
+          "rank": 2,
+          "A_id": "19",
+          "similarity": 0.4657525917518354,
+          "decision": "Match",
+          "reason": "The titles and descriptions partially overlap as both involve healthcare provider interfaces and functionalities, but Document A focuses on comprehensive patient information management while Document B specifically targets emergency-related tools and interfaces, indicating differences in scope and purpose."
+        },
+        {
+          "rank": 1,
+          "A_id": "8",
+          "similarity": 0.46722990133131787,
+          "decision": "No Match",
+          "reason": "The titles and descriptions address entirely different topics and functionalities. Document A discusses patient vital signs monitoring, while Document B describes an interface for emergency room management."
+        },
+        {
+          "rank": 3,
+          "A_id": "9",
+          "similarity": 0.4211113344308788,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated; Document A focuses on appointment management and scheduling, while Document B describes an interface for emergency room functionalities."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "Coverage Ratio (CR)": 0.7727272727272727,
+    "Generated Match Ratio (GMR)": 0.8148148148148148,
+    "Matched Reference Requirement Count": 17,
+    "Matched Generated Requirement Count": 22,
+    "Reference Requirement Count": 22,
+    "Generated Requirement Count": 27,
+    "Matched Reference Requirement IDs": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "Matched Generated Requirement IDs": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26"
+    ]
+  }
+}

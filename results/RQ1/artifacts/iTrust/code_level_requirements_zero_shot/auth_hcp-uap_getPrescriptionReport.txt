@@ -1,0 +1,13 @@
+The system provides a way for healthcare professionals to retrieve and view a patient's prescription report. From the user perspective, here's how the interaction occurs:
+
+1. When a healthcare professional wants to access a patient's prescription information, they start by visiting the Prescription Report section of the application.
+
+2. If they have not yet selected a patient, the system redirects them to a screen where they can enter or verify a patient ID. This ensures that reports are tailored to the correct individual.
+
+3. Once a patient ID is selected, the system retrieves the relevant patient's prescription details. This information includes the medication code, description, the duration for which the medication is prescribed, and the healthcare provider who issued the prescription.
+
+4. If there are no prescriptions available for the selected patient, the system notifies the user with an appropriate message indicating that no prescriptions were found.
+
+5. If prescriptions do exist, they are displayed in a structured table format, clearly showing the details mentioned above for each prescription.
+
+6. Users can easily understand the medication history for the patient they are reviewing, assisting in ongoing patient care and allowing for informed decision-making regarding future treatment plans.

@@ -1,0 +1,12 @@
+As a patient using this system, you can report any adverse reactions or issues experienced with prescribed medications by following these steps:
+
+1. Navigate to the page for reporting an adverse event.
+2. In the provided text area, describe the incident or reaction, providing as much detail as possible about the adverse event.
+3. Submit your report through the "Save" button.
+
+Upon submission:
+- If you have multiple linked healthcare providers (HCPs), each HCP who prescribed medication involved in the event will receive a report. You can specify which provider to notify if applicable.
+- The system will document the details of the adverse event, including the medication, prescribing provider, and your description.
+- Notifications may be sent to healthcare providers to keep them informed and enable follow-up actions.
+
+This process ensures that adverse events are recorded and communicated effectively to the relevant healthcare professionals, helping to address the issue and maintain patient safety.

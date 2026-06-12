@@ -1,0 +1,7 @@
+As a healthcare provider using this system, you would:
+
+Log in to your account and navigate to the section where you can view messages sent to you. These messages could be from patients or other healthcare professionals.
+Upon accessing the page, you'll see a list of all your received messages if there are any. This page provides an overview, showing the sender, content of the message, and the date when it was received.
+If you have messages, you can choose to reply to each message by clicking the 'Reply' link provided. This will take you to a page where you can compose and send your reply.
+If you have no messages, the system will clearly indicate that your inbox is empty.
+The system supports efficient communication by allowing you to view and respond to messages quickly, maintaining clear communication with patients and colleagues in a healthcare setting.

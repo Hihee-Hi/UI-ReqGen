@@ -1,0 +1,1 @@
+When permission is granted to UAV in the {{AWAITING_TAKEOFF_CLEARANCE}} state it transitions to {{TAKING_OFF}} state.

@@ -1,0 +1,7 @@
+As a healthcare professional using this system, you can monitor adverse events related to prescriptions and immunizations. To begin, you input a start and end date to define the reporting period. Depending on whether you want reports for prescriptions or immunizations, clicking the respective button fetches adverse event reports for that category during the specified period.
+
+The retrieved results display information including the associated drug or immunization, the reporter's name, the event date, and additional details. If adverse events are grouped under specific medications or codes, you can easily view a chart showing reports over time for each group.
+
+By selecting the "Get Details" option for a specific event, you can access more in-depth information about that adverse event. Additionally, if multiple events are associated with a particular drug or code, you can view related statistical charts via the link provided.
+
+If no adverse events are reported for the selected period, the system informs you accordingly. This functionality helps healthcare professionals monitor and analyze adverse events effectively, offering insights that aid in decision-making and patient safety initiatives.

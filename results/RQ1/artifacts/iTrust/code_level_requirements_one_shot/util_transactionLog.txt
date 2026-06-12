@@ -1,0 +1,5 @@
+This system provides a testing utility primarily meant for administrators or testers to view logged transactions. As a user with access to this feature, you would:
+
+Visit the testing utility page, where a table displays all transaction records. Each record includes details such as the timestamp of the transaction, its unique ID, type, the ID of the user who performed the action, the ID of another related user (if applicable), and any additional information associated with that transaction. 
+
+These details are presented in an organized tabular format to enable easy review and analysis. You can use this tool to monitor and verify system activities or debug issues as part of the testing process. When you're finished reviewing transaction logs, you can click on a provided link to return to the main system interface.

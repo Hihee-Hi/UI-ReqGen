@@ -1,0 +1,1 @@
+When a UAV is {{IN_AIR}} state and is assigned a flight plan to execute it transitions to {{FLYING}}

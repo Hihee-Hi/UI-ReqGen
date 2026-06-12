@@ -1,0 +1,7 @@
+This system is designed for users involved in planning and managing flight routes, particularly for drones. From the perspective of a user, it allows you to interact with a map to plot and visualize flight routes effectively. You can add new waypoints or pins at specific locations on the map or insert them between existing waypoints. When a waypoint is added or removed, the map automatically updates the visual route, ensuring an accurate representation of the planned path.
+
+You can easily remove waypoints from the map or clear all waypoints to start over. The system helps to distinguish between different waypoint markers using color codes, with the first waypoint shown in green, the last in red, and intermediate ones in blue.
+
+Additionally, you have the ability to visualize the connections between these waypoints using lines. These lines change their appearance based on specific conditions, such as route selection and the flight progress of the drone, thereby offering real-time insights into the flight route and status.
+
+Moreover, if route adjustments are necessary, you can enable an editable mode that allows rearranging or altering waypoints to accommodate changes in the flight plan. This flexible and interactive approach ensures comprehensive control over the flight route management process, supporting efficient drone operations planning.

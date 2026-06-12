@@ -1,0 +1,13 @@
+As a patient or their designated representative using this system, you would:
+
+Be able to report telemedicine data such as blood pressure (systolic and diastolic) and glucose levels. If you are a patient, you can report your own data, or you may report data for someone you represent, such as a family member.
+
+Simply input the relevant physiological data values into the provided fields and submit the information using the form.
+
+If you are a representative, you can select the patient for whom you're reporting from the list displayed, allowing you to manage the health data of multiple individuals efficiently.
+
+Upon submission, the system records and stores the data securely, ensuring accurate tracking for remote monitoring purposes.
+
+Any mistakes or incorrect entries, such as non-numeric values, will trigger error messages, allowing you to correct any issues before resubmitting the information.
+
+Through this process, you can ensure that both your own and represented individuals' health metrics are up to date and available for remote health tracking.

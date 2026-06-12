@@ -1,0 +1,1 @@
+"Provides map functionality for displaying routes and UAVs  leveraging off-the-shelf map providers (such as OSM and google maps).   "

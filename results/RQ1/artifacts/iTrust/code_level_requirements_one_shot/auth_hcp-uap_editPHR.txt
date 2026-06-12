@@ -1,0 +1,24 @@
+As a healthcare provider, you would use this system to manage and update comprehensive details of a patient's personal health record. 
+
+You can begin by retrieving the patient's profile and confirming their identity. Once on the patient's page, you can:
+- Review and verify the patient's general information, such as name, address, phone number, and email.
+- Access and update the patient's insurance details, including provider name, address, and contact information.
+- View or modify the patient's most recent basic health records, including height, weight, smoking status, blood pressure, and cholesterol levels. For historical data, you can navigate to the patient's health record history.
+- Explore the patient's medical visit history and view details of previous office visits. Links are provided for accessing and editing individual office visits.
+- Generate a prescription report for the patient if needed.
+
+For the patient's family medical history, you can:
+- View any recorded family members and their medical conditions such as high blood pressure, diabetes, and other chronic diseases.
+- Link to or switch to a family member's records for more details.
+
+In managing allergies:
+- View a list of known allergies and their original discovery dates.
+- Add new allergies directly through a form on the page.
+
+To assess potential health risks:
+- Use the tool provided to evaluate the patient's risk factors for chronic diseases. A detailed list of risks and links for further information are made visible upon request.
+
+For immunizations:
+- Inspect a record of immunizations the patient has received, with information such as the procedure code, description, and date received. Links are available for editing any related office visit containing immunization details.
+
+This system is designed to offer a centralized repository for all key aspects of a patient's health records, streamlining management and ensuring all information is up to date and easily accessible.

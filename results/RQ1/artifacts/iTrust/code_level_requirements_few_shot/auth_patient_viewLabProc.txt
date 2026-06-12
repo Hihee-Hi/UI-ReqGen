@@ -1,0 +1,5 @@
+As a patient using this system, you would:
+Log in to view your laboratory procedures ordered by your healthcare provider. 
+You can see detailed information about each lab procedure, including its lab code, current status, any commentary provided by the healthcare professionals, the results, the related office visit ID, and when the procedure was last updated. 
+If you do not select a specific procedure ID from your list, you'll be redirected to your calendar view where you can schedule or view appointments. 
+This system allows you to efficiently track your lab results and stay informed on your healthcare journey.

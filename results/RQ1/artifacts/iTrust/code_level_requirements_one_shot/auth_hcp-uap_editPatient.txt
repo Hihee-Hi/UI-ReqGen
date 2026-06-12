@@ -1,0 +1,13 @@
+As a healthcare provider (HCP) using this system, you will:
+
+1. Start by accessing the patient’s profile that you wish to edit. If you don't already have the patient's identifier, the system will guide you to enter the patient's ID.
+2. Once you have access to the patient's profile, you can update various details including:
+   - Personal Information: Modify fields such as the patient's first name, last name, email, physical address, phone number, and parental medical IDs.
+   - Financial Data: Adjust the credit card type and number associated with the patient.
+   - Insurance Information: Update the insurance provider's details including name, address, phone number, and insurance ID.
+   - Emergency Contact: Update the emergency contact's name and phone number.
+   - Health Information: You can modify the patient's ethnicity, blood type, gender, date of birth, date of death (if applicable), cause of death, and any relevant topical notes.
+3. After entering the necessary information, submit the form to update the patient’s records. If the update is successful, you will see a confirmation message stating "Information Successfully Updated."
+4. Note that you must use the "Reset Password" feature available on the login page if you need to set a new password for the patient.
+
+This process ensures that patient information remains current and comprehensive, which is crucial for providing effective healthcare services.

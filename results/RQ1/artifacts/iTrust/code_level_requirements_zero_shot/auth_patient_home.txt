@@ -1,0 +1,9 @@
+As a patient using this healthcare system, you can stay informed and manage your healthcare activities effectively from your home page. When you log into the system, you'll be greeted with a welcome message displaying your name. The system offers announcements and notifications to help you engage actively with your healthcare services. 
+
+You'll be notified about surveys that need your attention, specifically after recent office visits, which you can complete to provide feedback about your experience. This ensures that your healthcare providers understand your satisfaction level and can improve services accordingly. The system also keeps a history of your report requests, allowing you to easily track their status and information online.
+
+You can view completed lab procedures, both your own and those for whom you may be representing, in the past month. This allows you to keep track of medical tests and their results efficiently without needing numerous follow-ups.
+
+In addition, there is an alert for any unauthorized access to your medical records by personnel, enhancing transparency and security. This ensures that your sensitive health data is accessed only by designated individuals. You will be informed of any accesses in the last three months and can take appropriate action if necessary. 
+
+Overall, this system is designed to help you engage with your healthcare needs more directly and conveniently, ensuring that you remain informed and involved in critical aspects of your health management.

@@ -1,0 +1,1 @@
+Each movement command shall specify one of the following command types: {{GOTO_WAYPOINT  SET_GROUNDSPEED  SET_VELOCITY  TAKEOFF  LAND  HOVER}}

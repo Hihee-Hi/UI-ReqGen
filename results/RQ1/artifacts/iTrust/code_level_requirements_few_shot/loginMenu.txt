@@ -1,0 +1,5 @@
+As a user accessing this system, to log in, you would:  
+- Enter your unique MID and password into the given fields on the login screen.  
+- Submit this information to gain access to the system.  
+- If you have forgotten your password, you can follow the password reset link to recover it.  
+You will be directly navigated to the correct input field to ensure a streamlined login experience. This login interface helps ensure secure access to the system based on your credentials.

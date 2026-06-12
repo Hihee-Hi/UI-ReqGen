@@ -1,0 +1,6 @@
+As an administrator utilizing this system, you would:  
+Fill out the form with the personnel's first name, last name, and email address when adding a new Public Health Authority (PHA).  
+Submit the information, and the system will automatically create a new personnel profile and assign a unique identifier, known as a Medical ID (MID), to the individual.  
+The system will generate a temporary password for the newly added personnel, which you can ensure reaches them for accessing their account securely.  
+After the addition, a confirmation message will display the MID and temporary password of the new PHA. You can then proceed to manage or edit their personnel details further on another page.  
+This process is streamlined to ensure accuracy in personnel management and immediately enable account creation for Public Health Authorities within the organization.

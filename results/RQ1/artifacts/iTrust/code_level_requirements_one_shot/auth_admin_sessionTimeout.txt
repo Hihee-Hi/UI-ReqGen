@@ -1,0 +1,7 @@
+As an administrator using this system, you would:
+
+Specify the session timeout interval by entering the desired number of minutes into a form. This interval determines how long an account can remain inactive before needing to re-authenticate. The minimum timeout interval is 1 minute.
+
+Submit the form to update the session timeout setting. Once the timeout is successfully changed, a confirmation message will inform you that changes will take effect upon the next authentication.
+
+This allows you to customize and enforce security measures by controlling inactive session durations across user accounts.

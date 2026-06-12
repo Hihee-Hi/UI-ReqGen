@@ -1,0 +1,1 @@
+As an Emergency Room (ER) personnel using this system, you would navigate through the menu to access the Emergency Patient Report to efficiently manage patient information related to emergency cases. This option allows you to quickly retrieve critical patient data and reports, aiding in providing timely and effective emergency care services.

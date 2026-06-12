@@ -1,0 +1,13 @@
+The system allows healthcare professionals to manage and edit a patient's personal health records. When users, likely health professionals, log into the system, they can review and update a patient's health information, such as personal details, insurance information, allergies, basic health records, office visit history, family medical history, and immunizations.
+
+Users can switch between different patient profiles through navigation options, either by selecting from a list of relatives or directly entering a patient ID. If a patient ID is not specified, the system redirects to a page requesting the user to input one.
+
+The interface provides detailed patient information, including name, contact details, and insurer information. Users can edit patient details, view or update health records like height, weight, and smoking status, and track vital statistics such as blood pressure and cholesterol levels.
+
+Office visits are documented with dates users can click to edit details, and the system allows generating prescription reports. Family medical history is also reviewed, indicating any occurrences of diseases among family members, categorized by conditions like heart disease, diabetes, and high cholesterol.
+
+Users can input new allergies directly into the system and note when these allergies were first identified. The system reviews chronic disease risks with options to explore more about these risks. Users can click on a button to reveal these risks.
+
+The immunization section outlines vaccines the patient has received, with links to edit/verify each procedure within their respective office visit records.
+
+Throughout these interactions, healthcare professionals streamline the management of detailed patient health records, ensuring updated and accurate data that aligns with healthcare regulations and practices.

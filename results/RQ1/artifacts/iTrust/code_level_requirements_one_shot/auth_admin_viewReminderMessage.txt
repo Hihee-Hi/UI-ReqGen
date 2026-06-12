@@ -1,0 +1,15 @@
+As an administrator using this system, you would:
+
+Open the "View Reminder Message" interface, where details of a specific message can be reviewed. Messages are typically reminders sent to other users.
+
+When accessing the page, the system checks if a specific message has been selected through the message ID provided. If no message ID is found, or if there's an error in the input, you are redirected to the appropriate outbox or inbox page to make a valid selection.
+
+Once a valid message is identified, the system retrieves and displays the following details:
+- The recipient's name (using the message's subject to identify the recipient's ID and name).
+- The subject of the message after removing any ID identifiers.
+- The date and time when the message was initially sent.
+- The full body content of the message.
+
+The system also marks the message as "read," ensuring accurate tracking of message statuses.
+
+This process provides you with a streamlined way to access, review, and manage reminder messages sent from your account while maintaining clarity in the communication workflow.

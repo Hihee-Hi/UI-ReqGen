@@ -1,0 +1,17 @@
+[
+    {
+      "id": "SR-01",
+      "title": "Drone Flight Route Management",
+      "description": "Users can create, edit, and manage flight routes for drones, including adding, modifying, and deleting waypoints. The system provides tools for inputting specific details like altitude and speed, and ensures data accuracy through validation and confirmation prompts. Routes can be organized in a list or map view for easy navigation and management."
+    },
+    {
+      "id": "SR-02",
+      "title": "Drone Monitoring and Control",
+      "description": "The system provides a comprehensive interface for monitoring and controlling active drone flights. Users can view real-time status, manage flight operations, and execute emergency commands such as returning drones to base or hovering. The interface supports both individual and group drone management, enhancing operational efficiency and safety."
+    },
+    {
+      "id": "SR-03",
+      "title": "User Interface and Interaction",
+      "description": "The system offers a user-friendly interface with features like drag-and-drop for route management, interactive map views, and customizable settings. Users can switch between different views, receive notifications, and interact with visual elements to manage drone operations effectively. The interface is designed to enhance user experience and operational efficiency."
+    }
+ ]

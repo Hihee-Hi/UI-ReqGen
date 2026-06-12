@@ -1,0 +1,7 @@
+As a patient accessing this system, you would:  
+Log into your personalized dashboard to review important health-related information and updates.  
+You would receive notifications and reminders about incomplete surveys from your recent office visits, with direct links provided to complete them if needed.  
+Check any ongoing or previous report requests to track their status.  
+View recent lab procedures performed during the last month, including detailed results, both for yourself and any patients you are authorized to represent.  
+Receive alerts about any unauthorized access to your medical records, specifying the personnel responsible and the date of access within the last 90 days.  
+This user-friendly system enables you to actively manage your healthcare by ensuring you are aware of and can respond to any incomplete tasks, maintain oversight of your health information, and secure your medical data from undue access.

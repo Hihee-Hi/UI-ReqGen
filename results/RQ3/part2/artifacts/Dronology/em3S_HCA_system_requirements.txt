@@ -1,0 +1,67 @@
+[
+    {
+        "id": "0",
+        "title": "Active Flights Management",
+        "description": "Allow users to manage and track active flights, including controlling flight operations, handling mission activities, and monitoring flight status in real-time. The system should support dragging and updating flight layouts, as well as interacting with flight components like mission handlers and flight controls."
+    },
+    {
+        "id": "1",
+        "title": "Splash and Loading Screens",
+        "description": "Implement splash screens and loading windows to provide a smooth user experience when the application is initializing or performing long-running tasks, such as data loading or processing."
+    },
+    {
+        "id": "2",
+        "title": "Flight Route Management",
+        "description": "Enable users to create, edit, and visualize flight routes with functionalities such as adding markers, dragging routes, clicking on polylines, and managing waypoints. Provide intuitive controls for interacting with the map and modifying route details."
+    },
+    {
+        "id": "3",
+        "title": "Route and Waypoint Deletion Confirmation",
+        "description": "Prompt users with confirmation dialogs before they delete flight routes or waypoints, ensuring that any unsaved changes are either discarded or saved based on user input."
+    },
+    {
+        "id": "4",
+        "title": "Flight Information and Controls",
+        "description": "Provide a set of tools for managing flight data, displaying flight status, and interacting with the map. This includes components for monitoring UAV status, controlling flight routes, and displaying information panels and maps."
+    },
+    {
+        "id": "5",
+        "title": "Flight Route Setup and Navigation",
+        "description": "Allow users to set up and navigate flight routes, including adding new routes, controlling their visibility, and adjusting their parameters. Users should be able to interact with route components like information boxes, main layouts, and meta information."
+    },
+    {
+        "id": "6",
+        "title": "Emergency Flight Operations",
+        "description": "Provide emergency flight control options, allowing users to trigger emergency procedures or override normal flight operations in case of a critical situation."
+    },
+    {
+        "id": "7",
+        "title": "Takeoff Altitude Configuration",
+        "description": "Enable users to define and set the takeoff altitude for flights, ensuring that all operations respect predefined altitude limits for safety and control."
+    },
+    {
+        "id": "8",
+        "title": "Notifications System",
+        "description": "Integrate a notification system to inform users about important events or status changes, providing timely and relevant alerts to support decision-making."
+    },
+    {
+        "id": "9",
+        "title": "Layer Management",
+        "description": "Allow users to manage and configure map layers, facilitating better visualization and interaction with flight-related data."
+    },
+    {
+        "id": "10",
+        "title": "Map Visualization and Interaction",
+        "description": "Support detailed map visualization and interaction, providing tools to integrate map data, visualize flight routes, and interact with various map layers to enhance user experience."
+    },
+    {
+        "id": "11",
+        "title": "Yes/No Confirmation Dialogs",
+        "description": "Provide yes/no confirmation dialogs for critical user decisions, ensuring that users can confirm their actions before proceeding with irreversible changes."
+    },
+    {
+        "id": "12",
+        "title": "Map Marker Interaction",
+        "description": "Enhance user interaction with map markers by providing mouse-over and mouse-out events, allowing users to receive visual feedback and make precise adjustments to marker positions."
+    }
+]

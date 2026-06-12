@@ -1,0 +1,11 @@
+As a user viewing your sent messages, you would:  
+1. Access your sent message outbox, which displays a list of previously sent messages.  
+2. Optionally click on a "Compose a Message" link to create a new message if needed.  
+3. Use sorting options provided to organize the list of sent messages based on:  
+   - Recipient's name (in ascending or descending order).  
+   - Time the message was sent (in ascending or descending order).  
+4. Browse the sent messages, which show details such as the recipient's name, the subject of the message, and the date sent.  
+5. Click on a "Read" link next to any message to view its content in detail.  
+6. If there are no sent messages in your outbox, you'll simply see a message indicating that you have no messages.  
+
+This process helps you effectively manage and monitor messages you’ve sent.

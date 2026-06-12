@@ -1,0 +1,1 @@
+As a registered employee using this system, you would access your personal profile information. Once logged in, you will see your profile picture and basic details such as your full name and location, including the city and state you are based in. This feature helps you verify and review your personal information easily.

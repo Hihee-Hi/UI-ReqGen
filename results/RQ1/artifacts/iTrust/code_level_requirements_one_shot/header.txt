@@ -1,0 +1,7 @@
+As a user accessing this system, you will initially see a personalized header that reflects your role and login status. The top section displays a navigation bar with links such as "Home," and depending on your role and session validity, an "Information" link for quick access to relevant details. Your username is prominently shown, and there's a convenient "Logout" option to exit the session securely.
+
+The left-hand side houses a dynamic menu tailored to your role. For instance, patients will see options specific to their healthcare needs, while healthcare professionals, administrative staff, or testers will have menus corresponding to their responsibilities. If you're not logged in, you'll either encounter a privacy policy option or a login prompt.
+
+At the heart of the page lies the main content area, flanked by left and right borders that adjust automatically for optimal viewing. If there's a system error or message meant for you, it will be displayed prominently at the top of this section in a clear and attention-grabbing manner.
+
+This interface ensures a seamless, role-specific experience, while keeping critical actions and notifications accessible at all times.

@@ -1,0 +1,11 @@
+As an administrator using this system, you can manage CPT procedure codes, which are standardized medical procedure identifiers. Here's how you interact with the system: 
+
+1. You can add a new CPT procedure code by providing a unique code, a description of the procedure, and indicating whether it is related to immunization. Once you input this information into the form and click "Add Code," the system will process the details, validate the input, and add the procedure to the code list if all criteria are met.
+
+2. You can update an existing CPT procedure code by selecting it from the current list. When you click on a listed code, the form automatically populates with its existing details (code and description). You can update the description or change the immunization status. After making updates, clicking "Update Code" will modify the procedure details.
+
+3. The system displays all active CPT codes in a table, showing their code, description, and whether they pertain to immunizations. You can view details of a code by clicking on its description.
+
+4. If any input you provide fails validation or encounters issues, the system will display an error message at the top of the page, guiding you to resolve the problem.
+
+This process simplifies the management of procedure codes, supporting accurate updates and additions while ensuring compliance with data integrity rules.

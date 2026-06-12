@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0",
+    "title": "Splash Screen and Waiting Window",
+    "description": "Display a splash screen during the initial load and provide a waiting window for users while the system processes tasks."
+  },
+  {
+    "id": "1",
+    "title": "Active Flight Management",
+    "description": "Allow users to manage active drone flights, including controlling flight operations, interacting with the flight map, and monitoring UAV status and flight information."
+  },
+  {
+    "id": "2",
+    "title": "Emergency Handling and Action Execution",
+    "description": "Provide emergency flight handling features and the ability to execute drone control actions in critical situations, along with relevant flight information displays."
+  },
+  {
+    "id": "3",
+    "title": "Mission Operations and Management",
+    "description": "Manage and operate drone missions, including the planning and execution of flight routes and the handling of mission tasks."
+  },
+  {
+    "id": "4",
+    "title": "Flight Route Management",
+    "description": "Allow users to edit, display, and manage flight routes on maps, including adding and manipulating waypoints and markers on the flight route."
+  },
+  {
+    "id": "5",
+    "title": "Flight Route Control and Meta Information",
+    "description": "Provide control components for flight routes, including route information panels, and display meta-information related to flight routes and waypoints."
+  },
+  {
+    "id": "6",
+    "title": "Notifications",
+    "description": "Display notifications to the user regarding system status, updates, and actions taken during drone operations."
+  },
+  {
+    "id": "7",
+    "title": "Takeoff Altitude Settings",
+    "description": "Provide a window for setting and managing takeoff altitude during flight operations."
+  },
+  {
+    "id": "8",
+    "title": "Layer Management",
+    "description": "Manage and display different layers of information on maps, allowing users to toggle between various visual data layers."
+  },
+  {
+    "id": "9",
+    "title": "Map Factory and Constants",
+    "description": "Provide a map factory for generating maps and constants for map-related settings in the system."
+  },
+  {
+    "id": "10",
+    "title": "Route and Waypoint Deletion Confirmations",
+    "description": "Provide confirmation windows for users before deleting routes or waypoints, ensuring the user is aware of any unsaved changes or deletions."
+  },
+  {
+    "id": "11",
+    "title": "Yes/No Confirmation Window",
+    "description": "Provide a confirmation window that asks the user for a yes/no response to certain actions or decisions within the system."
+  }
+]

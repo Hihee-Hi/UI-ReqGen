@@ -1,0 +1,1 @@
+As a pharmacy administrator (PHA) using this system, you will see your personal information displayed, such as your name and location. A profile picture, if available, will accompany these details. This provides a quick reference to ensure your data is accurately registered in the system.

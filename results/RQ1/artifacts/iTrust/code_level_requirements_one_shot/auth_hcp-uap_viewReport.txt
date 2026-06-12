@@ -1,0 +1,18 @@
+This system allows healthcare providers to generate and view detailed comprehensive reports for their patients. As a provider, here's how you interact with the system:
+
+You start by selecting a patient and a specific report request. Once selected, the system retrieves relevant details about the patient and organizes them into comprehensive categories.
+
+The report includes the following:
+1. **Personal Information**: Basic identification details like full name, address, phone number, and email.
+2. **Insurance Details**: Information about the patient’s insurance carrier, payment information, and contact details.
+3. **Health Records**: Data on various health metrics, including blood pressure, cholesterol levels, weight, height, and smoking status, along with the medical personnel responsible for recording these details.
+4. **Diagnoses**: Details of any medical diagnoses the patient has received, categorized by visit ID, ICD code, and a description.
+5. **Healthcare Providers**: A list of healthcare professionals designated for the patient.
+6. **Allergies**: A summary of known patient allergies and their identification dates.
+7. **Procedures**: Medical procedures performed on the patient, categorized by visit ID, codes, and descriptions.
+8. **Prescriptions**: Details about medications prescribed, including the duration of the prescription, dosage, and instructions.
+9. **Office Visits**: Records of the patient's medical visits, including dates, healthcare professionals, hospital IDs, and notes from the meeting.
+10. **Family Connections**: A list of known family members along with the relationship type.
+11. **Representation Links**: Information about other patients the current patient represents or is represented by.
+
+This report serves as a centralized and easy-to-read document for overseeing patient history and current status comprehensively. It enables informed decision-making for monitoring health progress, identifying trends, and providing tailored care approaches. Providers can access this compiled data seamlessly to understand the patient's medical history and connections at a glance.

@@ -1,0 +1,5 @@
+As a user accessing a web system that handles black-box testing documentation, you would:
+View a structured list of test cases based on user roles. For each role in the system, you can see an organized table containing detailed information about test scenarios.
+For each test, you are presented with important details such as the test ID, a description of the test, expected and actual results, the associated use case, the role responsible for the test, and the dates when the test was added and last modified.
+Navigate quickly to any role-specific test details using a floating menu on the page labeled "Table of Contents," which includes links for quick access to information relevant to each role.
+This system supports efficient documentation review and management by providing clear visibility of testing activities and outcomes related to various roles within the organization, enhancing quality assurance processes.

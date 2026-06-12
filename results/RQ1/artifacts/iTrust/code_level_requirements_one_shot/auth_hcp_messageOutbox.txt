@@ -1,0 +1,11 @@
+As a healthcare provider using this system, you would:
+
+Access your personal message outbox to review all messages you have sent. The system displays the messages clearly, including details such as the recipient's name, the subject of the message, and the date it was sent.
+
+If you have sent many messages, you can sort and organize them either by the recipient's name or the time the message was sent. When sorting, you can choose to display the messages in either ascending or descending order for better clarity and navigation.
+
+For each message, there is an option to read its full content, providing an easy way to revisit and review any message you have dispatched.
+
+If the outbox is empty, the system will display a message indicating that no messages are available.
+
+Additionally, you’ll have a convenient link to compose a new message directly from the outbox, allowing seamless transitions between reviewing your communications and initiating new ones.

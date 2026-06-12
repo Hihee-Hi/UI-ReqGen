@@ -1,0 +1,1 @@
+When detailed information is requested by the user for a UAV  the UI shall request the UAV_Data object from the _UIMiddleware_.

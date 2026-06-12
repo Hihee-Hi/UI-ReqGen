@@ -1,0 +1,4 @@
+As a user utilizing this system, you would:
+Interact with a logout menu that provides a straightforward option to log back into the main iTrust system.
+Click on the provided link to navigate back to the iTrust login page, allowing you to initiate a new session as needed.
+This ensures ease of access and a seamless transition back to the system after logging out, providing a convenient user experience for re-authentication.

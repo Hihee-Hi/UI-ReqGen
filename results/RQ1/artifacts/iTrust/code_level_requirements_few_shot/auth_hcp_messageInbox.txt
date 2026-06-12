@@ -1,0 +1,11 @@
+As a healthcare provider using this system, you can manage and interact with your message inbox effectively. Here's how you can use this feature:
+
+View your list of messages, which will be displayed in a table format showing the sender, subject, and received date of each message. Unread messages will appear in bold to distinguish them from those you have already read.
+
+You have the option to sort these messages by sender name or received time in ascending or descending order, making it easier to find specific messages or see the latest communications first.
+
+If you want to focus on certain messages or hide others, you can use the filtering options. Filters can be created based on criteria such as sender, subject, specific words the message should or should not contain, and date periods. You can edit and test these filters before saving them, which helps you control which messages are shown in your inbox.
+
+For each message, you can click a "Read" link that will take you to a detailed view of the message, where you can read the full content of the communication.
+
+These tools help you efficiently manage communication within the healthcare system, ensuring you can stay on top of important information while minimizing clutter.

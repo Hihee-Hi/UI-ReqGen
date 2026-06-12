@@ -1,0 +1,319 @@
+{
+  "results": {
+    "0": {
+      "title": "Active Flights Management",
+      "decision": "Match",
+      "best_match_toA": "105",
+      "reason": "Both requirements describe managing and interacting with UAVs and flight data in real-time, including the ability to view routes, UAV coordinates, and status on a map with interactive features. While Document B includes additional features like emergency controls and notifications, the core functionality is semantically the same.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "105",
+          "similarity": 0.5954565050952698,
+          "decision": "Match",
+          "reason": "Both requirements describe managing and interacting with UAVs and flight data in real-time, including the ability to view routes, UAV coordinates, and status on a map with interactive features. While Document B includes additional features like emergency controls and notifications, the core functionality is semantically the same."
+        },
+        {
+          "rank": 2,
+          "A_id": "474",
+          "similarity": 0.5725740326404132,
+          "decision": "Match",
+          "reason": "Both requirements deal with UAV flight management but differ in scope and specifics. Document A describes basic flight capabilities, while Document B emphasizes interactive, real-time management and emergency handling features, indicating partial overlap but notable differences in purpose and functionality."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.5422008044519656,
+          "decision": "Match",
+          "reason": "Both requirements involve interfacing with UAV flight routes and planning, but Document B focuses on active flight management with additional features like real-time tracking, emergency controls, and mission handling, making the purposes and scope notably different."
+        }
+      ]
+    },
+    "1": {
+      "title": "Flight Route Management",
+      "decision": "Match",
+      "best_match_toA": "472",
+      "reason": "Both requirements focus on functionalities related to creating and managing flight routes for drones. Although Document B contains more details and features like notifications, confirmations, and map visualization, the core functionality remains the same.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "472",
+          "similarity": 0.7219419787145235,
+          "decision": "Match",
+          "reason": "Both requirements focus on functionalities related to creating and managing flight routes for drones. Although Document B contains more details and features like notifications, confirmations, and map visualization, the core functionality remains the same."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.6045216620900432,
+          "decision": "Match",
+          "reason": "Both requirements describe a user interface for managing UAV or drone flight routes, including planning and interaction functionalities. While Document B provides a more detailed description, the core purpose and functionality are the same."
+        },
+        {
+          "rank": 2,
+          "A_id": "663",
+          "similarity": 0.6647943006696074,
+          "decision": "Match",
+          "reason": "The topics are related as both involve creating and managing flight routes; however, Document B includes broader functionality like editing, deleting, and organizing routes, which introduces notable differences in scope beyond the creation described in Document A."
+        }
+      ]
+    },
+    "2": {
+      "title": "Geospatial Utilities",
+      "decision": "Match",
+      "best_match_toA": "473",
+      "reason": "The topics are partially related as both involve coordinate systems and geospatial functionalities, but Document B emphasizes broader geospatial utilities and flight operations, while Document A focuses specifically on 3D coordinate systems and conversion between them.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "473",
+          "similarity": 0.4761993070702771,
+          "decision": "Match",
+          "reason": "The topics are partially related as both involve coordinate systems and geospatial functionalities, but Document B emphasizes broader geospatial utilities and flight operations, while Document A focuses specifically on 3D coordinate systems and conversion between them."
+        },
+        {
+          "rank": 2,
+          "A_id": "91",
+          "similarity": 0.4643367921731979,
+          "decision": "Match",
+          "reason": "Both requirements involve functionalities related to UAV operations and geospatial aspects, but they differ significantly in scope and purpose. Document A focuses on UAV command and control via middleware, while Document B emphasizes geospatial calculations for flight planning."
+        },
+        {
+          "rank": 3,
+          "A_id": "765",
+          "similarity": 0.43583802892239143,
+          "decision": "Match",
+          "reason": "While both requirements relate to geospatial capabilities, Document A focuses on displaying maps and routes, whereas Document B emphasizes geospatial calculations and managing coordinates. There is an overlap in geographic data, but the core functionalities differ significantly."
+        }
+      ]
+    },
+    "3": {
+      "title": "System UI Enhancements",
+      "decision": "No Match",
+      "best_match_toA": "641",
+      "reason": "The topics and descriptions are unrelated as one focuses on UAV route management and flight planning, while the other pertains to system UI enhancements for user feedback during processing tasks.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "641",
+          "similarity": 0.3642855824245045,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated as one focuses on UAV route management and flight planning, while the other pertains to system UI enhancements for user feedback during processing tasks."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.3132696409029043,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated. Document A focuses on real-time UI management for flights and UAVs, while Document B addresses system UI enhancements for user feedback during processing tasks."
+        },
+        {
+          "rank": 3,
+          "A_id": "765",
+          "similarity": 0.2799730333373378,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated; Document A focuses on map functionality while Document B addresses UI feedback elements like splash screens and waiting windows."
+        }
+      ]
+    },
+    "4": {
+      "title": "Notifications and Alerts",
+      "decision": "No Match",
+      "best_match_toA": "610",
+      "reason": "The topics and functions are unrelated, as one focuses on logging UAV-related events while the other concerns notifications and alerts for user actions or decisions.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "610",
+          "similarity": 0.20753683322389496,
+          "decision": "No Match",
+          "reason": "The topics and functions are unrelated, as one focuses on logging UAV-related events while the other concerns notifications and alerts for user actions or decisions."
+        },
+        {
+          "rank": 2,
+          "A_id": "91",
+          "similarity": 0.20248967972607435,
+          "decision": "No Match",
+          "reason": "The topics and functionalities of the requirements are unrelated. Document A focuses on UAV management via a ground control system, while Document B addresses user notifications and alerts for significant actions and decisions."
+        },
+        {
+          "rank": 3,
+          "A_id": "700",
+          "similarity": 0.20006227409568117,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as Document A focuses on runtime monitoring and data collection, while Document B addresses notifications and alert systems for user actions and decisions."
+        }
+      ]
+    },
+    "5": {
+      "title": "Service Providers",
+      "decision": "No Match",
+      "best_match_toA": "481",
+      "reason": "The topic and description of Document A focus on collision avoidance, while Document B concerns service provider integration and management, which are unrelated in terms of functionality and scope.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "481",
+          "similarity": 0.24929792210324375,
+          "decision": "No Match",
+          "reason": "The topic and description of Document A focus on collision avoidance, while Document B concerns service provider integration and management, which are unrelated in terms of functionality and scope."
+        },
+        {
+          "rank": 2,
+          "A_id": "620",
+          "similarity": 0.24658231026234667,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated; Document A focuses on UAV communication via UI middleware, while Document B pertains to integrating external services through a service provider framework."
+        },
+        {
+          "rank": 3,
+          "A_id": "765",
+          "similarity": 0.2452020622772141,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as Document A focuses on map functionality for displaying routes and UAVs, while Document B describes a framework for integrating external services into an application."
+        }
+      ]
+    },
+    "6": {
+      "title": "Takeoff Altitude Settings",
+      "decision": "Match",
+      "best_match_toA": "474",
+      "reason": "The requirements partially overlap in functionality as both deal with aspects of UAV/drone flight, but Document B focuses specifically on configuring takeoff altitude settings, whereas Document A broadly describes flight-related capabilities.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "474",
+          "similarity": 0.339622532088388,
+          "decision": "Match",
+          "reason": "The requirements partially overlap in functionality as both deal with aspects of UAV/drone flight, but Document B focuses specifically on configuring takeoff altitude settings, whereas Document A broadly describes flight-related capabilities."
+        },
+        {
+          "rank": 2,
+          "A_id": "641",
+          "similarity": 0.3359439222223267,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated; Document A focuses on a UI for managing UAV routes and planning flights, while Document B specifically addresses takeoff altitude settings for drones."
+        },
+        {
+          "rank": 3,
+          "A_id": "582",
+          "similarity": 0.331151636261471,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as one focuses on activating UAVs while the other deals with configuring takeoff altitude settings for drones."
+        }
+      ]
+    },
+    "7": {
+      "title": "System Configuration",
+      "decision": "No Match",
+      "best_match_toA": "91",
+      "reason": "The topics and descriptions of the two requirements are unrelated, as one describes a UAV control system and the other focuses on customizing operational settings.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "91",
+          "similarity": 0.3002643848856036,
+          "decision": "No Match",
+          "reason": "The topics and descriptions of the two requirements are unrelated, as one describes a UAV control system and the other focuses on customizing operational settings."
+        },
+        {
+          "rank": 2,
+          "A_id": "473",
+          "similarity": 0.2819694948863326,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated; Document A focuses on a coordinate system and conversions, while Document B describes system configuration and customization."
+        },
+        {
+          "rank": 3,
+          "A_id": "591",
+          "similarity": 0.24546057589932044,
+          "decision": "No Match",
+          "reason": "The topics and described functions are unrelated; one is focused on registering UAVs with metadata and the other on configuring operational system settings."
+        }
+      ]
+    },
+    "8": {
+      "title": "JavaScript Enhancements",
+      "decision": "No Match",
+      "best_match_toA": "641",
+      "reason": "The topics and descriptions are unrelated; Document A focuses on a UI for managing UAV routes and flight planning, while Document B addresses the injection of JavaScript for dynamic functionality enhancements.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "641",
+          "similarity": 0.21895715666550114,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated; Document A focuses on a UI for managing UAV routes and flight planning, while Document B addresses the injection of JavaScript for dynamic functionality enhancements."
+        },
+        {
+          "rank": 2,
+          "A_id": "765",
+          "similarity": 0.18689547118810063,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as Document A focuses on map functionality for displaying routes and UAVs, while Document B deals with injecting custom JavaScript for UI enhancements and dynamic features."
+        },
+        {
+          "rank": 3,
+          "A_id": "663",
+          "similarity": 0.18484197630318885,
+          "decision": "No Match",
+          "reason": "The titles and descriptions are unrelated. One focuses on creating flight routes on a map, while the other is about injecting JavaScript code to enhance system functionality."
+        }
+      ]
+    },
+    "9": {
+      "title": "Map and Layer Management",
+      "decision": "Match",
+      "best_match_toA": "765",
+      "reason": "Both requirements are related to map functionality, but Document A focuses on route display and UAV representation using off-the-shelf map providers, while Document B emphasizes dynamic layer management, geospatial analysis, and switching between map views for user situational awareness. The overlap is partial, but the core purposes differ.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "765",
+          "similarity": 0.49762519584582665,
+          "decision": "Match",
+          "reason": "Both requirements are related to map functionality, but Document A focuses on route display and UAV representation using off-the-shelf map providers, while Document B emphasizes dynamic layer management, geospatial analysis, and switching between map views for user situational awareness. The overlap is partial, but the core purposes differ."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.41342457743504096,
+          "decision": "Match",
+          "reason": "While both requirements involve map functionality, Document A focuses on real-time UAV flight management and interaction, whereas Document B is centered around dynamic map layer management for geographic analysis or navigation. There is some overlap in the use of maps, but the scope and main function of each are notably different."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.37480598157787687,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated. Document A focuses on managing UAV routes and planning flights via a user interface, while Document B pertains to map and layer management functionalities for geospatial analysis and navigation."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "Coverage Ratio (CR)": 0.32,
+    "Generated Match Ratio (GMR)": 0.5,
+    "Matched Reference Requirement Count": 8,
+    "Matched Generated Requirement Count": 5,
+    "Reference Requirement Count": 25,
+    "Generated Requirement Count": 10,
+    "Matched Reference Requirement IDs": [
+      "91",
+      "105",
+      "472",
+      "473",
+      "474",
+      "641",
+      "663",
+      "765"
+    ],
+    "Matched Generated Requirement IDs": [
+      "0",
+      "1",
+      "2",
+      "6",
+      "9"
+    ]
+  }
+}

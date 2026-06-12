@@ -1,0 +1,7 @@
+As a patient using this system, you can view and manage your monthly schedule, including appointments, office visits, and lab procedures. The calendar displays days of the current month, highlighting the current day for easier navigation. You can use the "Last" and "Next" buttons to move between months.
+
+For each day on the calendar:
+- If you have scheduled appointments, office visits, or lab procedures, these will be listed under the respective dates. You’ll see a brief description of the event, such as the type of appointment, diagnosis, or lab details.
+- Events marked as conflicts are clearly indicated to help prevent overlapping or problematic scheduling.
+
+You can select "Read Details" next to any listed event to access more information, such as appointment specifics, visit details (including diagnoses or prescriptions), or lab procedure results. This empowers you to stay informed about your health-related activities and plan accordingly.

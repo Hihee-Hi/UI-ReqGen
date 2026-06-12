@@ -1,0 +1,1 @@
+An aborted flight plan shall not be reassigned to any UAV

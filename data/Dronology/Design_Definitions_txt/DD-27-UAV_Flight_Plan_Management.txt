@@ -1,0 +1,1 @@
+Each UAV has zero or more pending flight plans.

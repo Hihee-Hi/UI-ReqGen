@@ -1,0 +1,13 @@
+This system is designed to offer healthcare professionals an interface to view additional information about patients, specifically focusing on remote monitoring data. As a user of this system, you can interact with it to access various aspects of a patient's monitoring records:
+
+1. **Identify the Patient**: You begin by selecting a patient from a list, which can be either remembered from a previous session or newly selected during the current session. 
+
+2. **View Basic Details**: The system then provides you with essential patient details such as their full name and phone number. It also gives you a list of the patient's official representatives, along with their contact information.
+
+3. **Examine Monitoring Statistics**: You are presented with data that includes the patient's monitoring statistics, such as blood pressure and glucose level readings. This information is compiled for a specified date range, which you can customize. The system will automatically highlight any readings that fall outside the normal range, bringing attention to potentially concerning health indicators.
+
+4. **Interactive Date Selection**: For focused analysis, you have the ability to select specific start and end dates to filter the monitoring statistics. This allows you to track patient data over time or during specific periods of interest.
+
+5. **Responsive Adjustments**: If there are no monitoring statistics available within the selected range, the system alerts you, ensuring you are always aware of the data availability.
+
+By offering these functionalities, the tool aids healthcare professionals in effectively tracking and analyzing patient health data, crucial for making informed decisions in patient care. This is particularly useful in environments like hospitals or clinics where patient monitoring and timely intervention are essential.

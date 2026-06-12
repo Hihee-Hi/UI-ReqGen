@@ -1,0 +1,10 @@
+To add a new patient to the medical management system, follow these steps:
+
+1. Begin on the 'Add Patient' page designed for healthcare professionals.
+2. Complete the form by providing the patient's first name, last name, and email address. If the patient lacks an email address, kindly use the hospital's designated email to ensure password recovery options are available.
+3. Submit the form to create the new patient's record in the system.
+4. If successful, you will receive confirmation that includes the new patient's ID (MID) and a temporary password for initial access. Ensure to communicate these details to the patient securely.
+5. In case of any errors during the process (missing or incorrect information), an error message will guide you in rectifying the issue.
+6. Upon successful addition, you can proceed to the 'Edit Patient' information page for further modifications or updates to the patient's record as necessary. 
+
+This streamlined process ensures that healthcare professionals can efficiently manage and register patient information, adhering to institutional protocols and maintaining data accuracy.

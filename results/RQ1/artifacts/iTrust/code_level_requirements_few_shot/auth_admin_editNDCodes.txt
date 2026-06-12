@@ -1,0 +1,11 @@
+As a healthcare administrator using this system, you can efficiently manage the National Drug Code (NDC) list and update drug interactions. To maintain the ND Codes:
+
+1. View the current ND Codes along with their descriptions in a comprehensive list.
+2. Add a new ND Code by entering the code parts and description, ensuring accurate categorization of medication within the system.
+3. Update existing ND Codes if any drug's information needs correction or enhancement by choosing the specific code and modifying its description.
+4. Delete an interaction between drugs if necessary, ensuring that the system maintains only relevant and current interactions.
+5. Check interactions for each ND Code, which helps to understand potential interactions that could affect patient health.
+6. Utilize an intuitive interface to fill in or modify details; interactions for each drug will appear to aid you in making informed updates.
+7. For further refinement in relationships between drugs, follow the provided link to directly edit interactions.
+
+This process ensures precise and current pharmaceutical data management, promoting safe medication practices within the organization.

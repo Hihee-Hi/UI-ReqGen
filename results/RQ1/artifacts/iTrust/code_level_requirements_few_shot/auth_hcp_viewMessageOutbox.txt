@@ -1,0 +1,6 @@
+As a healthcare provider (HCP) using this system, you would:
+Navigate to your outbox to view messages you have sent.
+Select a specific message to see the details, including the recipient's name, the subject, and the date and time it was sent.
+Read the message content within the familiar user interface.
+If no message is selected, the system will guide you back to your message list.
+This functionality helps ensure clear communication and record-keeping of your interactions with patients or colleagues.

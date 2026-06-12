@@ -1,0 +1,1 @@
+After {{UAV_RECONNECT_TIMEOUT}} has been reached  if connection to the UAV can not be reestablished  the _GCS_ shall send a UAV Timeout message containing the {{UAV_ID}} to the _GCSMiddleware_.

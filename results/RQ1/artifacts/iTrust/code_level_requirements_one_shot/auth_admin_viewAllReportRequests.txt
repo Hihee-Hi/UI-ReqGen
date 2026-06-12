@@ -1,0 +1,11 @@
+As an administrator using this system, you have the ability to manage requests for generating reports:
+
+1. You are presented with a table listing all report requests. Each request includes details such as the request's ID, the patient associated with the report, the approver, dates (requested, approved, and viewed), the current status of the request, and any comments.
+
+2. For report requests with a status indicating they are awaiting approval ("Requested"), you can:
+   - Choose to approve the request by selecting the "Approve" option. Once approved, a confirmation message will appear indicating the request was successfully accepted.
+   - Choose to reject the request by selecting the "Reject" option. After initiating a rejection, the system will prompt you to enter a reason for rejecting the request. Once you provide a comment and confirm the rejection, the request is marked as rejected.
+
+3. If you make any operational errors or encounter issues (e.g., entering incorrect data), the system will display an error message to help you understand the problem.
+
+This page facilitates the seamless management and oversight of report requests within the organization, ensuring that report approvals and rejections are handled efficiently and transparently.

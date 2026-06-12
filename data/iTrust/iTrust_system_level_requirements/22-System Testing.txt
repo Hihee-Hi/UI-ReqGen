@@ -1,0 +1,1 @@
+The software tester logs into the iTrust Medical Records system (UC2) and is presented with an operational profile. This profile displays the percentage of total transactions for each transaction type, broken down by user role (patient, LHCP, UHCP, admin, tester).

@@ -1,0 +1,6 @@
+As a healthcare provider (HCP) using this system, you would:
+Check the list of patients being monitored for vital signs and other health data.
+The list will show each patient's name along with their medical ID, the date the data was recorded, and specific metrics such as systolic and diastolic blood pressure and glucose levels.
+Some rows may be highlighted if the data is out of a predefined safe range, which could indicate potential health issues requiring attention.
+You can click on a patient's name to view more detailed information about that patient's health data.
+This system helps in identifying patients who may need closer observation or immediate intervention.

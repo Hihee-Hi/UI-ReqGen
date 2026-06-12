@@ -1,0 +1,15 @@
+As a healthcare provider using this system, you can view a detailed prescription report for a specific patient. Here's how the process works: 
+
+1. You start by selecting a patient using their unique Medical ID (MID). If the ID is not available, you will be redirected to another page to enter or confirm the patient's identity. 
+
+2. Once the patient's information is confirmed, the system retrieves and displays their prescription records. These records include:
+   - The national drug code (ND Code) of the medication.
+   - A description of the medication.
+   - The duration for which the medication is prescribed, including start and end dates.
+   - The name of the healthcare provider who prescribed the medication.
+
+3. If the selected patient does not have any prescription records, the system will inform you that no prescriptions are found.
+
+4. All prescription details are presented in an easy-to-read table format for efficient review.  
+
+This functionality helps ensure that you have accurate and organized access to patients' medication histories for better treatment and management decisions.

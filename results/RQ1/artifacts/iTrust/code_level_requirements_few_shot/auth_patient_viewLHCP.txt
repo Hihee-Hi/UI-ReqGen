@@ -1,0 +1,11 @@
+As a patient using this system, you would:
+
+View detailed information about a specific health care provider (LHCP) that you have visited. This would include the provider's full name, specialty, contact details, and address.
+
+To access the information, you would typically select the LHCP from a list of providers you have visited. After selection, the system would present you with the LHCP’s profile, allowing you to see:
+- Their specialty, such as cardiology, pediatrics, or general practice.
+- Their physical address, including street, city, state, and zip code, which might help you when planning your visit.
+- Their phone number, enabling you to make direct contact if needed, except when it's presented as unavailable.
+- Their email address for inquiries or communication about appointments or follow-ups.
+
+This interface gives you the necessary information to manage your interactions with health care providers effectively, ensuring you have all the necessary details at your fingertips for communication or further consultation.

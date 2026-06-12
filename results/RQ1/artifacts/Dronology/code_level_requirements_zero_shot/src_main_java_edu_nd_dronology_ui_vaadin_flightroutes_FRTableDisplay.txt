@@ -1,0 +1,7 @@
+As a user engaged in managing flight routes for drones, you can utilize this system to effectively display and interact with your drone route data. The system is designed to showcase the latitude, longitude, altitude, and transit speed of various waypoints on a map, serving as a tool for planning and visualization.
+
+To display your data, the system presents a grid containing rows and columns, each representing a waypoint with its geographic coordinates and relevant travel information. As you input or update data, the system ensures accuracy by validating that latitude values range from -90 to 90 degrees, longitude values are between -180 and 180 degrees, altitudes are positive but do not exceed 100, and transit speeds are greater than zero.
+
+When you need to make adjustments to the waypoints, you have the capability to enter an edit mode. In this mode, the table becomes interactive, allowing you to directly modify the waypoint details. To facilitate route management, a column with Delete buttons becomes visible, enabling easy removal of any waypoint from your flight plan, subject to confirmation.
+
+Once you finish editing, you can switch the table back to a non-editable state to prevent unintentional changes. The system will also update the map to ensure that both the visual representation and the grid data remain synchronized, reflecting any modifications you have made to the waypoints. This integration aids in maintaining consistent and reliable flight path information for your drone operations.

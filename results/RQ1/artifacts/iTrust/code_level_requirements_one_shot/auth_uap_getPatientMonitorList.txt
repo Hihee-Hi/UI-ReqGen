@@ -1,0 +1,5 @@
+As a user of this system, you would:  
+Access a list of patients who are being remotely monitored. Upon opening this page, you will see the names of the patients presented in a table.  
+If you wish to manage or add telemedicine monitoring data for a specific patient, click on their respective name. By clicking the name, you will be directed to a page where you can input or review detailed monitoring information associated with that patient.  
+The system ensures that duplicate entries of patient records are avoided, presenting only unique patient names.  
+This process helps healthcare providers optimize their workflow in managing remote patient health data and telemedicine service needs systematically and efficiently.

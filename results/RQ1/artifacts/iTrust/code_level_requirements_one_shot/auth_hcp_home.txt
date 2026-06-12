@@ -1,0 +1,9 @@
+As a healthcare provider (HCP) using this system, you would:
+
+1. Start on the home page where you can view important announcements regarding new features in the system, such as the introduction of a calendar tool for easier date entry.
+2. Review your notifications, which include:
+   - Comprehensive report history: If you have any pending report requests, you can see updates and the current status of each report. If no report requests are available, the system will inform you.
+   - A list of lab procedures completed in the last month: You can see details of lab procedures tied to specific patients. For each procedure, you’ll see the patient's name, relevant lab procedure codes, and any recorded results. In cases where results are not yet available, you’ll be notified accordingly.
+3. Access a link to view all lab procedures in greater detail, enabling you to manage or follow up on laboratory workflows.
+   
+Overall, this system allows you to conveniently track your ongoing tasks and recently completed procedures while keeping you informed about updates and changes relevant to your operations. This creates an efficient workflow tailored to typical healthcare provider responsibilities.

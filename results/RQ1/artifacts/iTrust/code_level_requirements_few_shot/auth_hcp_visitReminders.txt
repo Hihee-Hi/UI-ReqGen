@@ -1,0 +1,6 @@
+As a healthcare provider using this system, you would:
+Select the type of reminder you want to view from a dropdown menu. This may include various categories such as upcoming visits, checkup reminders, or other healthcare prompts.
+Upon selecting and submitting your choice, the system will display a list of patients who need visits based on the selected reminder type.
+For each patient, you’ll see their name, phone number, and reasons detailing why a visit is necessary.
+The patient’s name is linked to an option to send an email notification directly to remind them of their visit needs.
+This functionality enables you to efficiently manage patient visit reminders, thereby ensuring patients receive timely care and you maintain effective communication.

@@ -1,0 +1,1 @@
+Core component for managing different types of UAVs.

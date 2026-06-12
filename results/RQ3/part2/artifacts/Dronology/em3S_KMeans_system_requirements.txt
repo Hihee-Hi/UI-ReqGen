@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "title": "Flight Route Management",
+    "description": "The system allows users to manage flight routes by assigning, editing, and displaying them on a map. Users can add, modify, and delete routes and waypoints. Interactive map features such as drag-and-drop markers and polyline click listeners are implemented for enhanced user control. The system also supports confirmation dialogs for route and waypoint deletions, as well as handling unsaved changes. Users can interact with the system through a navigation bar and view detailed flight route information."
+  },
+  {
+    "id": "1",
+    "title": "User Interface Utilities",
+    "description": "The system provides utility components for managing user interface elements. These include splash screens, notifications, waiting windows, and confirmation dialogs (yes/no). The utilities are designed to offer a responsive and smooth user experience by displaying various states of the system's operation."
+  },
+  {
+    "id": "2",
+    "title": "Active Flight Operations",
+    "description": "Users can monitor and manage active flight operations, including controlling and monitoring UAV status, mission operations, and map interactions. Features include emergency controls, flight path drawing, mission execution, and altitude management. The system also provides mission-related components and integrates with route management tools to allow seamless operation and control of active flights."
+  },
+  {
+    "id": "3",
+    "title": "Map and Layer Management",
+    "description": "The system enables the creation and management of interactive maps using various map layers. Users can interact with the map through map constants and layer descriptors to display relevant data. This functionality supports the creation of customized maps that integrate various geographic and operational elements for better visualization and interaction."
+  }
+]

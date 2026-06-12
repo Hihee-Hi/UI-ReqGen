@@ -1,0 +1,3 @@
+The iTrust system allows healthcare providers (HCPs) to refer patients to other HCPs. The sending HCP selects a receiving HCP (by MID or name), adds referral notes, and sets a priority (1-3). Upon sending the referral, both HCPs and the patient receive a message summarizing the referral details. If the receiving HCP is incorrect or the input is invalid, the system prompts the sending HCP to try again.
+
+The receiving HCP can view referrals sorted by priority and select one to see details, including the sending HCP, patient name, notes, priority, and office visit link. The sending HCP can also view their sent referrals, sorted by patient name, receiving HCP, priority, or timestamp, and view detailed information for each referral.

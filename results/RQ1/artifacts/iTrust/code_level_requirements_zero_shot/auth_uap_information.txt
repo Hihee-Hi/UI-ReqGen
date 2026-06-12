@@ -1,0 +1,1 @@
+As a user, you can access this system to view personal details related to personnel or staff members. When you are logged in, the system will display your respective image and essential information, such as your full name and location, which includes the city and state.

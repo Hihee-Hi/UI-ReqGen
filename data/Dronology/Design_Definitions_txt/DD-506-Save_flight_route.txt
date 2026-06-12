@@ -1,0 +1,1 @@
+When a flight route is uploaded to Dronology  the _FlightRouteManager_ shall  save it under a unique name as an xml file.

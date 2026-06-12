@@ -1,0 +1,1 @@
+If the UAV is in 'hover in place' mode then no waypoints directives for that UAV shall be sent to the _GCS_.

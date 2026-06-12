@@ -1,0 +1,8 @@
+As a patient using this system, you can access a detailed history of all emails sent to you through the platform. When navigating to this section, you’ll see a table listing:
+
+1. The recipients of each email.
+2. The subject line of the email.
+3. The body or main content of the email.
+4. The date and time the email was sent.
+
+If no email records exist, the system will display a message indicating that there are no emails on file. This function helps you keep track of communication and provides easy access to important correspondence related to your healthcare.

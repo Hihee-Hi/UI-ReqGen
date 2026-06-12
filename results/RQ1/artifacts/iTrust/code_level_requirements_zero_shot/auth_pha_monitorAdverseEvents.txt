@@ -1,0 +1,11 @@
+As a user of this system, you are accessing a platform designed to monitor adverse events associated with prescriptions or immunizations. Here's how you interact with it to achieve your desired outcomes:
+
+Initially, you're presented with a form where you can specify a date range by selecting a start date and an end date. This allows you to narrow down the adverse event reports within a particular timeframe. You are given the option to generate reports specifically for either prescriptions or immunizations by clicking the corresponding buttons. This choice will determine the type of adverse events you wish to review.
+
+Once you make a selection, if any events meet the criteria you've set, you'll be presented with a list of adverse events in a table. This table includes information such as the specific prescription or immunization, the reporter of the event, the date it was reported, and an option to view more detailed information about each event. Each event can be further explored by clicking a link titled "Get Details."
+
+Furthermore, the table provides a visual summary by month for each prescription or immunization type, which can be accessed via a separate link titled "View Chart."
+
+If there are no adverse events reported within the specified criteria, the system will inform you of this outcome, ensuring you are aware that no data matches your search.
+
+This platform allows you to remain vigilant and informed about any complications or issues that may arise with medical prescriptions or immunizations, providing a crucial overview for managing patient safety and health outcomes effectively.

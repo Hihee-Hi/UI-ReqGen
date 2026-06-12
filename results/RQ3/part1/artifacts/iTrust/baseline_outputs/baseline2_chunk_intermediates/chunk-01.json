@@ -1,0 +1,81 @@
+{
+  "chunk_id": "chunk-01",
+  "themes": [
+    {
+      "theme_id": "T-01",
+      "title": "Personnel Management and Account Creation",
+      "description": "Administrators can add new personnel such as Emergency Responders, Healthcare Providers, and Public Health Administrators by entering their basic information. The system generates a unique Medical ID and temporary password for each new account, ensuring secure onboarding.",
+      "source_files": [
+        "auth_admin_addER.txt",
+        "auth_admin_addHCP.txt",
+        "auth_admin_addPHA.txt"
+      ]
+    },
+    {
+      "theme_id": "T-02",
+      "title": "Appointment and Scheduling Management",
+      "description": "Administrators can manage appointment types by adding or updating them, ensuring they meet clinic scheduling requirements. Healthcare providers can schedule appointments, view their calendar, and manage patient visit reminders to optimize patient care.",
+      "source_files": [
+        "auth_admin_editApptType.txt",
+        "auth_hcp_scheduleAppt.txt",
+        "auth_hcp_calendar.txt",
+        "auth_hcp_visitReminders.txt"
+      ]
+    },
+    {
+      "theme_id": "T-03",
+      "title": "Code Management for Billing and Documentation",
+      "description": "Administrators can manage CPT, ICD, LOINC, and NDC codes, including adding, updating, and validating them. This ensures accurate billing and documentation practices within the healthcare system.",
+      "source_files": [
+        "auth_admin_editCPTProcedureCodes.txt",
+        "auth_admin_editICDCodes.txt",
+        "auth_admin_editLOINCCodes.txt",
+        "auth_admin_editNDCodes.txt"
+      ]
+    },
+    {
+      "theme_id": "T-04",
+      "title": "Communication and Messaging",
+      "description": "The system provides messaging functionalities for administrators, healthcare providers, and patients, including sending, receiving, and organizing messages. This ensures efficient communication within the healthcare environment.",
+      "source_files": [
+        "auth_admin_remindersMessageOutbox.txt",
+        "auth_hcp_messageInbox.txt",
+        "auth_hcp_messageOutbox.txt",
+        "auth_patient_messageInbox.txt",
+        "auth_patient_messageOutbox.txt"
+      ]
+    },
+    {
+      "theme_id": "T-05",
+      "title": "Patient Health Record Management",
+      "description": "Healthcare providers can manage and update patient health records, including basic health data, office visit documentation, and prescription information. Patients can view their medical records and manage their health data.",
+      "source_files": [
+        "auth_hcp-uap_editBasicHealth.txt",
+        "auth_hcp-uap_documentOfficeVisit.txt",
+        "auth_patient_viewMyRecords.txt",
+        "auth_patient_viewOfficeVisit.txt"
+      ]
+    },
+    {
+      "theme_id": "T-06",
+      "title": "Adverse Event Monitoring and Reporting",
+      "description": "Public Health Administrators can monitor and analyze adverse events related to prescriptions and immunizations, using visual tools to track trends and ensure public health safety.",
+      "source_files": [
+        "auth_pha_adverseEventChart.txt",
+        "auth_pha_adverseEventDetails.txt",
+        "auth_pha_monitorAdverseEvents.txt"
+      ]
+    },
+    {
+      "theme_id": "T-07",
+      "title": "User Authentication and Session Management",
+      "description": "The system ensures secure user authentication, session management, and access control, protecting sensitive information and maintaining system integrity.",
+      "source_files": [
+        "authenticate.txt",
+        "global.txt",
+        "login.txt",
+        "logout.txt"
+      ]
+    }
+  ]
+}

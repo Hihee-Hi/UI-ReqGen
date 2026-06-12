@@ -1,0 +1,6 @@
+As a healthcare provider using this system, you would:
+Access your scheduled appointments to view details about each appointment including patient names, appointment types, date and time, and duration.
+The system checks for any overlapping appointments, which are displayed with bold highlighting to alert you to potential scheduling conflicts.
+For appointments with comments or special notes, the system provides a link to view these comments in detail.
+If no appointments are scheduled, the system informs you accordingly.
+This process enables you to manage and review your appointments efficiently, ensuring that any conflicts are promptly identified and addressed to maintain smooth scheduling and patient care.

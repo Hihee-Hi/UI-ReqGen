@@ -1,0 +1,1 @@
+As a user of this system, when you access the page to log out, the system will automatically end your current session ensuring all session data is cleared. You will then be redirected back to the home page. This process ensures that your session is securely terminated.

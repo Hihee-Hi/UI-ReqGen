@@ -1,0 +1,1 @@
+Each Virtual and Physical drone is associated with a predefined {{UAV_TYPE}} defining its basic attributes.

@@ -1,0 +1,75 @@
+{
+  "requirements": [
+    {
+      "req_id": "SR-01",
+      "title": "Comprehensive Drone Monitoring and Control Interface",
+      "description": "The system provides a unified interface for users to monitor and control active drone flights. Users can view real-time status, health, and battery life of drones, and manage their operations through a centralized control panel. This interface supports situational awareness by displaying essential information and allowing users to focus on specific drones or view all active drones simultaneously.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFControlsComponent.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFInfoPanel.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_UAVStatusWrapper.txt"
+      ]
+    },
+    {
+      "req_id": "SR-02",
+      "title": "Dynamic Flight Route Management",
+      "description": "Users can create, edit, and manage flight routes for drones using an interactive map interface. The system allows for the addition and modification of waypoints, including setting specific altitudes and speeds. Users can preview routes, make adjustments, and ensure routes are complete before assignment. The interface supports drag-and-drop functionality for reordering routes and provides confirmation prompts to prevent accidental changes.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMainLayout.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRInfoBox.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMapComponent.txt"
+      ]
+    },
+    {
+      "req_id": "SR-03",
+      "title": "Emergency Response Capabilities",
+      "description": "In emergency situations, users can quickly command drones to hover in place or return to their home base. The system allows for global actions affecting multiple drones simultaneously, ensuring a rapid and comprehensive response. This functionality is crucial for maintaining safety and control during unexpected events.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFEmergencyComponent.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFInfoBox.txt"
+      ]
+    },
+    {
+      "req_id": "SR-04",
+      "title": "Mission Execution and Management",
+      "description": "The system enables users to upload, execute, and manage drone missions efficiently. Users can initiate missions with a single command and have the ability to cancel them if necessary. This feature ensures that drone operations can be adapted to real-time requirements, providing flexibility in mission management.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMissionOperations.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_activeflights_MissionHandler.txt"
+      ]
+    },
+    {
+      "req_id": "SR-05",
+      "title": "Interactive Map and Visualization Tools",
+      "description": "Users have access to a dynamic map interface that displays real-time drone locations and flight paths. The map supports various views and layers, allowing users to switch between different geographical perspectives. This feature enhances situational awareness and aids in navigation and analysis by providing detailed visual information.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_map_LeafletmapFactory.txt",
+        "src_main_java_edu_nd_dronology_ui_vaadin_map_VaadinUIMapConstants.txt"
+      ]
+    },
+    {
+      "req_id": "SR-06",
+      "title": "User Notifications and Alerts",
+      "description": "The system provides a notification feature to alert users of important updates or actions required. Notifications are prominently displayed to ensure they capture user attention, allowing for timely responses to critical information. This feature supports effective communication and decision-making during drone operations.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_utils_DronologyNotification.txt"
+      ]
+    },
+    {
+      "req_id": "SR-07",
+      "title": "Customizable User Settings",
+      "description": "Users can customize system settings, including map appearance, refresh rates, and project names. These configurations are saved for future sessions, ensuring a personalized and consistent user experience. Default settings are applied if initial configurations are missing, allowing users to start with a pre-configured environment.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_utils_Configuration.txt"
+      ]
+    },
+    {
+      "req_id": "SR-08",
+      "title": "Efficient Navigation and Workflow Management",
+      "description": "The system features a navigation bar that allows users to switch between active flights and flight routes seamlessly. This facilitates efficient workflow management by enabling users to transition smoothly between monitoring live drone activity and managing planned routes, ensuring a streamlined operational experience.",
+      "source_files": [
+        "src_main_java_edu_nd_dronology_ui_vaadin_start_NavigationBar.txt"
+      ]
+    }
+  ]
+}

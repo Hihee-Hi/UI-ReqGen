@@ -1,0 +1,1 @@
+The {{SET_VELOCITY}} shall specify a velocity vector specified using NED (North  East  Down) directions.

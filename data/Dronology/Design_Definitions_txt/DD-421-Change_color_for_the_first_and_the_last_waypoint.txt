@@ -1,0 +1,1 @@
+Waypoints in a flight route shall be colored so as to differentiate between the starting waypoint  ending waypoint  and all remaining intermediate waypoints.

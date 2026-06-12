@@ -1,0 +1,1 @@
+When selected by the user  multiple routes shall be displayed simultaneously on the map.

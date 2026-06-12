@@ -1,0 +1,5 @@
+As a user trying to access this medical application, the login process begins with entering your credentials. If a login error occurs, the system tracks unsuccessful login attempts to ensure security. If there are too many consecutive failed login attempts within a short period, the system temporarily locks your account, asking you to wait 15 minutes before trying again to prevent unauthorized access.
+
+Once logged in successfully, you are greeted with a welcome message and gain access to the system's features. The application offers tools for patients to manage their medical records, connect with their doctors, handle satisfaction surveys, and other related functions. For healthcare professionals, this system provides ways to manage patients through tools for communication, scheduling, diagnosis, prescriptions, lab order management, and record keeping.
+
+This approach balances convenience for regular users and security measures against potential cyber risks.

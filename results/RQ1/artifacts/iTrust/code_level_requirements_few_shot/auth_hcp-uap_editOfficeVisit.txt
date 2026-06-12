@@ -1,0 +1,17 @@
+As a healthcare provider using this system, you would:
+
+Begin by selecting a patient's existing office visit record that you want to edit. If the patient ID is not specified, you will be redirected to select or input a patient ID first.
+
+You'll be able to view and update various details regarding the office visit, including the date of visit, hospital, and notes associated with the visit.
+
+If you need to prescribe medication for the patient, the system allows you to select medication from a comprehensive list, specifying details like dosage, start and end dates of the prescription, along with any special instructions.
+
+To avoid any adverse drug interactions or allergy reactions, the system checks the prescribed medication against the patient's records, highlighting any potential warnings so you can confirm or cancel the prescription.
+
+Additionally, you can manage laboratory procedures linked to the office visit, add new lab procedures, update statuses, and remove outdated procedures.
+
+You can also add, update, or remove diagnoses, procedures, and immunizations associated with the visit. The system provides lists from which you can select diagnoses based on ICD codes, procedures based on CPT codes, and immunizations.
+
+Upon submission, the updated information is saved and can be instantly viewed or further managed. Notifications can be set up to inform patients of updates to their prescriptions, ensuring they are always aware of any new medications or changes.
+
+This functionality helps ensure comprehensive and safe management of a patient's healthcare records during office visits, optimizing the process for healthcare providers by integrating checks for allergies and medication interactions while updating patient care details seamlessly.

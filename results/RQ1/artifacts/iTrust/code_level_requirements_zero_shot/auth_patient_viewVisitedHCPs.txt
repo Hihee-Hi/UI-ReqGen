@@ -1,0 +1,5 @@
+This system is designed for patients to manage their interactions with healthcare providers. As a patient using this service, you can see a list of healthcare providers you have previously visited. You have the option to update the list by designating or removing a healthcare provider. This means you can specify which providers you wish to retain as officially designated contacts for ongoing or future healthcare needs.
+
+If you are looking for specific providers, you can filter the list based on details such as the provider's last name, specialty, or location by zip code. For ongoing management of your provider list, simply select or deselect providers as designated contacts. When searching, you can input criteria in the provided fields and execute the search to refine the list according to your preferences. 
+
+Overall, this platform aids in streamlining your healthcare provider interactions, ensuring your designated providers are current and relevant to your ongoing care requirements.

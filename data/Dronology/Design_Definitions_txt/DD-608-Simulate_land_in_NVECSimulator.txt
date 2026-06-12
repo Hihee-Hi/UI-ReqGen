@@ -1,0 +1,1 @@
+When given a land command the _NVECSimulator_ shall immediately change the UAV's current altitude to the ground altitude.

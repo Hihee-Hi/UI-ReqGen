@@ -1,0 +1,1 @@
+The _UIMiddleware_ shall monitor liveness of clients holding control locks on individual UAVs.

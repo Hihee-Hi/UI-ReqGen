@@ -1,0 +1,1 @@
+If you attempt to access a page you are not authorized to view, the system will log you out for security reasons. You will see a message informing you that access is denied due to invalid role permissions. A link will be provided for you to log back in to the system.

@@ -1,0 +1,127 @@
+[
+    {
+        "id": "105",
+        "title": "UI_Real",
+        "description": "Manages all aspects of displaying flights and UAVs in real-time and interacting with them.  The flight view displays active routes  UAV coordinates  and their current health.  The map uses zoom and panning features to follow one or more selected UAV."
+    },
+    {
+        "id": "184",
+        "title": "Internal_Simulator",
+        "description": "The internal simulator provides low-fidelity features for supporting quick initial tests of a virtual UAV.  Features include takeoff  goto  land  and battery health.  "
+    },
+    {
+        "id": "472",
+        "title": "Flight_Route_Manager",
+        "description": "Provides capabilities for creating and managing flight routes within Dronology."
+    },
+    {
+        "id": "473",
+        "title": "Coordinate_System",
+        "description": "Provides 3 dimensional coordinate system currently based on longitude  latitude  and altitude.   Provides conversion between various coordinate systems."
+    },
+    {
+        "id": "474",
+        "title": "Flight_Manager",
+        "description": "Provides basic flight related capabilities for UAVs."
+    },
+    {
+        "id": "475",
+        "title": "Flight_Scheduling_and_Execution",
+        "description": "Provides capabilities for executing flights assigned to a UAV."
+    },
+    {
+        "id": "476",
+        "title": "Mission_Planning",
+        "description": "Provides capabilities for executing missions with multiple UAVs"
+    },
+    {
+        "id": "477",
+        "title": "Single_UAV_Flight_Plan_Scheduler",
+        "description": "Single UAV flight plan assignments (taking an existing route  instantiating it  and assigning to a UAV)"
+    },
+    {
+        "id": "480",
+        "title": "Flight_Patterns",
+        "description": "Provides capabilities for creating and executing complex flight patters for multiple UAVs"
+    },
+    {
+        "id": "481",
+        "title": "Object_Avoidance",
+        "description": "Collision Avoidance API and general services"
+    },
+    {
+        "id": "484",
+        "title": "Stop_In_Place",
+        "description": "Simple collision avoidance implementation that stops UAVs when they violate a minimum safety distance."
+    },
+    {
+        "id": "570",
+        "title": "Vehicle_Core",
+        "description": "Core component for managing different types of UAVs."
+    },
+    {
+        "id": "582",
+        "title": "UAV_Activation_Manager",
+        "description": "Provides capabilities for activating and deactivating both Virtual and Physical UAVs within Dronology."
+    },
+    {
+        "id": "591",
+        "title": "UAV_Registration_Manager",
+        "description": "Provides capabilities for registering UAVs  i.e.  providing meta-data regarding the UAV (such as payload  wingspan  equipment...)"
+    },
+    {
+        "id": "598",
+        "title": "Simple_Simulator",
+        "description": "Provides basic capabilities for simulating the flight of Virtual UAVs."
+    },
+    {
+        "id": "604",
+        "title": "NVEC_Simulator",
+        "description": "NVEC_Simulator"
+    },
+    {
+        "id": "610",
+        "title": "Activity_Logger",
+        "description": "Provides capabilities for logging UAV related events (such as assigned flights  executed missions...)."
+    },
+    {
+        "id": "620",
+        "title": "UI_Middleware",
+        "description": "Provides capabilities for connecting to multiple GCS' sending commands to  and receiving messages from UAVs."
+    },
+    {
+        "id": "641",
+        "title": "Vaadin_UI",
+        "description": "User interface for managing UAVs  routes  and planning flights."
+    },
+    {
+        "id": "645",
+        "title": "UI_Route_Assignment",
+        "description": "Provides capabilities for selecting existing routes and assigning them to active UAVs"
+    },
+    {
+        "id": "663",
+        "title": "UI_Route_Creation",
+        "description": "Provides capabilities for creating new flight routes on a map that are stored in Dronology    "
+    },
+    {
+        "id": "700",
+        "title": "Runtime_Monitoring",
+        "description": "Provides basic data collection capabilities for internal data from Dronology (such as assigned flights) and data provided by the UAV (e.g.  location data and status)"
+    },
+    {
+        "id": "765",
+        "title": "UI_Maps",
+        "description": "Provides map functionality for displaying routes and UAVs  leveraging off-the-shelf map providers (such as OSM and google maps).   "
+    },
+    {
+        "id": "90",
+        "title": "GCS_Middleware",
+        "description": "Handles connections between Dronology and Ground Control Stations (GCS). Forwards commands  monitoring  and other messages from Dronology to its registered GCS and passes messages describing the state of the UAVs managed by each GCS back to dronology."
+    },
+    {
+        "id": "91",
+        "title": "GCS",
+        "description": "Python based system that manages and controls UAVs.  Communicates with Dronology via the Ground Station middleware. Each GCS is responsible for communicating directly with each UAV  sending it commands and monitoring its state including its current position  flight mode  and  health."
+    }
+]

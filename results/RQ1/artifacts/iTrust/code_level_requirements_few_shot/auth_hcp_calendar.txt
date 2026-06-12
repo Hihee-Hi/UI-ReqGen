@@ -1,0 +1,7 @@
+As a healthcare provider using this system, you would:
+
+View your appointment calendar, which allows you to manage and keep track of scheduled appointments for the current month.
+Navigate between months using the "Last" and "Next" links to view past and upcoming months' appointments.
+Each day in the calendar will display appointments scheduled for that date, with a convenient link to "Read Details" for each appointment, allowing you to view more information.
+If an appointment has conflicting schedules or issues, it will be visibly highlighted for immediate attention.
+This calendar helps you efficiently plan your daily, weekly, and monthly schedules by clearly presenting your engagements and potential conflicts upfront.

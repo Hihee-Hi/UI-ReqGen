@@ -1,0 +1,5 @@
+This system offers links at the bottom of the page to assist users with various navigational and informational resources. If you are using this system, here's how it can benefit you:
+
+If you are an administrator or developer in a testing environment, you can access tools for generating test data, viewing logged transactions, displaying database content, reviewing the testing plans, or managing fake email addresses. These utilities will not appear in a production setting, ensuring you can use these features only when needed for system development or testing purposes.
+
+As a user, you can quickly find links to important resources, such as privacy policy information, contacting the support team, or visiting the system's official version webpage for updates or documentation. These elements are positioned for user-friendly navigation and provide clarity about the system's usage, policy, and contact avenues, helping to maintain transparency and accessibility for all users.

@@ -1,0 +1,1 @@
+As a user of this system, you'll find a menu section labeled "Actions" which provides you a link to log back into the application. This feature can be useful whenever you find yourself logged out or simply need quick access to the login page from wherever you are navigating in the application.

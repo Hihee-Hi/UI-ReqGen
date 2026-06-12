@@ -1,0 +1,8 @@
+As a healthcare provider using this system, you would:
+Select a patient for whom you want to schedule an appointment. If no patient is selected, you will be redirected to choose a patient from the list.
+Fill out the appointment form by selecting the type and duration of the appointment from a list of available types.
+Choose a date and time for the appointment that suits both you and the patient. You have the option to specify the time in hours, minutes, and whether it is AM or PM.
+Optionally, add some comments to provide additional context or information related to the appointment.
+Once the form is complete, click the schedule button to book the appointment.
+The system will then process the booking and send a confirmation message. If successful, you will be redirected to your homepage, where you can manage other appointments. If any errors occur, such as invalid data formats, the system will display error messages prompting you to correct them.
+This process ensures that appointments are accurately scheduled according to patient and healthcare provider availability, enhancing the efficiency of office management.

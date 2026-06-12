@@ -1,0 +1,5 @@
+As an administrative user using this system, you would:
+Log into the system to view your personal information profile.
+See your profile picture displayed, which can help to personalize the interface.
+View your name as stored in the system to ensure your profile details are updated accurately.
+This setup provides a simple overview for administrative users to manage and review their profile details within the organization swiftly.

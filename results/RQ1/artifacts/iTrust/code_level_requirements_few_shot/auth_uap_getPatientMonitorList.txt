@@ -1,0 +1,5 @@
+As a User Access Personnel (UAP) using this system, you would:
+View a list of patients who have their physiological data monitored. The list provides the names of each patient currently under monitoring.
+Select a patient from the list by clicking on their name, which will direct you to another page where you can enter new monitoring data for them.
+Each patient in the list is uniquely linked to their monitoring data session, ensuring accurate tracking and updating of their health information.
+This system allows you to efficiently access and manage health data for multiple patients, supporting streamlined healthcare monitoring and reporting processes.

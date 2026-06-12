@@ -1,0 +1,7 @@
+As a public health administrator (PHA) using this system, you would:
+Access data related to adverse events associated with prescriptions or immunizations. These events may involve various health issues reported by patients.
+View a detailed chart that visually represents the number of adverse events reported by month. This helps in analyzing trends and identifying periods with high incident rates.
+Each chart is specific to a particular prescription or immunization code, allowing you to focus on individual medications or vaccines.
+The system automatically filters out events that have been discarded or marked as irrelevant, ensuring you have accurate data for decision-making.
+The graphical representation provides an intuitive overview, which aids in monitoring public health and taking appropriate measures promptly.
+This functionality assists you in tracking public health concerns and crafting informed responses to adverse event occurrences.

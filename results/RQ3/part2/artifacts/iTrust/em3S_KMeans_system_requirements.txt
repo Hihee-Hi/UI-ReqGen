@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0",
+    "title": "Patient Representative Management and Messaging",
+    "description": "Enable healthcare professionals to edit patient representative information, ensuring accurate delegation and permissions. Provide patients with the ability to send secure messages to healthcare providers within the platform, supporting efficient communication."
+  },
+  {
+    "id": "1",
+    "title": "Prescription Management and Access",
+    "description": "Allow healthcare providers and patients to view, manage, and assess prescription records. Support functionalities include generating prescription reports, viewing expired and active prescriptions, and assessing renewal needs to maintain medication continuity."
+  },
+  {
+    "id": "2",
+    "title": "Secure Messaging and Communication",
+    "description": "Support bidirectional communication among patients, healthcare providers, and administrators. Functionalities include viewing inbox/outbox, sending and replying to messages, and viewing email history to maintain a comprehensive communication log."
+  },
+  {
+    "id": "3",
+    "title": "Visit History and Consultation Tracking",
+    "description": "Enable users to view and manage office visit histories, access consultation details, and retrieve healthcare provider information. Provide patients with insights into their diagnoses and the healthcare professionals involved in their care."
+  },
+  {
+    "id": "4",
+    "title": "Health Profile and Demographics Editing",
+    "description": "Allow authorized users, including staff and healthcare professionals, to edit patient demographics, personal health records, and basic health information. Ensure patients can update their own demographic details for accurate medical records."
+  },
+  {
+    "id": "5",
+    "title": "Office Visit Documentation and Prescription Management",
+    "description": "Provide tools for healthcare professionals to document and edit office visit details, manage prescriptions, and schedule visit reminders. Include patient-facing survey features to collect post-visit feedback or health assessments."
+  },
+  {
+    "id": "6",
+    "title": "Appointment Scheduling and Calendar Management",
+    "description": "Facilitate appointment scheduling and viewing functionalities for both healthcare providers and patients. Include calendar views, appointment type management, and reminder notifications to optimize visit planning and adherence."
+  },
+  {
+    "id": "7",
+    "title": "Adverse Event Reporting and Monitoring",
+    "description": "Allow patients to report adverse events and enable pharmacists to monitor, analyze, and visualize such events using charts and detailed logs. Support real-time surveillance and trend analysis to ensure patient safety."
+  },
+  {
+    "id": "8",
+    "title": "Report Request Management",
+    "description": "Support healthcare professionals and administrators in viewing and managing report requests. Enable tracking of submitted requests and access to previously generated reports for data-driven decision making."
+  },
+  {
+    "id": "9",
+    "title": "Testing and Utility Functions",
+    "description": "Provide a suite of testing and diagnostic tools, including blackbox testing and tester menus, to support system validation and developer utilities during platform testing phases."
+  },
+  {
+    "id": "10",
+    "title": "User Role Navigation and Interface Management",
+    "description": "Provide customized homepages and menu interfaces for various user roles including admin, healthcare provider, emergency responders, patients, and support personnel. Facilitate user redirection and patient monitoring list access."
+  },
+  {
+    "id": "11",
+    "title": "Laboratory Procedure Management",
+    "description": "Enable healthcare professionals, UAPs, and patients to view, manage, and update lab procedures. Provide interfaces for procedure documentation, editing, and patient access to test results and records."
+  },
+  {
+    "id": "12",
+    "title": "Patient List and Notification Management",
+    "description": "Allow healthcare providers to manage and edit patient lists and send email notifications. Include utilities to retrieve user details, facilitating targeted communication and personalized patient tracking."
+  },
+  {
+    "id": "13",
+    "title": "System Logs and Fake Data Utilities",
+    "description": "Offer administrative utilities to display database contents, simulate fake emails, and review transaction logs. Enable quick reference and testing of data structures and system integrity."
+  },
+  {
+    "id": "14",
+    "title": "Role-Based Information Portals",
+    "description": "Provide tailored informational dashboards for different user roles such as administrators, pharmacists, emergency responders, and support staff. Ensure users access relevant guidance, protocols, and resources efficiently."
+  },
+  {
+    "id": "15",
+    "title": "Comprehensive Patient Monitoring and Information Access",
+    "description": "Deliver functionality for healthcare professionals and patients to access health records, view reports, monitor chronic diseases, and manage telemedicine data. Include role-specific dashboards and tools for logging, graphing, and information management."
+  },
+  {
+    "id": "16",
+    "title": "Personnel and Patient Identification Management",
+    "description": "Allow administrators to assign hospital roles, retrieve personnel and patient IDs, and view staff information. Streamline the onboarding and personnel lookup process to maintain accurate role assignments."
+  },
+  {
+    "id": "17",
+    "title": "Medical Coding and Procedure Standards Management",
+    "description": "Provide administrative capabilities to edit standardized medical codes including CPT, ICD, LOINC, and NDC. Ensure data integrity and compliance with medical coding systems for accurate documentation and reporting."
+  },
+  {
+    "id": "18",
+    "title": "User and Role Account Management",
+    "description": "Enable administrators to add new healthcare roles including ER, HCP, PHA, and UAP. Include password reset functionality and patient onboarding to support account lifecycle management."
+  }
+]
+

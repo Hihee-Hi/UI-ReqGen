@@ -1,0 +1,52 @@
+[
+    {
+        "id": "0",
+        "title": "Active Flights Management",
+        "description": "The system allows users to efficiently manage and interact with active drone flights. Users can view flight status, modify flight routes, and track UAV movements in real-time on a map. It provides features for handling mission operations, emergency situations, and UAV status monitoring. Users can quickly access mission data, make adjustments to flight paths, and engage with interactive flight maps. Notifications and emergency controls ensure responsive handling of unforeseen situations."
+    },
+    {
+        "id": "1",
+        "title": "Flight Route Management",
+        "description": "Users can create, edit, delete, and organize drone flight routes. The system offers a comprehensive interface for managing routes, providing clear notifications for unsaved changes and confirmations before deleting routes. Routes are visually represented on a map, allowing easy access and interaction. The system ensures that users can modify flight routes efficiently, with safety checks and visual aids in place to avoid errors."
+    },
+    {
+        "id": "2",
+        "title": "Geospatial Utilities",
+        "description": "The system provides utilities for coordinate management, enabling precise geospatial calculations and interactions. This functionality supports the handling of complex geographic data, essential for accurate flight operations and planning."
+    },
+    {
+        "id": "3",
+        "title": "System UI Enhancements",
+        "description": "The user interface features splash screens and waiting windows to inform users during system operations that require additional processing time. These UI elements contribute to a smoother user experience by providing feedback during long-running tasks."
+    },
+    {
+        "id": "4",
+        "title": "Notifications and Alerts",
+        "description": "The system integrates notification and alert features to inform users of significant actions or decisions. It includes confirmations for actions such as proceeding with or canceling critical operations. This ensures that users are kept informed and can make decisions with confidence."
+    },
+    {
+        "id": "5",
+        "title": "Service Providers",
+        "description": "This system includes a base service provider framework that enables the integration of various external services into the application. It provides a foundational setup for executing and managing external service actions, ensuring that users can extend the system’s capabilities."
+    },
+    {
+        "id": "6",
+        "title": "Takeoff Altitude Settings",
+        "description": "Users can configure and set the takeoff altitude for drone flights. This functionality is essential for ensuring that drones operate within safe altitude limits during takeoff, optimizing performance and safety."
+    },
+    {
+        "id": "7",
+        "title": "System Configuration",
+        "description": "The system allows users to configure various operational settings, ensuring that the system is customized to meet specific user requirements and operational needs."
+    },
+    {
+        "id": "8",
+        "title": "JavaScript Enhancements",
+        "description": "The system supports the injection of custom JavaScript code to enhance functionality. Users can load and execute JavaScript files to add dynamic features to the application, enabling sophisticated UI modifications and operational enhancements."
+    },
+    {
+        "id": "9",
+        "title": "Map and Layer Management",
+        "description": "The system provides users with a dynamic map interface that integrates diverse layers of geospatial data, facilitating a tailored view experience. Users can seamlessly switch between different map views, such as world imagery or street maps, enhancing situational awareness. This interface is especially useful in geographical analysis or navigation contexts, allowing users to select the most informative map layer based on their current needs or objectives."
+    }
+]

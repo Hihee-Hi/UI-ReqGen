@@ -1,0 +1,7 @@
+As a patient using this system, you would:
+View your current prescription records or those of other individuals you represent.
+Select to view your own prescriptions by clicking the "View Current" button or choose another person you represent from a dropdown list, if applicable, to view their prescription records.
+See a list of prescribed medications, including details like ND Code, description, duration of the prescription, and the healthcare provider who prescribed it.
+For your own prescriptions, you have the option to report any adverse events related to your medication, ensuring that potential drug issues can be tracked and addressed.
+If you want to report any adverse events, mark the relevant prescriptions, and the system will guide you to do so.
+The system helps you manage medication records efficiently and communicate safety concerns effectively.

@@ -1,0 +1,5 @@
+As a patient using this system, you can view the messages sent to you by healthcare providers or other authorized personnel. When you access the messages page, you'll see a list of all your messages displayed in a table format. Each message will show the name of the sender, the content of the message, and the date it was received.  
+
+If you wish to respond to a specific message, simply click on the "Reply" link next to that message, and it will take you to another page where you can compose and send your reply.  
+
+If you do not have any messages, the system will display a notification indicating that your inbox is empty. This provides a simple and organized way to manage communication with your healthcare team, ensuring efficient and accessible information exchange.

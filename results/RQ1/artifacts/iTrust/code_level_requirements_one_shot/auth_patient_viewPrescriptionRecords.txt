@@ -1,0 +1,16 @@
+As a patient using this system, you can access and manage your prescription records in several ways:
+
+1. View Your Prescriptions:
+   - Select the option to view your own prescriptions by clicking the "View Current" button.
+   - The system will display a list of prescriptions that are currently active. For each prescription, you can see details, including the prescription code, medication description, the duration of the prescription, and the name of the prescribing healthcare provider (HCP).
+   - You can also click on the prescription code to get more detailed information about the prescription.
+
+2. View Prescriptions for Someone You Represent:
+   - If you are a representative for another patient, you will see a dropdown menu listing all the individuals you represent. Select the person whose prescription records you wish to view, and click the "View" button.
+   - The system will then display the prescription records for the selected individual, with similar details as described above.
+
+3. Report Adverse Events:
+   - While viewing your own prescriptions, you can specify whether you wish to report adverse reactions for individual prescriptions. Use the text field to indicate "Y" for Yes or "N" for No for each prescription.
+   - If any adverse events are marked for reporting, you can proceed by clicking the "Report Adverse Events" button to notify the system. Note that you must select at least one prescription to report adverse events.
+
+The system ensures secure access and transparent handling of prescription records, allowing you and your representees to monitor health-related information effectively.

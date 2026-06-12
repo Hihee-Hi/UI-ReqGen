@@ -1,0 +1,1 @@
+The user can organize and view the list of flight routes in alphabetical order based on their names. When viewing the system's display of available flight routes, they will see them sorted accordingly, facilitating easier navigation and selection of routes by name. This enhances the user's ability to quickly find and manage specific routes among potentially numerous options.

@@ -1,0 +1,13 @@
+As a user, when you need to define new waypoints for drones in a flight planning system, you can interact with a special window that appears on your screen. To do so, follow these steps:
+
+1. A window will prompt you to enter specific data about the waypoint, including altitude and transit speed. This is crucial for ensuring the drone's flight path is correctly configured.
+
+2. Within this window, you'll see fields labeled "Altitude" and "Transit Speed". Enter the appropriate numeric values into these fields. It's important to input valid numeric data as the application will not accept non-numeric entries.
+
+3. After entering the information, you will have two main actions:
+   - Save: Click the "Save" button if the information provided is correct. The system will validate the input to ensure the numbers are properly formatted. If the information is accurate, the waypoint will be updated with the new details you have provided, and integrated into the drone’s flight path.
+   - Cancel: If you decide not to save the changes, you can click the "Cancel" button, which will discard the input and close the window without making any changes.
+
+4. If there are errors in your input (such as non-numeric values), a notification will alert you with specific details about the mistakes, allowing you to correct them before proceeding.
+
+The system ensures that only valid, complete information updates the flight path, maintaining the integrity and safety of drone navigation. The interface is designed to guide you smoothly through the process of setting these waypoints.

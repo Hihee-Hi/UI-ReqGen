@@ -1,0 +1,11 @@
+As a user, you can manage report requests within the healthcare administration system. Here’s how you interact with the system:
+
+1. View All Report Requests: You can see a list of all the report requests. This includes details such as the ID, patient information, approver details, dates for request, approval, and viewing, the current status of the report request, and any comments associated with it.
+
+2. Approve Requests: If a report request is still pending, you, as an authorized user, can approve it. Simply click on the “Approve” link next to the request you wish to approve. Confirmation of the approval will be displayed on the screen.
+
+3. Reject Requests: If you decide to reject a report request, click on the “Reject” link. You will be prompted to provide a reason for the rejection. Enter the details and confirm. A confirmation of the rejection will be displayed.
+
+4. Error Handling: In case of any issues during approval or rejection, an error message will be displayed to alert you of what went wrong.
+
+This system streamlines the approval process of healthcare report requests, ensuring efficient administration within the healthcare environment.

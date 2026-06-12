@@ -1,0 +1,5 @@
+As a healthcare provider using this system, you can manage and review your report requests effectively. The page displays a list of all reports you have requested, providing key details such as the report ID, the patient's name, the requested date, the viewed date (if applicable), and the current status. You can click on an action link to view the details of a specific report.
+
+If you need to add a new report request for a patient, you can do so by using the "Add a new Report Request" option. Once you add a request, the system processes it and includes it in your list of report requests. In cases where an error occurs during the submission of a new request, the system will notify you with a message.
+
+This functionality ensures streamlined organization and easy access to patient-related reports within your workflow. It also encourages proactive engagement by allowing you to add and manage requests directly.

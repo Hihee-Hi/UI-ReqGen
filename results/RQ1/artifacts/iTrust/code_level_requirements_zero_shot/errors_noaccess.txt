@@ -1,0 +1,1 @@
+The system alerts users that they do not have the appropriate permissions to access certain pages. Upon attempting to access a restricted area, the user experiences an authorization error. Consequently, the system automatically logs the user out to maintain security. The user is then informed of the invalid role status and provided with a link to log back into the system.

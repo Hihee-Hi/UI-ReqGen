@@ -1,0 +1,7 @@
+As a patient using this system, you would: 
+Access your inbox to view a list of messages, which includes the sender name, subject, and the date received. 
+You have the option to sort these messages based on the sender or the time they were received, either in ascending or descending order. 
+If you want to filter out messages for easier management, you can customize your message filter criteria by editing the message filter. This allows you to set conditions based on the sender, specific words in the message, message subject, and date range. You can test your filter before applying it to make sure it captures the messages you're interested in.
+If you don’t see any messages after filtering, it might be indicative of your filter settings being too restrictive.
+Unopened messages are bolded, making it easy for you to spot messages you haven't read yet.
+When you click on a message, you will be redirected to read the full content of the message. This system helps you efficiently manage and organize your messages to ensure you don’t miss important communications from your healthcare providers.

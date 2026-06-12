@@ -1,0 +1,1 @@
+A client shall register with the _UIMiddleware_ to receive UAV type specification events whenever a new UAV type specification is created  modified  or deleted.

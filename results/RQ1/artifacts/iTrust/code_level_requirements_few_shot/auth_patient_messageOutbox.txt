@@ -1,0 +1,7 @@
+As a patient using this system, you would:
+- Log into your account to access your outbox, which contains a list of all the messages you have sent.
+- View your sent messages, including details like the recipient's name, the message subject, and the date it was sent.
+- Sort these messages by the recipient's name or the date sent, in either ascending or descending order, according to your needs.
+- Open individual messages to read the content if needed.
+- If you wish to send a new message, you have the option to navigate directly to the message composition page.
+This system helps you manage and track communications with your healthcare provider by allowing easy access to your sent messages.

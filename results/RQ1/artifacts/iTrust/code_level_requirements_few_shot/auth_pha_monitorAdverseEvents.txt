@@ -1,0 +1,7 @@
+As a public health administrator (PHA) using this system, you will be able to:  
+Specify a date range to monitor adverse events related to prescriptions or immunizations, which are reported during that period.  
+Select either prescriptions or immunizations to generate a report of adverse events within the chosen time frame.  
+View details for each reported adverse event, including the drug or immunization code, the reporter's identity, and the date of the event.  
+Click on individual events to see more comprehensive information for further investigation.  
+Generate visual representations (charts) tracking adverse events over time for specific drugs or immunizations, which allows you to identify trends and ensure timely intervention.  
+The system facilitates efficient data tracking and analysis, helping you detect patterns or high-risk areas that require additional attention, which is crucial for maintaining public health safety and compliance.

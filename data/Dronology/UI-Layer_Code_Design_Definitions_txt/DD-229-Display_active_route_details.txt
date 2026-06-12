@@ -1,0 +1,1 @@
+The UI shall display the waypoints and their connections.

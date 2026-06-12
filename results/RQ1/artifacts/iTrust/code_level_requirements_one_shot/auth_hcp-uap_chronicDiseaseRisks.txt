@@ -1,0 +1,5 @@
+As a healthcare provider (HCP) using this system, you would begin the process by ensuring you have selected a patient's medical ID (PID) either beforehand or through a prompt. Upon entering the PID, the system assesses the patient's health data to identify potential chronic diseases the patient may be at risk for. 
+
+The system presents a list of chronic diseases along with associated risk factors specific to the selected patient. Each disease includes a detailed description of the individual patient risk factors contributing to the assessment. This provides a clear and organized view that helps you understand the patient's health profile and focus on preventive measures or targeted treatment.
+
+If no data is available for the selected patient, the system informs you accordingly, allowing you to handle such instances with clarity. You would use this feature as part of preventative care planning or to monitor patients with ongoing health concerns.

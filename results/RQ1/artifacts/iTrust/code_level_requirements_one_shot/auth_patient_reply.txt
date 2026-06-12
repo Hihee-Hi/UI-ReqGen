@@ -1,0 +1,4 @@
+As a patient using this system:  
+You can reply to messages received from healthcare personnel. Initially, you select the message to reply to from your inbox. When replying, you'll see the details of the healthcare personnel who sent the original message, along with the subject line pre-filled as "RE: [Original Subject]."  
+You can then write your reply in the provided text area and submit the response. After submission, the system creates a correspondence record linked to the original message and ensures the reply is securely delivered to the intended recipient. Upon successful submission, you are automatically redirected to your inbox to continue managing your messages.  
+This feature allows for effective and direct communication within the healthcare environment, ensuring patients can interact smoothly with their care providers.

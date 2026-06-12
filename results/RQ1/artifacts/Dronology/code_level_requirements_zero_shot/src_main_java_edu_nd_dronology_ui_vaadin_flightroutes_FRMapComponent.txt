@@ -1,0 +1,15 @@
+This part of the system is designed for managing flight routes through an interactive user interface map component. As a user, you can perform several key functions:
+
+- Adding Waypoints: You can create new waypoints for a flight route by inputting altitude and transit speed information. This can be done through an accessible window specifically designed for this purpose.
+ 
+- Viewing Waypoint Information: For each existing waypoint, you can trigger popup views that display detailed information about them, such as their location and other custom data.
+
+- Editing Routes: The system allows you to enter and exit edit mode, enabling you to modify the route by adding or removing waypoints. You can also change the display of waypoints to refine the route path according to your needs.
+
+- Managing Routes: You have the option to delete entire routes, which will subsequently clear the map of any waypoints associated with them.
+
+- Navigating the Map: The application provides controls to center the map view based on the flight route's waypoints, ensuring optimal visibility. This allows for adjustments to the zoom level dynamically depending on the distribution of waypoints.
+
+- Reviewing Route Information: You can look into the specifics of a selected flight route, such as its description, through a designated section in the interface.
+
+The component's interface is structured to provide a seamless experience for managing flight routing processes, with interactive map features enhancing route planning and visualization tasks.

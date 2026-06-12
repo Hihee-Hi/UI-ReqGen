@@ -1,0 +1,7 @@
+As a healthcare administrator using this system, you would:
+
+Enter or select a specific prescription or immunization code to view its associated adverse event statistics. The system will retrieve all reported adverse events tied to this code that have not been marked as removed. 
+
+You will be presented with a visually interactive chart displaying the frequency of adverse event reports over time, specifically categorized by month. This allows you to easily identify trends or anomalies in the data related to the selected medication or vaccination program.
+
+The chart provides clarity in understanding patient safety outcomes and adverse reactions, assisting in monitoring and improving healthcare protocols, medications, or immunization campaigns.

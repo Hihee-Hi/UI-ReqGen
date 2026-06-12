@@ -1,0 +1,9 @@
+As an administrator using this system, you would perform the following actions to manage appointment types within the healthcare scheduling platform: 
+
+Open the interface, which displays a list of current appointment types with their respective names and durations. 
+
+To add a new appointment type, enter the name and expected duration in the provided fields and submit the information using the 'Add Type' option. 
+
+To modify an existing appointment type, select its name from the list—this will populate the fields with its current details—update the information accordingly, then confirm the changes using the 'Update Type' option. 
+
+The system validates the input, displaying any necessary error messages for missing or incorrect information. This ensures all appointment types are correctly configured to match the clinic's scheduling requirements.

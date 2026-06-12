@@ -1,0 +1,15 @@
+To use the system for managing patient representatives, follow these steps: 
+
+1. Ensure you have a patient ID. If you access the page without a patient ID, you will be redirected to the proper page to input or retrieve it.
+
+2. On the page, you can see a list of current representatives assigned to the patient. If no representatives are yet assigned, you will be informed that no representatives are specified.
+
+3. To remove an existing representative, click on the 'Remove' link next to their name. This action will update the list to reflect the changes.
+
+4. To add a new representative, you will use the 'Find User' button next to 'Patient' to search for and select a user to assign as a representative. Once selected, you will see their information in the specified area.
+
+5. After choosing a new representative, submit the form using the 'Represent this patient' button to update the representative list for the patient.
+
+6. If there are any errors in the process, such as entering invalid information or processing issues, you will receive a message indicating the specific error. Otherwise, confirmation messages for successful additions or removals will be displayed.
+
+This system ensures secure and efficient management of representatives for patient records, maintaining a robust method for healthcare professionals to assign or reassign patient accountability effectively.

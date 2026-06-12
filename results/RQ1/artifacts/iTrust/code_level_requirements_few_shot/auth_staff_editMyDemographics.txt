@@ -1,0 +1,7 @@
+As a staff member using this system, you would:  
+Access your personal demographic information page, which allows you to update your details securely.  
+Fill in your personal information such as first name, last name, address, city, state, zip code, and phone number in the provided form fields.  
+Ensure that your authentication information is updated by setting a security question and answer. This is essential for the security and recovery of your account.  
+If you need to change your password, you have to use the "Reset Password" option available on the login page, as this page focuses on demographic data update only.  
+Submit the form to update your details, and you will see a confirmation message indicating successful information update.  
+The system uses these updates to maintain accurate records of the personnel, ensuring efficient communication and security within the healthcare organization.

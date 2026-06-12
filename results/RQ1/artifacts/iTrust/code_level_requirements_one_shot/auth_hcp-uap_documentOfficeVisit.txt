@@ -1,0 +1,5 @@
+As a healthcare professional using this system, you would:  
+1. Select a patient, ensuring you have their unique identifier (PID) before proceeding. If the patient ID is not set, the system redirects you to first specify it.  
+2. To document a new office visit for the patient, confirm your action through a single-click interface. After confirmation, the system will create a new office visit record and redirect you to a page where you can edit and input relevant visit details.  
+3. Alternatively, you can view a list of past office visits for the patient and select any visit from the list to modify or update its details.  
+4. This process streamlines the documentation of office visits, allowing you to focus on either creating new records or managing existing ones for accurate patient care history.

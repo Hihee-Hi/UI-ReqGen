@@ -1,0 +1,1 @@
+The _ObjectAvoidance_ system shall retrieve the state of the UAVs onboard ObjectAvoidance status.

@@ -1,0 +1,8 @@
+As a user (whether a patient or their representative) interacting with this system, you can report telemedicine data concerning blood pressure and glucose levels. Here's how:
+
+- If you are self-reporting, simply enter your own readings for systolic blood pressure, diastolic blood pressure, and glucose levels into the provided form and submit it.
+- If you are reporting data for another patient (as their representative), select the specific patient from the provided list, which will automatically adjust the form to reference that individual. You then enter the readings for the selected patient and submit it.
+- Upon submission, the system validates the entered data to ensure correct numerical formats. If any validation issues occur, an error message will be displayed, prompting you to correct your input.
+- Once the data is successfully recorded, a confirmation message will appear to notify you of the successful addition of the information.
+
+This process ensures accurate and secure reporting of key health metrics and allows for convenient reporting on behalf of others when necessary.

@@ -1,0 +1,11 @@
+The consultation module is designed for healthcare providers to manage consultation referrals for patients. It allows logged-in healthcare professionals to perform four main functions: initiating a new consultation, viewing pending consultations, updating consultation details, and sending consultation requests. 
+
+1. To initiate a new consultation, the user selects a patient under their care and another healthcare provider to refer the patient to. They can then provide consultation details which will be included in the request.
+
+2. To view pending consultations, both outgoing and incoming consultations are displayed, showing details such as consultation status, involved patients, and healthcare providers. Users can select a specific consultation to view or update further.
+
+3. Updating a consultation involves reviewing existing consultation details, editing the referral or consultation notes, and changing the status of the consultation. This feature provides the ability to manage ongoing consultations and ensure that appropriate actions are taken throughout the process.
+
+4. Sending a consultation request involves confirming the selection of the patient, the receiving healthcare provider, and the detailed message before submitting the consultation referral.
+
+These interactions streamline the referral process between healthcare practitioners, enhancing the efficiency of patient care coordination within the medical facility.

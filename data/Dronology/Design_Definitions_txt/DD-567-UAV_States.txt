@@ -1,0 +1,1 @@
+The _ObjectAvoidance_ system shall maintain a list of UAV states

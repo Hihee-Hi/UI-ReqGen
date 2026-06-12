@@ -1,0 +1,1 @@
+A client may register with the _UIMiddleware_ to receive notifications whenever unexpected events occur.

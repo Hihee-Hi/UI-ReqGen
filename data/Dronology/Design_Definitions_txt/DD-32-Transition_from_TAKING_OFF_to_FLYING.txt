@@ -1,0 +1,1 @@
+When a UAV in the TAKING_OFF state achieves the target altitude it transitions to FLYING state.

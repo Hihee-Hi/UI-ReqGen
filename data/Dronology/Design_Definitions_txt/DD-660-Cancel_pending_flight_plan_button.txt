@@ -1,0 +1,1 @@
+Each UAV shall have a cancel pending flight plan button associated with it.

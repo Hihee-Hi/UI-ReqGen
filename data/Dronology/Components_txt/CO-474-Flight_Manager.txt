@@ -1,0 +1,1 @@
+Provides basic flight related capabilities for UAVs.

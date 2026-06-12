@@ -1,0 +1,412 @@
+{
+  "results": {
+    "0": {
+      "title": "Active Flights Management",
+      "decision": "Match",
+      "best_match_toA": "474",
+      "reason": "The topics are partially related as both deal with managing flights, but Document B has a broader scope and includes advanced functionalities like real-time tracking, interaction with flight components, and mission activities, which are not explicitly covered in Document A.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "474",
+          "similarity": 0.540045408905732,
+          "decision": "Match",
+          "reason": "The topics are partially related as both deal with managing flights, but Document B has a broader scope and includes advanced functionalities like real-time tracking, interaction with flight components, and mission activities, which are not explicitly covered in Document A."
+        },
+        {
+          "rank": 2,
+          "A_id": "472",
+          "similarity": 0.5061594606707923,
+          "decision": "Match",
+          "reason": "The topics are partially related as both involve managing flights, but the core functionality differs significantly: Document A focuses on creating and managing flight routes, while Document B emphasizes real-time control, tracking, and interaction with active flights and components."
+        },
+        {
+          "rank": 3,
+          "A_id": "105",
+          "similarity": 0.5018607541963249,
+          "decision": "Match",
+          "reason": "Both requirements deal with real-time tracking and interaction of flights/UAVs, but Document A focuses on displaying routes and UAVs on a map, while Document B emphasizes broader management functionality, including controlling operations and mission activities."
+        }
+      ]
+    },
+    "1": {
+      "title": "Splash and Loading Screens",
+      "decision": "No Match",
+      "best_match_toA": "641",
+      "reason": "The topics and descriptions are unrelated as Document A focuses on a UI for managing UAV routes and flight planning, while Document B is about splash screens and loading windows during application initialization or processing.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "641",
+          "similarity": 0.25770206827680026,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated as Document A focuses on a UI for managing UAV routes and flight planning, while Document B is about splash screens and loading windows during application initialization or processing."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.22944629378490763,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are entirely unrelated. Document A deals with real-time UAV and flight display management, while Document B focuses on splash and loading screens for application initialization."
+        },
+        {
+          "rank": 3,
+          "A_id": "765",
+          "similarity": 0.21095912412317697,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are completely unrelated, with one focusing on map displays and the other on splash/loading screens for app initialization or processing."
+        }
+      ]
+    },
+    "2": {
+      "title": "Flight Route Management",
+      "decision": "Match",
+      "best_match_toA": "472",
+      "reason": "The topic and main function are semantically the same, both involving the creation and management of flight routes, despite differences in detail and wording.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "472",
+          "similarity": 0.6594100697707431,
+          "decision": "Match",
+          "reason": "The topic and main function are semantically the same, both involving the creation and management of flight routes, despite differences in detail and wording."
+        },
+        {
+          "rank": 2,
+          "A_id": "663",
+          "similarity": 0.6263866308296407,
+          "decision": "Match",
+          "reason": "Both requirements focus on the creation of flight routes on a map, with Document B providing additional editing and visualization functionalities. Despite the differences in level of detail, the core functionality of creating flight routes is semantically the same."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.5381673942119432,
+          "decision": "Match",
+          "reason": "Both requirements focus on managing flight routes and related functionalities. Although Document B provides more detail about specific features, the core functionality aligns closely with the description in Document A."
+        }
+      ]
+    },
+    "3": {
+      "title": "Route and Waypoint Deletion Confirmation",
+      "decision": "Match",
+      "best_match_toA": "663",
+      "reason": "The topics are partially related as both deal with flight routes, but their core functionality differs - Document A focuses on route creation, while Document B centers on route and waypoint deletion with confirmation dialogs.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "663",
+          "similarity": 0.45334838952302164,
+          "decision": "Match",
+          "reason": "The topics are partially related as both deal with flight routes, but their core functionality differs - Document A focuses on route creation, while Document B centers on route and waypoint deletion with confirmation dialogs."
+        },
+        {
+          "rank": 2,
+          "A_id": "472",
+          "similarity": 0.43914741037642824,
+          "decision": "Match",
+          "reason": "The topics are partially related as both deal with flight routes, but Document B focuses specifically on deletion confirmation dialogs, which is a secondary feature to the broader route management functionality described in Document A."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.4313271720340511,
+          "decision": "Match",
+          "reason": "The topics are partially related through functionality involving flight routes, but Document A focuses on a broader user interface for managing UAV routes and planning flights, while Document B is specifically about confirming route and waypoint deletions."
+        }
+      ]
+    },
+    "4": {
+      "title": "Flight Information and Controls",
+      "decision": "Match",
+      "best_match_toA": "105",
+      "reason": "Both requirements describe functionality related to displaying and interacting with flight/UAV data in real-time via a map interface, including overlapping tools like zooming, panning, and monitoring UAVs. The descriptions differ in wording and specificity but align in core functionality.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "105",
+          "similarity": 0.628834100238607,
+          "decision": "Match",
+          "reason": "Both requirements describe functionality related to displaying and interacting with flight/UAV data in real-time via a map interface, including overlapping tools like zooming, panning, and monitoring UAVs. The descriptions differ in wording and specificity but align in core functionality."
+        },
+        {
+          "rank": 2,
+          "A_id": "641",
+          "similarity": 0.6028778972490928,
+          "decision": "Match",
+          "reason": "Both requirements describe tools for managing UAV flight routes and related data, including planning, monitoring, and displaying flight information. While Document B provides a more detailed description, the core functionality is highly similar to Document A."
+        },
+        {
+          "rank": 3,
+          "A_id": "474",
+          "similarity": 0.6022507841531046,
+          "decision": "Match",
+          "reason": "The topics are partially related as both deal with flight management for UAVs, but Document B includes more features like map interaction, flight status display, and route control, which are not explicitly mentioned in Document A."
+        }
+      ]
+    },
+    "5": {
+      "title": "Flight Route Setup and Navigation",
+      "decision": "Match",
+      "best_match_toA": "472",
+      "reason": "Both requirements describe the functionality of managing or setting up flight routes. Although Document B provides more detailed features such as visibility controls and parameter adjustments, the core functionality of creating and managing routes remains the same.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "472",
+          "similarity": 0.6337121492984117,
+          "decision": "Match",
+          "reason": "Both requirements describe the functionality of managing or setting up flight routes. Although Document B provides more detailed features such as visibility controls and parameter adjustments, the core functionality of creating and managing routes remains the same."
+        },
+        {
+          "rank": 2,
+          "A_id": "663",
+          "similarity": 0.6169592286434595,
+          "decision": "Match",
+          "reason": "Both requirements focus on creating and managing flight routes, with overlapping core functionality such as adding new routes. Document B provides additional capabilities like visibility control and parameter adjustments, but the main function remains semantically the same."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.5595803641160226,
+          "decision": "Match",
+          "reason": "Both requirements focus on user interfaces for managing and setting up UAV flight routes, including planning and interacting with route components. While the descriptions differ in detail and phrasing, the core functionality is the same."
+        }
+      ]
+    },
+    "6": {
+      "title": "Emergency Flight Operations",
+      "decision": "Match",
+      "best_match_toA": "475",
+      "reason": "The topics are partially related as both involve UAV flight operations, but the scope and purpose differ significantly; one deals with routine scheduling and execution, while the other is focused on emergency procedures and overrides.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "475",
+          "similarity": 0.42727488719476775,
+          "decision": "Match",
+          "reason": "The topics are partially related as both involve UAV flight operations, but the scope and purpose differ significantly; one deals with routine scheduling and execution, while the other is focused on emergency procedures and overrides."
+        },
+        {
+          "rank": 2,
+          "A_id": "474",
+          "similarity": 0.4227259990951292,
+          "decision": "Match",
+          "reason": "The titles and descriptions are partially related as both deal with flight operations for UAVs, but Document B specifically focuses on emergency procedures and overrides, making its scope different from the general flight management capabilities described in Document A."
+        },
+        {
+          "rank": 3,
+          "A_id": "472",
+          "similarity": 0.36536416599663013,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated, as one focuses on managing flight routes, while the other deals with emergency flight operations and procedures."
+        }
+      ]
+    },
+    "7": {
+      "title": "Takeoff Altitude Configuration",
+      "decision": "Match",
+      "best_match_toA": "474",
+      "reason": "The topics are partially related, as both deal with flight operations for UAVs, but the scope of functionality differs; Document A is broader and mentions basic flight capabilities in general, while Document B focuses specifically on configuring the takeoff altitude.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "474",
+          "similarity": 0.32622877292528707,
+          "decision": "Match",
+          "reason": "The topics are partially related, as both deal with flight operations for UAVs, but the scope of functionality differs; Document A is broader and mentions basic flight capabilities in general, while Document B focuses specifically on configuring the takeoff altitude."
+        },
+        {
+          "rank": 2,
+          "A_id": "582",
+          "similarity": 0.3100487670173124,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated; Document A focuses on activating UAVs, while Document B addresses configuring takeoff altitude settings."
+        },
+        {
+          "rank": 3,
+          "A_id": "472",
+          "similarity": 0.303763802412277,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated as one focuses on managing flight routes within a system while the other deals with defining and configuring takeoff altitude for safety."
+        }
+      ]
+    },
+    "8": {
+      "title": "Notifications System",
+      "decision": "Match",
+      "best_match_toA": "610",
+      "reason": "Both requirements involve event-related functionality, but they differ significantly in scope and purpose. Document A focuses on logging UAV-related events, whereas Document B emphasizes notifying users about important events or status changes, centered around timely alerts rather than record-keeping.",
+      "all_matches": [
+        {
+          "rank": 2,
+          "A_id": "610",
+          "similarity": 0.20713220655437292,
+          "decision": "Match",
+          "reason": "Both requirements involve event-related functionality, but they differ significantly in scope and purpose. Document A focuses on logging UAV-related events, whereas Document B emphasizes notifying users about important events or status changes, centered around timely alerts rather than record-keeping."
+        },
+        {
+          "rank": 1,
+          "A_id": "700",
+          "similarity": 0.2442898653474719,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as one focuses on runtime monitoring of internal and UAV data collection while the other addresses a notification system for alerting users about events or status changes."
+        },
+        {
+          "rank": 3,
+          "A_id": "90",
+          "similarity": 0.20383665235715537,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as Document A discusses middleware for managing communications between systems, while Document B focuses on a notification system for user alerts."
+        }
+      ]
+    },
+    "9": {
+      "title": "Layer Management",
+      "decision": "Match",
+      "best_match_toA": "641",
+      "reason": "The topics and functions are partially related as both involve UI and flight-related activities, but their main purposes differ - Document A focuses on UAV route planning, while Document B emphasizes managing map layers for visualization and interaction.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "641",
+          "similarity": 0.441571761994768,
+          "decision": "Match",
+          "reason": "The topics and functions are partially related as both involve UI and flight-related activities, but their main purposes differ - Document A focuses on UAV route planning, while Document B emphasizes managing map layers for visualization and interaction."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.440441806804024,
+          "decision": "Match",
+          "reason": "The topics are partially related, as both involve interacting with flight-related data on a map, but the purposes and functionalities differ significantly. Document A focuses on real-time UAV display and interaction, while Document B highlights map layer configuration for visualization."
+        },
+        {
+          "rank": 3,
+          "A_id": "765",
+          "similarity": 0.42172008256555754,
+          "decision": "Match",
+          "reason": "While both requirements involve map functionality, Document A focuses on displaying routes and UAVs using external map providers, whereas Document B centers on managing and configuring map layers for visualization. These topics partially overlap but differ in scope and purpose."
+        }
+      ]
+    },
+    "10": {
+      "title": "Map Visualization and Interaction",
+      "decision": "Match",
+      "best_match_toA": "765",
+      "reason": "Both requirements focus on providing map functionality for visualizing routes, even though Document B includes interaction features and more detailed descriptions. The core functionality is highly similar.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "765",
+          "similarity": 0.579209034034405,
+          "decision": "Match",
+          "reason": "Both requirements focus on providing map functionality for visualizing routes, even though Document B includes interaction features and more detailed descriptions. The core functionality is highly similar."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.5307432764818747,
+          "decision": "Match",
+          "reason": "Both requirements focus on map visualization and interaction, but Document A emphasizes real-time UAV and flight route management, while Document B highlights more general map visualization and layering without specifying real-time UAV tracking or interaction with UAVs."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.4801794658783543,
+          "decision": "Match",
+          "reason": "While both requirements involve functionality related to flight routes and user interaction, Document A focuses on a broader user interface for UAV routing and flight planning, whereas Document B specifically emphasizes detailed map visualization and interaction. The scope and main features differ significantly."
+        }
+      ]
+    },
+    "11": {
+      "title": "Yes/No Confirmation Dialogs",
+      "decision": "No Match",
+      "best_match_toA": "641",
+      "reason": "The topics and functionalities are unrelated; Document A focuses on UAV route and flight planning, while Document B addresses yes/no confirmation dialogs for critical actions.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "641",
+          "similarity": 0.22925039241962655,
+          "decision": "No Match",
+          "reason": "The topics and functionalities are unrelated; Document A focuses on UAV route and flight planning, while Document B addresses yes/no confirmation dialogs for critical actions."
+        },
+        {
+          "rank": 2,
+          "A_id": "481",
+          "similarity": 0.19280334906774435,
+          "decision": "No Match",
+          "reason": "The topics and main functions are completely unrelated; one focuses on collision avoidance mechanisms and the other on confirmation dialogs for user actions."
+        },
+        {
+          "rank": 3,
+          "A_id": "663",
+          "similarity": 0.15253728616040882,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated, as one addresses creating flight routes on a map while the other focuses on confirmation dialogs for user decisions."
+        }
+      ]
+    },
+    "12": {
+      "title": "Map Marker Interaction",
+      "decision": "Match",
+      "best_match_toA": "765",
+      "reason": "Both requirements involve map functionality, but Document A focuses on displaying routes and UAVs using map providers, while Document B is specifically about interaction with map markers and their events. There is partial overlap in scope but notable differences in purpose and features.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "765",
+          "similarity": 0.34162165380393167,
+          "decision": "Match",
+          "reason": "Both requirements involve map functionality, but Document A focuses on displaying routes and UAVs using map providers, while Document B is specifically about interaction with map markers and their events. There is partial overlap in scope but notable differences in purpose and features."
+        },
+        {
+          "rank": 3,
+          "A_id": "105",
+          "similarity": 0.23835440438620847,
+          "decision": "Match",
+          "reason": "The requirements are partially related as both involve map navigation and interaction, but one focuses on real-time visualization of UAVs and flights while the other emphasizes interaction-specific features like marker adjustments and mouse events."
+        },
+        {
+          "rank": 2,
+          "A_id": "663",
+          "similarity": 0.2643513318860134,
+          "decision": "No Match",
+          "reason": "The descriptions and titles are unrelated, as one focuses on creating flight routes on a map and saving them in Dronology, while the other is about interacting with map markers through visual feedback and adjustments."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "Coverage Ratio (CR)": 0.32,
+    "Generated Match Ratio (GMR)": 0.8461538461538461,
+    "Matched Reference Requirement Count": 8,
+    "Matched Generated Requirement Count": 11,
+    "Reference Requirement Count": 25,
+    "Generated Requirement Count": 13,
+    "Matched Reference Requirement IDs": [
+      "105",
+      "472",
+      "474",
+      "475",
+      "610",
+      "641",
+      "663",
+      "765"
+    ],
+    "Matched Generated Requirement IDs": [
+      "0",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "12"
+    ]
+  }
+}

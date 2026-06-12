@@ -1,0 +1,5 @@
+As a patient using this system, you would:
+Log in to access your personal information.
+View your profile details, including your full name, gender, location (city and state), date of birth, and blood type.
+See a picture of yourself, personalized with your specific medical identification number (MID).
+This system allows you to conveniently review your personal and demographic information which is securely retrieved and displayed.

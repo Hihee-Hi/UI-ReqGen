@@ -1,0 +1,1 @@
+When requested by the user  a currently executing mission plan shall be cancelled by removing all pending flight plans and removing all synchronization points.

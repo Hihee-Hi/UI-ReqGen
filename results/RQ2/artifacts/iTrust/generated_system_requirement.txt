@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0",
+    "title": "Patient Representative Management",
+    "description": "Healthcare providers can manage patient representatives by selecting a patient, viewing existing representatives, adding new ones through a search-and-select interface, and removing outdated entries. The system ensures only authorized users can access or modify patient data."
+  },
+  {
+    "id": "1",
+    "title": "Prescription Management and Access",
+    "description": "Authorized users can create, edit, and access prescription details, including expired and current records. Healthcare professionals can generate and view prescription reports, while patients have access to detailed information about their prescriptions."
+  },
+  {
+    "id": "2",
+    "title": "Sent Message Management",
+    "description": "Users can access and manage their sent messages by sorting based on recipient name or timestamp. Detailed message content can be viewed individually, with notifications displayed when no messages are found."
+  },
+  {
+    "id": "3",
+    "title": "Emergency Reporting and Navigation",
+    "description": "Emergency responders and healthcare providers have access to emergency-specific menus, homepages, and can file emergency reports to address critical patient situations."
+  },
+  {
+    "id": "4",
+    "title": "Navigation Menus by User Role",
+    "description": "Users are provided with personalized navigation menus based on their roles—admin, healthcare provider, UAP, or patient—enabling efficient access to relevant system features."
+  },
+  {
+    "id": "5",
+    "title": "Patient Monitoring and List Management",
+    "description": "Healthcare providers and UAPs can monitor patient health metrics, manage patient lists, and access detailed monitoring views to ensure effective care coordination."
+  },
+  {
+    "id": "6",
+    "title": "Information Dashboards by Role",
+    "description": "Each user role has access to a tailored information dashboard that displays relevant updates, system details, and administrative overviews based on their responsibilities."
+  },
+  {
+    "id": "7",
+    "title": "Database Display Tools",
+    "description": "Utility functions are available to display and browse system or wiki databases, providing backend transparency and operational visibility for testing or support purposes."
+  },
+  {
+    "id": "8",
+    "title": "Laboratory Procedure and Diagnosis Access",
+    "description": "Patients and providers can access lab procedure records and diagnostic summaries. Healthcare providers can also manage lab data entry to maintain accurate clinical information."
+  },
+  {
+    "id": "9",
+    "title": "Appointment Scheduling and Calendar Access",
+    "description": "Users can view and manage appointment calendars. Providers can schedule, view, and modify appointments, while patients can browse their own appointment history and upcoming visits."
+  },
+  {
+    "id": "10",
+    "title": "Patient Visit and Record Management",
+    "description": "The system allows healthcare providers to document, edit, and review office visit records and health summaries, assess chronic disease risks, and generate reports. Patients can access their medical history, office visit details, and personal health records."
+  },
+  {
+    "id": "11",
+    "title": "Role-Specific Dashboards and Navigation",
+    "description": "Custom homepages and navigation menus are provided based on user roles (admin, HCP, UAP) to streamline access to relevant system features and functionalities."
+  },
+  {
+    "id": "12",
+    "title": "NDC Data Administration",
+    "description": "Administrators can manage National Drug Code (NDC) interactions and codes, ensuring that the system reflects up-to-date pharmaceutical information relevant to clinical and administrative needs."
+  },
+  {
+    "id": "13",
+    "title": "User Onboarding and Patient Enrollment",
+    "description": "Healthcare professionals can add new patients and assign UAPs (Unlicensed Assistive Personnel) to support patient care processes, facilitating comprehensive onboarding."
+  },
+  {
+    "id": "14",
+    "title": "Adverse Event Monitoring and Reporting",
+    "description": "Patients can report adverse events, and public health administrators can track, view, and analyze these events through charts and dashboards to support healthcare safety monitoring."
+  },
+  {
+    "id": "15",
+    "title": "Personnel Information Management",
+    "description": "Staff can update their own demographic data and manage personnel records to keep the system's user directory accurate and up to date."
+  },
+  {
+    "id": "16",
+    "title": "Telemedicine Data Submission",
+    "description": "Patients and UAPs can submit telemedicine data, and healthcare providers can view additional patient information to support remote care delivery and decision-making."
+  },
+  {
+    "id": "17",
+    "title": "Medical Code Administration",
+    "description": "Admins manage standardized medical codes (CPT, ICD, LOINC) used for billing, diagnosis, and procedures to ensure consistency and compliance across clinical documentation."
+  },
+  {
+    "id": "18",
+    "title": "Message Composition and Replies",
+    "description": "Patients and healthcare providers can send messages and respond within the system, enabling secure and efficient two-way communication regarding healthcare matters."
+  },
+  {
+    "id": "19",
+    "title": "Inbox and Message Viewing",
+    "description": "Both patients and providers can access and manage their message inboxes, view received messages, and track message history for effective communication management."
+  },
+  {
+    "id": "20",
+    "title": "Healthcare Personnel Registration",
+    "description": "Administrators can add and register new Emergency Responders (ER), Healthcare Providers (HCP), and Public Health Administrators (PHA), ensuring that the system stays updated with active and authorized personnel."
+  },
+  {
+    "id": "21",
+    "title": "Email Communication History",
+    "description": "Users can review their historical email communication records, allowing both patients and healthcare professionals to access previous correspondence efficiently."
+  },
+  {
+    "id": "22",
+    "title": "Hospital Management Interface",
+    "description": "Admins can assign users to hospitals and manage hospital listings. This functionality supports the organization and oversight of healthcare facility structures and user affiliations."
+  },
+  {
+    "id": "23",
+    "title": "Patient Surveys and Visit History",
+    "description": "Patients can participate in surveys and review a list of healthcare providers they have visited. Survey results are accessible, offering insights into patient satisfaction and service feedback."
+  },
+  {
+    "id": "24",
+    "title": "Personnel Lookup and User Identity",
+    "description": "The system provides tools for retrieving personnel IDs, viewing healthcare provider information, and accessing general user details to support operational and administrative tasks."
+  },
+  {
+    "id": "25",
+    "title": "Laboratory Procedure Updates",
+    "description": "Healthcare professionals and UAPs can update patient laboratory procedures, maintaining accuracy and continuity in clinical documentation and patient records."
+  },
+  {
+    "id": "26",
+    "title": "System Testing and Utilities",
+    "description": "Utility features for testers include access to test menus and black-box functionalities, supporting quality assurance and backend system validation."
+  },
+  {
+    "id": "27",
+    "title": "Report Request Management",
+    "description": "Admins can view all report requests while healthcare professionals can access their own report submissions. This facilitates tracking and management of healthcare reporting tasks."
+  },
+  {
+    "id": "28",
+    "title": "Fake Email Simulation",
+    "description": "The system includes a utility to display fake emails, likely used for testing or training purposes to simulate real communication scenarios safely."
+  },
+  {
+    "id": "29",
+    "title": "Patient Demographics and Account Management",
+    "description": "Patients and healthcare professionals can edit patient demographic data, access patient information, reset passwords, and manage patient identification, ensuring accurate and secure user records."
+  },
+  {
+    "id": "30",
+    "title": "Custom Test Utilities",
+    "description": "Custom utility features are available for system testing and evaluation. These functions support quality checks and internal verification during development or assessment."
+  },
+  {
+    "id": "31",
+    "title": "Transaction Log Monitoring",
+    "description": "Testers and admins can monitor transaction logs and access tester-specific home views to ensure system operations are functioning correctly and audit trails are preserved."
+  },
+  {
+    "id": "32",
+    "title": "Access Log Review",
+    "description": "Patients can view access logs to monitor who has accessed their health information, supporting privacy, transparency, and security assurance."
+  },
+  {
+    "id": "33",
+    "title": "Visualization of Reports and Visits",
+    "description": "The system includes visual tools such as graphs and bar charts for displaying visit trends and public health analytics, aiding in data-driven decision-making."
+  },
+  {
+    "id": "34",
+    "title": "Appointment and Prescription Reminders",
+    "description": "Admins and providers can manage appointment and prescription reminders, including sending alerts and viewing patients who require prescription renewals or follow-up visits."
+  },
+  {
+    "id": "35",
+    "title": "Reminder Message Management",
+    "description": "Administrators can manage outgoing reminder messages and view the history of such communications to ensure timely and effective patient engagement."
+  }
+]

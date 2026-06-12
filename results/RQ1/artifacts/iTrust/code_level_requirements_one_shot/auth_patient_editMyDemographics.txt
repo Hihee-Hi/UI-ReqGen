@@ -1,0 +1,13 @@
+To update your personal information using this system, follow these steps:
+
+1. Access the form that contains your current personal details. This form is designed to show the information the system already has recorded for you.
+2. Update your basic information by entering your first name, last name, email, address (including street, city, state, and zip code), and phone number. This allows the system to keep your communication details current.
+3. If you have parents recorded in the healthcare system, you can enter their identification numbers to link your records with theirs for familial medical history.
+4. Update your payment information by selecting your credit card type and entering the card number. This ensures that your payment method is current for any necessary transactions.
+5. Provide your insurance details by updating the insurer's name, address, phone number, and your personal insurance identification number. This keeps your coverage information accurate for billing and service purposes.
+6. Enhance your account security by setting a security question and answer. This step helps in safeguarding your account and aids in account recovery.
+7. Ensure your emergency contact is up-to-date by filling in their name and phone number. This information is crucial in case immediate family notification is required during medical situations.
+8. Once all information has been reviewed and updated, submit the form to have the system store your changes. A confirmation message will acknowledge successful updates.
+9. Remember, changing a password directly isn't possible through this form. Instead, use the reset password option available on the login page if necessary.
+
+By following this process, you maintain your patient records' accuracy and security, ensuring the system supports your healthcare needs effectively.

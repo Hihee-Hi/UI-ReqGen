@@ -1,0 +1,5 @@
+As a user responsible for managing staff assignments within a hospital system, you will access a page dedicated to handling the assignments of healthcare professionals to different hospitals. Upon loading this page, the system first checks for your personnel ID to ensure you have the necessary permissions to make changes. If the ID is not present, you are redirected to obtain it.
+
+Once you have access, the system displays two tables. The first table lists hospitals to which healthcare professionals are currently assigned, where you can unassign a professional from a hospital by clicking the provided link. The second table shows hospitals that are available for new assignments, allowing you to assign healthcare professionals to hospitals by clicking the respective link.
+
+This functionality supports efficient management of hospital staffing, ensuring professionals are assigned to appropriate locations as needed.

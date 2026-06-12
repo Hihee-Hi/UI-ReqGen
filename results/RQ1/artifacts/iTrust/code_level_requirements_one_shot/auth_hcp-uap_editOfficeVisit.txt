@@ -1,0 +1,13 @@
+Using this system as a healthcare provider, you would:
+
+1. Start by identifying or selecting the patient and office visit record you want to document or update.
+2. View and update basic visit details such as the date of the visit, hospital, and notes associated with the visit.
+3. Add prescriptions for the patient by specifying medication details such as dosage, start and end dates, and instructions. The system checks for possible interactions and allergy warnings before confirming the prescription. You can also view or modify previous prescriptions tied to the visit.
+4. Manage laboratory procedures by documenting or removing existing procedures and adding new ones using predefined LOINC codes. This includes setting statuses and commentary for these procedures.
+5. Review and update patient diagnoses associated with this visit using ICD codes. You can add diagnoses from a provided list or remove existing ones if needed.
+6. Document procedures performed during the visit by using CPT codes. You can add procedures to the visit record, and edit or remove past procedures.
+7. Record immunizations administered during this office visit using specialized CPT codes, as well as add or remove immunization entries.
+8. Confirm that updates are successfully saved or address potential issues flagged by the system (e.g., invalid inputs, drug interactions, allergies).
+9. Navigate to other parts of the patient's record, such as personal health records or other historical data, once the office visit documentation is complete.
+
+This workflow allows providers to efficiently document and make adjustments to office visit records, enabling accurate and thorough patient care management.

@@ -1,0 +1,7 @@
+This system facilitates the tracking and monitoring of active flights for drones through an interactive user interface. Users interact with the system using a control panel to manage drone tracking. Key functionalities include:
+
+1. Users can toggle between a standard view and a follow mode for tracking drones. In the standard view, the map centers on an average location of drones, while in follow mode, the map continuously centers and zooms to follow selected drones.
+2. Select drones to follow by using provided controls; this allows the map to dynamically adjust to display real-time drone positions.
+3. Users can periodically check and maintain follow mode, ensuring the map persistently follows the selected drones during their operations. 
+
+Overall, the system is designed to support efficient tracking of drone movements, providing comprehensive situational awareness of active flights for users managing drone operations.

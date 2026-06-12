@@ -1,0 +1,10 @@
+As a staff member using this system, you can update your demographic and security information by navigating to the relevant form. To do so:
+
+1. Fill out the form with your updated details, such as your first name, last name, address (including city, state, and zip code), and phone number.
+2. Additionally, you can manage your security information by entering a new security question and providing and confirming the corresponding answer.
+3. Once completed, submit the form to update your information.
+4. If any errors occur during submission (e.g., missing or invalid inputs), you will be notified and can correct the information.
+5. After successfully updating, the system will confirm that the changes have been saved.
+6. Note that password management is handled separately and can be updated via the "Reset Password" link on the login page.
+
+This feature allows you to maintain accurate and secure personal and professional information within the system.

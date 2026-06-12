@@ -1,0 +1,5 @@
+As a user of this system, you would interact in the following manner to select or search for a patient:
+You start by selecting or searching for a patient in the system. To search, you input the patient's first name and/or last name into the search fields provided.
+Once the names are entered, you initiate the search by clicking the "User Search" button. The system will display a list of patients that match the search criteria along with their medical IDs.
+To select a specific patient from the list, you simply click on the corresponding medical ID. This action will direct you to another page determined by the value in the "forward" parameter, allowing you to proceed with viewing or managing the selected patient's information.
+This patient selection process helps you to efficiently search and choose a patient for further interactions or detailed data access, ensuring smooth navigation within the healthcare management system.

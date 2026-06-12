@@ -1,0 +1,7 @@
+In this system, users have the capability to manage and interact with their personal messages. Upon accessing the "My Messages" section, users can view a list of messages sent to them. If desired, users can utilize sorting options to arrange these messages based on sender's name or the time the message was received, either in ascending or descending order.
+
+Additionally, users have the option to filter their messages. This includes setting criteria for messages by specifying attributes such as the sender, subject, particular words that messages should or should not contain, and the date range of the messages. Users can edit these filter settings and either test how the filter would work on their current messages without committing, or save the filter for ongoing use.
+
+If the user decides to edit a filter, they can input and modify details such as the sender's name, message subject, words to include or exclude, and start and end dates. After altering these filters, users can test their effectiveness or save the changes. The session adapts to these preferences, allowing a tailored message viewing experience based on the user-defined filters.
+
+When a message is read, its display appearance reflects its read status to differentiate from unread messages. If a user has no messages, the system prominently indicates this status. This structure supports a user's need for efficient message management by providing both automated sorting and custom filters to suit individual preferences.

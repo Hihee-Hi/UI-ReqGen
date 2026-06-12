@@ -1,0 +1,9 @@
+This system is utilized in managing user sessions for various roles in a service environment, such as healthcare or administration. As a user:
+
+When you log in, the system automatically identifies your role based on your user type (e.g., patient, healthcare provider, administrator, etc.). It ensures the proper role-based access to system features.
+
+If role identification is missing or inaccessible, the system attempts to detect your role based on predefined permissions associated with patients, healthcare providers, emergency responders, administrators, and other roles.
+
+Should a session become invalid due to technical issues, you may need to re-authenticate to access your account.
+
+This functionality supports secure interactions by dynamically recognizing user permissions and establishing their session context, thereby maintaining system integrity and personalized access to services.

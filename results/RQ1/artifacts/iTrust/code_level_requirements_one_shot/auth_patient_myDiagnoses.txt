@@ -1,0 +1,11 @@
+As a patient using this system, you would:
+
+View a list of your diagnoses, where each diagnosis is displayed with a description. You can click on any diagnosis to learn more about it.
+
+Upon selecting a diagnosis, the system will provide detailed information about healthcare providers (HCPs) who have experience managing this specific condition. This includes their name, the number of patients they’ve treated, and related information like prescriptions they’ve issued, lab procedures they’ve ordered, and satisfaction ratings for both office visits and treatments.
+
+Links are provided for further details about prescriptions or healthcare providers, enabling you to explore options and information easily.
+
+If no HCPs have substantial experience with the selected diagnosis, the system will inform you that relevant data is unavailable.
+
+This system helps you make informed decisions about your treatment options by offering personalized insights into diagnosis-specific expertise among healthcare providers.

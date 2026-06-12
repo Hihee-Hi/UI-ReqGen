@@ -1,0 +1,5 @@
+This system provides users with access to various utility functions and support resources. As a user, you can:  
+Use test utilities like data generators and logs to ensure the system is functioning as expected, which are available when the system is not in production mode.  
+Access important links such as the privacy policy and contact information for any inquiries or assistance you may need.  
+Explore the version details of the system to understand updates or changes.  
+These resources are designed to facilitate both the maintenance and use of the system while ensuring compliance with privacy standards.

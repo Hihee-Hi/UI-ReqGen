@@ -1,0 +1,6 @@
+As a healthcare provider (HCP) using this system, you would:
+Navigate to your message inbox to view individual messages sent by patients or other staff members.
+If you select a message from the inbox, the system will display the details of the message including the sender's name, the subject, and the date and time it was sent. Additionally, the content of the message is shown.
+Once you view a message, the system marks it as read.
+You have the option to reply to the message, making communication direct and efficient.
+This system facilitates secure and efficient communication between healthcare providers and patients, ensuring timely response and action on important health-related communications.

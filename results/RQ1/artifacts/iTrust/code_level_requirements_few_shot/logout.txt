@@ -1,0 +1,1 @@
+As a user of the system, when you decide to log out, the system will terminate your current session. Once your session is invalidated, you will be redirected to the homepage, confirming that you have successfully logged out. This process ensures that any sensitive information from your session is cleared, safeguarding your privacy and securing the system for future access.

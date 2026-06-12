@@ -1,0 +1,9 @@
+As a user reviewing this system, you are presented with the privacy policy outlining how your personal health information (PIHI) is handled. It informs you about important aspects such as compliance with legal standards, permissible uses of your data, and your rights as a patient. You can understand that:
+
+- The system complies with healthcare privacy regulations and is designed to securely process and store your health information.
+- By using the system, you implicitly grant permission for your health information to be collected and used for necessary healthcare, payment, research, and operational purposes. If you prefer to opt out of this, you must notify the organization in writing.
+- Your health information may be disclosed without written authorization under specific conditions, such as treatment, billing, public health benefits, or ethically-approved research.
+- The organization commits to ensuring reliable security measures to prevent unauthorized access or disclosure of your data.
+- You have the right to review, access, and request modifications to your medical records, and you are encouraged to contact the system administrator or your healthcare provider for assistance with this.
+
+The policy emphasizes privacy protection, consent, and transparency, aligning with healthcare industry standards to foster trust and ethical usage of your sensitive health data.

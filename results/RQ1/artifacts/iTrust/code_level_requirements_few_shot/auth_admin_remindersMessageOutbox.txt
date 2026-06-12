@@ -1,0 +1,6 @@
+As an administrator using this system, you would:  
+Access a dedicated section to view the outbox containing reminder messages you have sent.  
+The system provides options to sort the messages by recipient name or send time, and in either ascending or descending order, allowing you to organize the data according to your preference.  
+If there are any messages, each line will display the recipient's name, the subject of the message, the date it was sent, and an option to read the full message. Unread messages will be in bold to help you easily identify them.  
+If there are no messages, the system will inform you that your message outbox is empty.  
+This functionality facilitates efficient management of reminder messages you've sent, enabling you to keep track of your communications effectively.

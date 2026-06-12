@@ -1,0 +1,8 @@
+As a healthcare provider (ER staff) using this system during an emergency, you would:  
+Access a patient's emergency report by initially entering the patient's ID. If the ID is valid, the system retrieves emergency-specific medical information for you to review.  
+You have the ability to print the emergency report, ensuring you have a hard copy of the patient’s critical health information.  
+The system automatically notifies all declared healthcare providers (HCPs) of the patient, via email, that the patient’s record has been accessed in an emergency context. This maintains a collaborative communication loop among all relevant medical personnel.  
+Within the report, you will see the patient’s demographic details, such as name, age, and gender, as well as their emergency contact information.  
+The report provides detailed lists of any known allergies, medical diagnoses, current prescriptions, and immunization history, crucial for quick reference and decision-making in an emergency situation.  
+Any warnings or alerts related to diagnoses or medications are prioritized to help you quickly assess any critical health issues that need immediate attention.  
+This functionality ensures that, as an ER staff member, you are equipped with comprehensive and up-to-date patient information critical to delivering appropriate and immediate care during emergencies.

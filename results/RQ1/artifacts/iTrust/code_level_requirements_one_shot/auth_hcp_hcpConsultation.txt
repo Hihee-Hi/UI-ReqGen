@@ -1,0 +1,19 @@
+As a healthcare provider (HCP) using this system, you would:
+
+1. Navigate to the HCP Consultations page to manage your consultations.
+2. To send a consultation, select the 'Send a Consultation' option:
+   - Choose a patient from your list of associated patients.
+   - Choose another HCP to refer the patient to.
+   - Provide details about the referral, and submit the form.
+   - The system will send the consultation request, and you will receive a confirmation of submission.
+3. To view pending consultations, select the 'View Pending Consultations' option:
+   - You will see two lists of consultations: outgoing and incoming.
+   - You can view the current status (Pending, Finished, or Declined) of each referral, the patient's information, the sender's and receiver's details.
+   - You can update a pending consultation referral by clicking the 'edit' option.
+4. When updating a consultation:
+   - Review and if needed, update the referral and consultation details based on whether you are the sending or receiving HCP.
+   - You can change the status of the referral.
+   - Submit the updated form to finalize the update and receive a confirmation of the changes made.
+5. Manage consultation details, ensuring clear and accurate information is shared while maintaining the confidentiality and proper patient management protocols.
+
+This system allows efficient and secure communication among healthcare providers regarding patient referrals, facilitating better coordination and patient care.

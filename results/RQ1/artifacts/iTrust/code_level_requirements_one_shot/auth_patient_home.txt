@@ -1,0 +1,9 @@
+As a patient using this system, you are provided with an overview of your health-related activities, including lab procedures, survey completion, report history, and record access notifications. Within this interface, you can:
+
+1. View personalized announcements and updates about system features.
+2. Check for any unfinished surveys from your past office visits and complete them by following the provided links.
+3. Access information about comprehensive report requests that you have made, including their current status.
+4. Review a list of completed lab procedures from the last month and their associated results. For represented patients under your care, you can see a similar list of lab procedures completed recently.
+5. Receive notifications about undesignated personnel accessing your medical records within the last 90 days to maintain awareness of privacy events.
+
+Through this system, you can actively manage your health data, complete pending tasks like surveys, monitor lab results, and maintain an overview of access to your sensitive information. These functionalities are aimed to streamline health management and ensure data privacy.

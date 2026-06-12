@@ -1,0 +1,147 @@
+[
+  {
+    "id": "0",
+    "title": "Appointment Scheduling and Management",
+    "description": "Supports patients, healthcare providers, and administrators in managing appointments. Patients can view and track their appointments and calendars. Healthcare providers can schedule, view, and manage their own and patients' appointments, including sending visit reminders and conducting consultations. Administrators can edit appointment types and send appointment reminders to users."
+  },
+  {
+    "id": "1",
+    "title": "Chronic Disease and Diagnosis Management",
+    "description": "Enables healthcare providers to assess and monitor chronic disease risks, and allows patients to view their diagnoses. The system provides tools for managing disease-related data to support continuous care and patient education."
+  },
+  {
+    "id": "2",
+    "title": "Error Handling and Navigation",
+    "description": "Handles user-facing errors such as access denial, missing resources, and system reboots. Includes logout processes and redirection mechanisms to ensure proper session handling and seamless user navigation."
+  },
+  {
+    "id": "3",
+    "title": "Role-Based Home and Information Dashboards",
+    "description": "Provides customized home pages and information views for various user roles including administrators, personal health advocates, and unlicensed assistive personnel. Ensures that each user type has relevant access and navigation options."
+  },
+  {
+    "id": "4",
+    "title": "Utility Functions and Footer Content",
+    "description": "Includes reusable utility components and footer content that support the application's layout and functionality testing."
+  },
+  {
+    "id": "5",
+    "title": "Comprehensive Health Record Management",
+    "description": "Enables detailed editing, viewing, and managing of patient health records, office visits, prescriptions, lab procedures, and access logs. Covers telemedicine data, expired prescriptions, lab reports, and health monitoring for both providers and patients. Supports full report lifecycle from request to review across healthcare personnel."
+  },
+  {
+    "id": "6",
+    "title": "Exception Handling and Page Templates",
+    "description": "Provides centralized error handling and standardized page layout templates to maintain a consistent and reliable user experience during exceptions."
+  },
+  {
+    "id": "7",
+    "title": "Secure Messaging and Email Communication",
+    "description": "Facilitates secure messaging between patients, healthcare providers, and administrators. Supports viewing and managing inboxes and outboxes, replying to messages, and viewing email history for effective internal communication."
+  },
+  {
+    "id": "8",
+    "title": "Testing and Debug Utilities",
+    "description": "Contains tools for application testing and black-box validation to ensure system integrity and to verify expected behaviors under various scenarios."
+  },
+  {
+    "id": "9",
+    "title": "Tester Access and Transaction Logging",
+    "description": "Provides a dedicated tester dashboard and utilities to log and track user transactions across the application, ensuring traceability and accountability."
+  },
+  {
+    "id": "10",
+    "title": "Personnel and Patient Management",
+    "description": "Supports administrative tasks such as adding and viewing healthcare personnel and patients. Includes functions for retrieving unique identifiers and assigning responsibilities to various staff roles."
+  },
+  {
+    "id": "11",
+    "title": "Adverse Event Reporting and Monitoring",
+    "description": "Allows patients to report adverse health events and enables PHAs to monitor, analyze, and review these reports using charts and detailed records. Facilitates early detection and intervention for patient safety."
+  },
+  {
+    "id": "12",
+    "title": "Hospital Assignment and Listing",
+    "description": "Provides tools for administrators to assign staff to hospitals and manage hospital listings. Ensures proper staffing and visibility into organizational structure."
+  },
+  {
+    "id": "13",
+    "title": "User Information and Demographic Management",
+    "description": "Enables various roles, including patients and staff, to edit and access personal demographic information and professional profiles. Promotes accurate recordkeeping and user autonomy."
+  },
+  {
+    "id": "14",
+    "title": "Authentication and Global Settings",
+    "description": "Manages user authentication, global configuration settings, and login processes to ensure secure and controlled access to the system."
+  },
+  {
+    "id": "15",
+    "title": "Session Timeout Management",
+    "description": "Handles session expiration logic for administrators, enhancing system security through automatic logout after inactivity."
+  },
+  {
+    "id": "16",
+    "title": "Medical Code Management",
+    "description": "Allows administrators to manage standardized medical codes such as CPT, ICD, and LOINC, ensuring accurate and consistent medical documentation and billing practices."
+  },
+  {
+    "id": "17",
+    "title": "Privacy Policy Presentation",
+    "description": "Displays the application's privacy policy, ensuring users are informed about how their personal health information is handled and protected."
+  },
+  {
+    "id": "18",
+    "title": "Email Testing Utility",
+    "description": "Provides tools to simulate and display fake email content for testing and validation purposes during development cycles."
+  },
+  {
+    "id": "19",
+    "title": "Patient Representative Management",
+    "description": "Allows healthcare providers to manage patients’ legal or medical representatives, including adding and editing representative details."
+  },
+  {
+    "id": "20",
+    "title": "Login Menu and Password Reset",
+    "description": "Includes functionality for login navigation and resetting forgotten passwords, supporting user access recovery and entry points."
+  },
+  {
+    "id": "21",
+    "title": "User Frame Retrieval Utility",
+    "description": "Offers backend utility for retrieving user interface frames to assist with internal operations or debugging tasks."
+  },
+  {
+    "id": "22",
+    "title": "NDC Code and Interaction Management",
+    "description": "Supports administration of National Drug Code data and drug interaction information. Facilitates medication safety and inventory control."
+  },
+  {
+    "id": "23",
+    "title": "Visit Data Visualization",
+    "description": "Provides graphical visualization tools for analyzing patient visit patterns. Supports decision-making through visual analytics."
+  },
+  {
+    "id": "24",
+    "title": "Database Error Handling",
+    "description": "Handles scenarios when the database is inaccessible or misconfigured, ensuring the application communicates errors appropriately to the user."
+  },
+  {
+    "id": "25",
+    "title": "Printable Header Template",
+    "description": "Offers a print-optimized header layout for documents and records, ensuring clarity and consistency in printed materials."
+  },
+  {
+    "id": "26",
+    "title": "Database Display Utilities",
+    "description": "Supports viewing and browsing structured and wiki-style databases for internal references and data visualization."
+  },
+  {
+    "id": "27",
+    "title": "Patient Surveys and Results Analysis",
+    "description": "Allows patients to complete surveys and enables system administrators or health providers to view and analyze the collected results for quality improvement and patient feedback."
+  },
+  {
+    "id": "28",
+    "title": "Emergency Room Functionality",
+    "description": "Supports ER-specific workflows including home navigation, menu access, and emergency report documentation for healthcare providers involved in emergency care."
+  }
+]

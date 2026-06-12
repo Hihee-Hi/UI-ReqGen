@@ -1,0 +1,137 @@
+[
+  {
+    "id": "0",
+    "title": "Patient Survey and Feedback",
+    "description": "Collects and displays feedback from patients regarding their healthcare experiences. Enables users to submit surveys and allows administrators or providers to view the aggregated survey results for evaluation and quality improvement purposes."
+  },
+  {
+    "id": "1",
+    "title": "Telemedicine and Chronic Disease Monitoring",
+    "description": "Allows healthcare providers (HCPs) and unlicensed assistive personnel (UAPs) to manage chronic disease risk factors, edit and monitor patient lists, and view additional health information. Patients and UAPs can also input telemedicine data, supporting remote monitoring and intervention planning."
+  },
+  {
+    "id": "2",
+    "title": "Patient Health Record Management and Reporting",
+    "description": "Enables healthcare staff and patients to manage and view comprehensive health records. Functionalities include editing personal health records (PHRs), office visit documentation, prescriptions, lab procedures, and generating various health reports. Patients can view their diagnoses, lab results, access logs, office visits, and healthcare providers."
+  },
+  {
+    "id": "3",
+    "title": "User and Staff Account Administration",
+    "description": "Supports administrative tasks such as adding new users including emergency responders (ER), healthcare providers (HCP), public health agents (PHA), and UAPs. Also allows HCPs to add new patients and provides a password reset utility for all users."
+  },
+  {
+    "id": "4",
+    "title": "Medical Coding System Management",
+    "description": "Provides administrative capabilities to manage and update standard medical codes used in billing and documentation, including CPT (Current Procedural Terminology), ICD (International Classification of Diseases), and LOINC (Logical Observation Identifiers Names and Codes)."
+  },
+  {
+    "id": "5",
+    "title": "Tester Portal and Transaction Tracking",
+    "description": "Grants testers access to a home interface and enables detailed tracking of all transactions performed in the system for auditing and debugging purposes."
+  },
+  {
+    "id": "6",
+    "title": "Tester Utilities and Blackbox Tools",
+    "description": "Provides menu navigation for testers and includes a blackbox testing utility to validate system behavior under various conditions without requiring internal knowledge of the implementation."
+  },
+  {
+    "id": "7",
+    "title": "Hospital Information Management",
+    "description": "Allows administrators to manage hospital assignments and listings, including viewing, editing, and assigning healthcare personnel to specific hospital locations."
+  },
+  {
+    "id": "8",
+    "title": "Adverse Event Monitoring and Reporting",
+    "description": "Supports patients in reporting adverse medical events and provides public health agents (PHAs) tools to analyze these events using charts and monitoring interfaces. This includes detailed event reports and bar chart visualizations."
+  },
+  {
+    "id": "9",
+    "title": "Prescription Records and Renewals",
+    "description": "Manages prescription information including viewing active, expired, and renewal-needed prescriptions. Enables patients to access their prescription records and healthcare providers to monitor and generate reports for prescription renewals."
+  },
+  {
+    "id": "10",
+    "title": "User Homepages and Redirection",
+    "description": "Provides personalized homepages for administrators, PHAs, UAPs, and includes functionality for redirecting users to their appropriate interfaces based on authentication and role."
+  },
+  {
+    "id": "11",
+    "title": "Appointment Scheduling and Reminders",
+    "description": "Facilitates appointment scheduling, calendar management, and reminder systems for patients and providers. Users can view upcoming appointments, send and receive reminders, and manage appointment types through administrative functions."
+  },
+  {
+    "id": "12",
+    "title": "Secure Messaging and Communication",
+    "description": "Enables secure communication between patients and healthcare providers via message inboxes, outboxes, email history, and notification systems. Users can send, receive, reply to messages, and track communications within the system."
+  },
+  {
+    "id": "13",
+    "title": "Personnel and Role Information Access",
+    "description": "Allows users to access detailed information about various healthcare roles and personnel, including administrators, ER staff, HCPs, PHAs, and patients. Also includes functionality for viewing comprehensive personnel listings."
+  },
+  {
+    "id": "14",
+    "title": "ID Retrieval Services",
+    "description": "Provides utilities to retrieve unique identifiers for patients, personnel, and general users, supporting backend operations and integration with other modules."
+  },
+  {
+    "id": "15",
+    "title": "Email Simulation Utility",
+    "description": "Offers a testing utility to display simulated or 'fake' emails for validation and system testing without using real communication channels."
+  },
+  {
+    "id": "16",
+    "title": "Drug Code and Interaction Management",
+    "description": "Enables administrators to manage National Drug Codes (NDC) and their interactions, supporting safe prescription practices and regulatory compliance."
+  },
+  {
+    "id": "17",
+    "title": "Database Display Tools",
+    "description": "Provides utilities for displaying and interacting with the system's main and wiki databases, useful for data inspection and system maintenance."
+  },
+  {
+    "id": "18",
+    "title": "Report Request Tracking",
+    "description": "Allows administrators and healthcare staff to view and manage report requests, ensuring efficient report generation and delivery workflows."
+  },
+  {
+    "id": "19",
+    "title": "Visit Analytics Visualization",
+    "description": "Offers graphical tools for administrators to visualize visit data trends, supporting decision-making and performance evaluation."
+  },
+  {
+    "id": "20",
+    "title": "Reminder Message Management",
+    "description": "Enables administrators to view and manage reminder messages, including sent messages and individual reminder content for follow-up and communication tracking."
+  },
+  {
+    "id": "21",
+    "title": "Demographics and Personnel Editing",
+    "description": "Allows patients and staff to edit demographic and personal information, ensuring that user profiles and personnel records remain accurate and up to date."
+  },
+  {
+    "id": "22",
+    "title": "UAP Monitoring and Reference Information",
+    "description": "Supports UAPs in managing patient monitoring lists and accessing role-specific reference materials, aiding in their care delivery tasks."
+  },
+  {
+    "id": "23",
+    "title": "Patient Representative Management",
+    "description": "Allows healthcare providers to manage patient representatives, including assigning and editing representative information to support patient advocacy and consent processes."
+  },
+  {
+    "id": "24",
+    "title": "Provider Consultation Recording",
+    "description": "Enables documentation and management of consultations between healthcare providers, supporting continuity of care and shared decision-making."
+  },
+  {
+    "id": "25",
+    "title": "Utility Testing Module",
+    "description": "Contains utility testing tools, likely used for debugging or validating specific aspects of system behavior under test conditions."
+  },
+  {
+    "id": "26",
+    "title": "Emergency Room Interface",
+    "description": "Provides emergency responders and healthcare providers with tools for managing emergency reports, home navigation, and menu access to ER-specific functionalities."
+  }
+]

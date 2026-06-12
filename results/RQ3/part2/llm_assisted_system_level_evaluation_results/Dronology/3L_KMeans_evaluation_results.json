@@ -1,0 +1,142 @@
+{
+  "results": {
+    "Cluster 0": {
+      "title": "Flight Route Management",
+      "decision": "Match",
+      "best_match_toA": "472",
+      "reason": "Both requirements refer to managing flight routes, involving creation and modification, in a drone management system. Document B provides more detailed functionalities, but the core purpose aligns closely with Document A's description.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "472",
+          "similarity": 0.6690740139033364,
+          "decision": "Match",
+          "reason": "Both requirements refer to managing flight routes, involving creation and modification, in a drone management system. Document B provides more detailed functionalities, but the core purpose aligns closely with Document A's description."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.5872039379216238,
+          "decision": "Match",
+          "reason": "Both requirements focus on managing UAV/drone flight routes, incorporating the functionality of flight planning and editing routes, even though Document B provides more detailed features such as waypoint management and interactive visual tools."
+        },
+        {
+          "rank": 2,
+          "A_id": "663",
+          "similarity": 0.6097199991226964,
+          "decision": "Match",
+          "reason": "While both requirements involve managing flight routes, Document B includes broader functionalities such as editing and deleting waypoints, as well as managing altitude and speed, which are not specified in Document A. This suggests a partial overlap in functionality."
+        }
+      ]
+    },
+    "Cluster 1": {
+      "title": "User Interaction and Notifications",
+      "decision": "Match",
+      "best_match_toA": "641",
+      "reason": "The topic 'User Interface' overlaps as a core functionality, but Document A focuses on managing UAV routes and planning flights, whereas Document B emphasizes user interactions and notifications, which differ significantly in purpose and scope.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "641",
+          "similarity": 0.3353238918946111,
+          "decision": "Match",
+          "reason": "The topic 'User Interface' overlaps as a core functionality, but Document A focuses on managing UAV routes and planning flights, whereas Document B emphasizes user interactions and notifications, which differ significantly in purpose and scope."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.27955595800319527,
+          "decision": "No Match",
+          "reason": "Document A focuses on real-time management of flights and UAVs with a map-based interface, while Document B describes user interaction elements like notifications and confirmation windows. They address different aspects and purposes in a user interface context."
+        },
+        {
+          "rank": 3,
+          "A_id": "620",
+          "similarity": 0.2530870478904135,
+          "decision": "No Match",
+          "reason": "The topics and descriptions are unrelated as one is about middleware functionalities for UAVs and the other is about user interface components and notifications."
+        }
+      ]
+    },
+    "Cluster 2": {
+      "title": "Active Flight Management",
+      "decision": "Match",
+      "best_match_toA": "105",
+      "reason": "Both requirements focus on real-time management and interaction with active flights and UAVs, including displaying UAV information and using a map interface for monitoring and control. The core functionalities are highly similar despite differences in wording and detail.",
+      "all_matches": [
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.5817738294586384,
+          "decision": "Match",
+          "reason": "Both requirements focus on real-time management and interaction with active flights and UAVs, including displaying UAV information and using a map interface for monitoring and control. The core functionalities are highly similar despite differences in wording and detail."
+        },
+        {
+          "rank": 1,
+          "A_id": "474",
+          "similarity": 0.5933413711145168,
+          "decision": "Match",
+          "reason": "The topic of flight management is related, but Document B has a broader scope that includes real-time monitoring, control, and interaction features, while Document A's description is more basic and lacks these specific operations."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.5300503190344447,
+          "decision": "Match",
+          "reason": "Both requirements involve managing UAV flights, but Document A focuses on planning routes, while Document B centers on real-time monitoring and control of active flights, indicating a partial overlap with differences in functionality and scope."
+        }
+      ]
+    },
+    "Cluster 3": {
+      "title": "Map and Layer Management",
+      "decision": "Match",
+      "best_match_toA": "765",
+      "reason": "Both requirements concern map functionalities, but Document A focuses on displaying routes and UAVs using off-the-shelf providers, whereas Document B emphasizes dynamic map layers and geospatial data management for tailored views, showing notable differences in purpose and features.",
+      "all_matches": [
+        {
+          "rank": 1,
+          "A_id": "765",
+          "similarity": 0.4976820183832883,
+          "decision": "Match",
+          "reason": "Both requirements concern map functionalities, but Document A focuses on displaying routes and UAVs using off-the-shelf providers, whereas Document B emphasizes dynamic map layers and geospatial data management for tailored views, showing notable differences in purpose and features."
+        },
+        {
+          "rank": 2,
+          "A_id": "105",
+          "similarity": 0.4134214604424558,
+          "decision": "Match",
+          "reason": "Both requirements address displaying map interfaces, but Document A focuses on real-time interaction with flights and UAVs, while Document B emphasizes geospatial layer management and the flexibility of map views. There is a partial overlap in functionality but notable differences in purpose and scope."
+        },
+        {
+          "rank": 3,
+          "A_id": "641",
+          "similarity": 0.3747351206449041,
+          "decision": "Match",
+          "reason": "Both documents describe interfaces related to map or route management, suggesting partial overlap in functionality. However, Document A focuses on UAV route and flight management, while Document B emphasizes map layer management, presenting notable differences in scope and purpose."
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "Coverage Ratio (CR)": 0.24,
+    "Generated Match Ratio (GMR)": 1.0,
+    "Matched Reference Requirement Count": 6,
+    "Matched Generated Requirement Count": 4,
+    "Reference Requirement Count": 25,
+    "Generated Requirement Count": 4,
+    "Matched Reference Requirement IDs": [
+      "105",
+      "472",
+      "474",
+      "641",
+      "663",
+      "765"
+    ],
+    "Matched Generated Requirement IDs": [
+      "Cluster 0",
+      "Cluster 1",
+      "Cluster 2",
+      "Cluster 3"
+    ]
+  }
+}

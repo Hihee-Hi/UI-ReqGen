@@ -1,0 +1,11 @@
+As a user of the iTrust system, you have access to a comprehensive privacy policy that outlines how your Personally Identifiable Health Information (PIHI) is handled. The policy ensures compliance with healthcare privacy standards and includes several key components: 
+
+1. Notice/Awareness: The policy informs you that the system collects and securely stores your PIHI. It follows privacy standards to protect your information while allowing necessary access for medical professionals to provide care.
+
+2. Choice/Consent: By using the iTrust system, you consent to the collection and use of your PIHI for treatment and operational purposes. The system may use your information for specific situations without additional written permission due to healthcare privacy rules. You can opt-out by notifying the offices in writing.
+
+3. Integrity/Security: The system prioritizes the security of your information to prevent unauthorized disclosures according to the outlined uses.
+
+4. Access/Participation: You have the right to access your medical records through the iTrust system. If you notice any discrepancies, you can contact the system administrator or your healthcare provider to address them. 
+
+This policy aims to safeguard your health information while ensuring that healthcare providers can efficiently deliver necessary services.

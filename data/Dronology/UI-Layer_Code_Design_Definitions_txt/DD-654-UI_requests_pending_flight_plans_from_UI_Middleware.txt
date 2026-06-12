@@ -1,0 +1,1 @@
+When the user requests to view flight plans assigned to a UAV  the UI requests the pending flight plans from the UAV_FlightInfo object and displays them.

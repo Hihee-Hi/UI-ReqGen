@@ -1,0 +1,11 @@
+As a healthcare provider adding administrative personnel (UAP) to the system, you would:
+
+Enter the first name, last name, and email address of the new staff member into the provided form. If an email address is unavailable, you can use a pre-defined hospital email for password recovery purposes.
+
+Once you submit the form, the system will create a new record for the staff member. It will assign them a unique Medical ID (MID), generate a temporary password, and classify their role as a UAP.
+
+Afterward, the system will display a confirmation message with the staff’s MID and temporary password. You can pass this information securely to the newly added personnel to allow them access to the system.
+
+Following the successful addition, you would have the option to navigate to another page to further manage or edit the personnel's information.
+
+This process streamlines the addition of UAP staff members and ensures all essential information for their onboarding is created securely and available immediately.

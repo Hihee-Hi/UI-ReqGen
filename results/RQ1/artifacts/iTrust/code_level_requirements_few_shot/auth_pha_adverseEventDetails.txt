@@ -1,0 +1,9 @@
+As a Population Health Analyst (PHA) using this system, you would:
+
+Access the details of an adverse event report related to medication or immunization administered to a patient. The system displays the reporter's name, details of the medication or immunization, the date of the adverse event, and a description of the event.
+
+If you need further information about a patient's experience with the medication or immunization, you can send a request by triggering an automated email message seeking more details from the patient.
+
+Should you need to remove inconsiderate or resolved reports from the system, a removal option is available to delete the event.
+
+This process supports you in maintaining an accurate and up-to-date record of adverse events, allowing for effective monitoring and follow-up on such incidents to ensure patient safety and optimal healthcare delivery.

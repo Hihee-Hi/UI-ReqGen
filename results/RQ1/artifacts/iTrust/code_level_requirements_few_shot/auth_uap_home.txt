@@ -1,0 +1,4 @@
+As a User Access Personnel (UAP) using this system, you would:
+Access your personalized homepage upon logging in, where you'll be greeted with a welcome message displaying your name.
+The homepage serves as a central place, allowing you to navigate to different functionalities and sections within the system to manage patient data, update records, or view pertinent information related to your role.
+This page provides a welcoming experience and confirms successful login, ensuring you are recognized within the system.

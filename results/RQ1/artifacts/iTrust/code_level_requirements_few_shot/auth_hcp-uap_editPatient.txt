@@ -1,0 +1,10 @@
+As a healthcare provider using this system, you would:
+Access the patient's records by first selecting the patient ID, ensuring that the correct individual is being updated.
+Once verified, you will proceed to edit various personal, contact, health, and insurance details of the patient.
+You can update basic information like name, email, address, and phone numbers, as well as more sensitive details like medical data, including blood type, ethnicity, and gender.
+Other fields that can be edited include the patient's emergency contact information, insurance details, and health records such as topical notes or historical diagnosis codes.
+For deceased patients, you may enter the date of death and cause of death.
+This allows you to comprehensively manage a patient's medical and personal records, ensuring all changes are accurately logged.
+Once the information is updated, you will receive a confirmation message.
+Password changes are handled separately through a password reset function accessible on the system’s login page.
+This process provides streamlined, secure management of patient demographics and health-related records, which is crucial for maintaining updated patient information.

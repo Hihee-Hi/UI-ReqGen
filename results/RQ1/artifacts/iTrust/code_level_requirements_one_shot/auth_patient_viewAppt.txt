@@ -1,0 +1,8 @@
+As a patient using this system, you will be able to view the details of your scheduled medical appointment. Here's how you can do this:
+
+1. Navigate to the appointment viewing section of your patient portal.
+2. If you have a specific appointment in mind you want to view, make sure it is selected.
+3. Once the appointment is selected, you will see detailed information about it, including the healthcare provider's name, the type of appointment, the scheduled date and time, and the expected duration.
+4. Additional comments related to the appointment will also be displayed, if available.
+5. If you happen to select an invalid appointment, the system will redirect you back to the main page listing all your appointments.
+6. This review ensures you are well-informed about your upcoming appointments and can plan accordingly.

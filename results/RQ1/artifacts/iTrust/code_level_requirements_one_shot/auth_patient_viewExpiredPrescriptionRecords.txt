@@ -1,0 +1,11 @@
+As a patient using this system, you would:
+
+Log in to your account and access the section titled "Get My Expired Prescription Reports."  
+Here, you can view a table listing all expired prescriptions associated with your medical record.  
+If no expired prescriptions are found, the system will display a message indicating there are no records available.  
+When prescriptions are displayed:  
+- You can see detailed information for each expired prescription, including the medication's code, description, the start and end dates of the prescription, and the prescribing healthcare provider's name.  
+- You can click on the medication's code to access more detailed information about the specific prescription.  
+- You can also click on the prescribing healthcare provider's name to view information about the doctor, such as their qualifications or contact details.  
+
+This process enables you to keep track of expired prescriptions and provides contact information for the responsible healthcare providers if further action is needed.

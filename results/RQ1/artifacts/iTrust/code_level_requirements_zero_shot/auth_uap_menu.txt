@@ -1,0 +1,11 @@
+As a user, you interact with a system that provides various healthcare-related functionalities tailored for healthcare professionals, allowing you to efficiently manage patient information and healthcare services. 
+
+To add a new patient, simply select the "Add" option, enabling you to register new patient details swiftly. For updating existing patient information, choose the "Edit" function. This allows modification of patient health records, basic health information, personal data, and even your own demographic details, ensuring all information remains current and accurate.
+
+If you wish to view specific data, the "View" section offers options to check your report requests and review laboratory procedures, keeping you informed about ongoing medical analyses and documentation.
+
+Telemedicine services are accessible through options that let you adjust patient lists and report on telemedicine statuses. This feature ensures that remote patient management is efficient and up-to-date with contemporary healthcare trends.
+
+The "Other" section provides tools for documenting office visits, assessing patient chronic disease risks, and checking historical email communications. Moreover, you can also access satisfaction survey outcomes, helping you continually improve the standard and delivery of healthcare services.
+
+This structure aims to streamline healthcare management processes by providing categorized, user-friendly navigation to enhance patient care and administrative efficiency.

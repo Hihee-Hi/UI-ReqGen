@@ -1,0 +1,47 @@
+[
+    {
+      "id": "SR-01",
+      "title": "Personnel Management and Account Creation",
+      "description": "Administrators can add new personnel, including Emergency Responders, Healthcare Providers, and Public Health Administrators, by entering their basic information. The system generates a unique Medical ID and temporary password for each new account, ensuring secure onboarding and accurate user identification."
+    },
+    {
+      "id": "SR-02",
+      "title": "Appointment and Scheduling Management",
+      "description": "Administrators can manage appointment types to meet clinic scheduling requirements, while healthcare providers can schedule appointments, view their calendar, and manage patient visit reminders. This optimizes patient care and ensures efficient scheduling practices."
+    },
+    {
+      "id": "SR-03",
+      "title": "Code Management for Billing and Documentation",
+      "description": "Administrators can manage medical codes such as CPT, ICD, LOINC, and NDC, including adding, updating, and validating them. This functionality ensures accurate billing and documentation practices within the healthcare system."
+    },
+    {
+      "id": "SR-04",
+      "title": "Communication and Messaging",
+      "description": "The system provides messaging functionalities for administrators, healthcare providers, and patients, including sending, receiving, and organizing messages. This ensures efficient communication within the healthcare environment."
+    },
+    {
+      "id": "SR-05",
+      "title": "Patient Health Record Management",
+      "description": "Healthcare providers can manage and update patient health records, including basic health data, office visit documentation, and prescription information. Patients can view their medical records and manage their health data, ensuring transparency and accessibility."
+    },
+    {
+      "id": "SR-06",
+      "title": "Adverse Event Monitoring and Reporting",
+      "description": "Public Health Administrators can monitor and analyze adverse events related to prescriptions and immunizations using visual tools to track trends. This functionality ensures public health safety and proactive event management."
+    },
+    {
+      "id": "SR-07",
+      "title": "User Authentication and Session Management",
+      "description": "The system ensures secure user authentication, session management, and access control, protecting sensitive information and maintaining system integrity. It includes password reset processes and error handling for incorrect inputs."
+    },
+    {
+      "id": "SR-08",
+      "title": "Dynamic User Interaction Frame",
+      "description": "A feature that provides a movable frame within a web page to display additional user-related content or features dynamically, enhancing user interaction without disrupting the main workflow."
+    },
+    {
+      "id": "SR-09",
+      "title": "System Transaction Logging",
+      "description": "A logging tool that records all system transactions with details such as date, transaction ID, type, and user IDs involved. This aids in troubleshooting, auditing, and testing system operations."
+    }
+  ]

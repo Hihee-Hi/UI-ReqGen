@@ -1,0 +1,1 @@
+If an obstacle is detected within a distance of {{MIN_STOPPING_DISTANCE}} the _ObjectAvoidance_ system shall issue a 'hover in place' command

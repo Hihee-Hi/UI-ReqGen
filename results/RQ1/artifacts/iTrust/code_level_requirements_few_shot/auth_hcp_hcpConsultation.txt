@@ -1,0 +1,5 @@
+As a healthcare provider (HCP) using this system, you would be able to manage consultations with other providers efficiently. Initially, you have options to either send a new consultation request or view pending consultations. In sending a consultation, you can refer a patient to another HCP by selecting from the list of your patients and choosing another provider for the referral. Once selected, you will fill out details regarding the referral and send it.
+
+You can also review consultations that are either outgoing or incoming. Outgoing consultations are those you have referred, while incoming consultations are those referred to you. Each consultation has its current status (pending, finished, or declined) and can be edited depending on its status and the consultation's details.
+
+In updating consultations, you can modify the status and relevant details of a referral. If details from the other HCP or patient are missing, the system ensures you are informed, allowing smooth communication. This organized approach to managing consultations helps in maintaining seamless patient care and collaboration between healthcare providers.

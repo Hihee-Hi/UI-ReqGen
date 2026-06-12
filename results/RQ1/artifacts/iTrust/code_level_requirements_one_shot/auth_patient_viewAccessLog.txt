@@ -1,0 +1,10 @@
+As a patient using this system to view your access log:  
+You can filter the records based on a specific date range by entering the start and end dates into the provided fields and clicking the "Filter Records" button.  
+The system will retrieve information about personnel or representatives who accessed your information during the specified date range.  
+
+For each access entry, the system displays the date and time the access occurred, the name of the individual who accessed your information (with clickable links to view their details), their role (e.g., healthcare provider or personal health representative), and a brief description of the action taken, along with a code for the type of transaction.  
+If no records are found for the selected filters, the table will display "No Data."  
+
+If desired, you can sort records by either the date or the role of the individual by clicking on the respective column headers.  
+
+This process helps you maintain visibility into who is accessing your personal healthcare information and supports transparency in record handling.

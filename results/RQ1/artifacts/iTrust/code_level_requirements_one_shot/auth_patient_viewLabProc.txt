@@ -1,0 +1,8 @@
+As a patient using this system, you can view detailed information about specific laboratory procedures conducted during your medical visits. To do so, you would:
+
+1. Navigate to the page where laboratory procedures are displayed.
+2. If a specific lab procedure ID is identified, the system will locate the details for that procedure based on your medical records.
+3. You will see key information such as the lab code, status of the procedure, commentary from medical staff, test results, the associated visit ID, and the date the lab procedure was last updated.
+4. If the specific lab procedure cannot be found or the requested ID is invalid, the system will redirect you to a general calendar page where you may review other records or navigate further.
+
+This process ensures that you have easy access to your lab procedure history, providing you with transparent and organized insights into your diagnostic testing and healthcare management.

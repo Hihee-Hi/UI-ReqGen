@@ -1,0 +1,6 @@
+As a healthcare provider using this system, you would:
+Access a list of patients whose prescriptions may need renewal based on your logged-in status as the responsible provider.
+For each patient, view their name, phone number, and email address, which are displayed in a table format for easy reference.
+If there are no patients who require prescription renewals, a message will indicate that no action is required.
+You can select a patient's name to send an email notification regarding their prescription renewal needs.
+This process helps you proactively manage patient prescriptions, ensuring medications are renewed in a timely manner and reducing the risk of interruptions in treatment.

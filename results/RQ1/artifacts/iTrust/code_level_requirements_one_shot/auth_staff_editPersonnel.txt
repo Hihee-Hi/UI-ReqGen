@@ -1,0 +1,7 @@
+As a member of the administrative staff using this system, you can update the information of personnel records. First, you will either select or confirm the personnel's ID to access their profile. If the personnel ID is unavailable or invalid, you will be redirected to select a valid one.
+
+Once you access the personnel's profile, their current information will be displayed in a form for you to edit. You can update details such as the first and last name, address (with fields for line 1, line 2, city, state, and zip code), phone number (segmented for easier input), and email address.
+
+After editing the necessary fields, you submit the form to save the updated information. Upon successful submission, a confirmation message will be displayed, indicating that the updates have been successfully applied. If there are any validation errors in the provided information, you will see an error message detailing the issue, and the system will prompt for corrections.
+
+Additionally, you are informed that password updates for personnel are not managed here but must be done through the "Reset Password" feature available on the login page. This ensures the separation of duties and enhances security when changing sensitive credentials.

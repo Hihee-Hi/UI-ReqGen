@@ -1,0 +1,9 @@
+As a user of the healthcare visit trend analysis system, you can generate reports to understand patient visit trends over a specified period. You can begin by selecting a starting and an ending month and year from the available dropdown options, which will allow you to define the timeframe of interest for your report. After setting your desired timeframe, you simply click the button to generate the report, which will analyze patient visit data and present you with a visual representation.
+
+The system provides a detailed graph illustrating the number of visits by minors and adults for each month within your selected period. It ensures accuracy by preventing users from selecting an invalid timeframe where the start date is after the end date or the end date is in the future.
+
+When generating the report, if data is available, the result will showcase the number of visits, with the graph depicting both categories (minors and adults) using distinct colors. This visual aid allows you to quickly assess visit patterns and any discernible trends over the months you have selected.
+
+If any errors occur, such as selecting a timeframe that is not permissible, the system will alert you with an error message, preventing further actions until corrections are made.
+
+Overall, this tool assists healthcare administrators in understanding patient flow and trends, thereby optimizing scheduling and resource allocation.

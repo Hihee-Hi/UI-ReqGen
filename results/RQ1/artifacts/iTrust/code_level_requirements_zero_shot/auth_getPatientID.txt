@@ -1,0 +1,5 @@
+As a user looking to select a patient from a healthcare management system, this feature facilitates the search and selection process of a patient's identifier. Upon reaching this segment of the system, you will encounter options to search for a patient by entering their first and last name. Once you provide this information, the system will attempt to locate matching patient records.
+
+The core functionality includes a patient search feature where you input the necessary details and submit your search request. If there are matching patients, the system displays a list, showing identifiers along with names. You can then select the desired patient from this list.
+
+This capability simplifies locating patients by their personal details and allows seamless integration into subsequent actions you may need to perform, such as accessing patient records or scheduling appointments. It ensures that you can effectively pinpoint a patient when working within a larger healthcare administrative workflow.

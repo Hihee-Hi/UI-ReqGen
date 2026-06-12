@@ -1,0 +1,1 @@
+A LHCP can add a UAP (Unlicensed Assistive Personnel) as a user in the iTrust Medical Records system, following the required data format 6.2, where all fields are mandatory for the entry.

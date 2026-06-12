@@ -1,0 +1,47 @@
+[
+    {
+      "id": "SR-01",
+      "title": "User Authentication and Role-Based Access",
+      "description": "The system must authenticate users based on their credentials and assign them roles such as patient, healthcare provider, administrator, or public health authority. Each role should have access to specific functionalities tailored to their responsibilities, ensuring secure and appropriate access to sensitive healthcare data."
+    },
+    {
+      "id": "SR-02",
+      "title": "Personnel and Patient Management",
+      "description": "Administrators and healthcare providers must be able to add, edit, and manage personnel and patient records, including demographic information, medical IDs, and secure credentials. This functionality ensures efficient onboarding and management of healthcare personnel and patients while maintaining data security."
+    },
+    {
+      "id": "SR-03",
+      "title": "Appointment Scheduling and Management",
+      "description": "The system should allow healthcare providers and administrators to schedule, view, and manage appointments, including setting reminders for patients. This functionality helps maintain efficient scheduling and reduces missed appointments, enhancing patient care and operational efficiency."
+    },
+    {
+      "id": "SR-04",
+      "title": "Healthcare Data Management and Reporting",
+      "description": "Healthcare providers must be able to document office visits, manage patient health records, and generate comprehensive reports. This includes updating lab procedures, prescriptions, and chronic disease risk assessments, ensuring accurate and up-to-date patient information for effective healthcare delivery."
+    },
+    {
+      "id": "SR-05",
+      "title": "Secure Messaging and Communication",
+      "description": "The system should facilitate secure communication between patients and healthcare providers through messaging features, allowing users to send, receive, and reply to messages. This ensures timely and organized exchanges of information, supporting effective patient-provider interactions."
+    },
+    {
+      "id": "SR-06",
+      "title": "Telemedicine and Remote Monitoring",
+      "description": "The system must support telemedicine functionalities, allowing patients and healthcare providers to report and monitor health data remotely. This includes tracking physiological metrics like blood pressure and glucose levels, ensuring continuous patient care and timely interventions."
+    },
+    {
+      "id": "SR-07",
+      "title": "Adverse Event Monitoring and Public Health Management",
+      "description": "Public health administrators should be able to monitor and analyze adverse events related to medications and immunizations. The system must provide tools for tracking trends, generating reports, and facilitating timely public health interventions to ensure patient safety."
+    },
+    {
+      "id": "SR-08",
+      "title": "User Profile and Information Management",
+      "description": "Users should be able to view and update their personal information, including demographic details and security settings. This functionality ensures that user profiles are accurate and secure, supporting personalized interactions within the healthcare system."
+    },
+    {
+      "id": "SR-09",
+      "title": "System Error Handling and Security",
+      "description": "The system must provide robust error handling and security measures, including session management, access restrictions, and error notifications. This ensures the integrity and reliability of the system, protecting sensitive healthcare data from unauthorized access."
+    }
+  ]

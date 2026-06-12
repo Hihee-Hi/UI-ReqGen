@@ -1,0 +1,9 @@
+This system facilitates the maintenance of LOINC (Logical Observation Identifiers Names and Codes) codes, which are used for identifying health measurements, observations, and documents. As a user interacting with this interface, you can perform several key functions:
+
+1. **Viewing LOINC Codes**: Upon accessing the page, you will be presented with a list of current LOINC codes displayed in a tabulated format. Each code is accompanied by its associated properties such as Component, Kind of Property, Time Aspect, System, Scale Type, and Method Type.
+
+2. **Updating LOINC Codes**: You can select any existing LOINC code from the list to update. By clicking on a specific attribute of a LOINC code (like Code, Component, etc.), its value will populate the corresponding field in the form located above the table. You are advised to fill in all fields with the original information if you do not wish to modify them. Once you have made the necessary changes, submit the update to apply it.
+
+3. **Adding New LOINC Codes**: The form also allows you to add a new LOINC code. You need to fill out all fields within the form specifying the details for the new entry and then submit it to be added to the list of LOINC codes.
+
+For both adding or updating codes, a submission will trigger the system’s validation rules, and you will be informed of any issues through a message. The interface will use colors to signal the success or failure of your action; a red background for errors or a green background for successful operations.

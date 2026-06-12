@@ -1,0 +1,7 @@
+As a healthcare administrator using this system, you would:
+Maintain an up-to-date listing of hospitals by adding new hospitals or updating the information of existing ones.
+You can enter the hospital's ID and name in the form provided. The hospital list you maintain is then displayed for your review.
+To add a new hospital, input the hospital's details and click "Add Hospital." To update information, select a hospital from the list, fill in the desired changes, and click "Update Hospital Information."
+If you make any errors during the update, such as invalid information, a validation error message will appear to inform you, allowing corrections.
+The current list of hospitals will be displayed with the ability to quickly select and edit hospital information directly within the interface.
+This tool helps streamline the management of hospital records, ensuring accuracy and accessibility for hospital administrators.

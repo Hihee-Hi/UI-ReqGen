@@ -1,0 +1,19 @@
+As a healthcare provider (HCP) using this system, you are provided with a comprehensive set of functionalities accessible through a menu. These activities are categorized for clarity and ease of use:
+
+1. Under the "Add" section, you can initiate the process to add new patients or User Access Personnel (UAP).
+
+2. The "Edit" section allows you to update information, such as basic health details, your demographic data, patient information, and personal health records (PHR). You can also manage representatives and UAP records.
+
+3. With "Appointments," you have the capacity to schedule new appointments and view your schedule.
+
+4. The "Messaging" area provides access to your message inbox and outbox, facilitating communication with other professionals or patients.
+
+5. The "View" category includes options to review all patients' office visit histories, see your appointment calendar, check laboratory procedures, and handle report requests.
+
+6. Under "Report," you can generate emergency patient reports.
+
+7. The "Telemedicine" section offers capabilities to manage a patient list specific to telemedicine and remotely monitor patient data.
+
+8. Finally, "Other" functionalities include managing consultations, assessing chronic disease risks, documenting office visits, tracking email history, sending office visit reminders, reviewing satisfaction survey results, and overseeing prescription renewal needs.
+
+These diverse categories ensure that you can efficiently manage both administrative and clinical tasks, facilitating streamlined patient care and data management.

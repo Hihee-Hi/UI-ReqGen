@@ -1,0 +1,1 @@
+If a UAV is in the air when a flight plan is assigned  the takeoff altitude in the flight plan is ignored.

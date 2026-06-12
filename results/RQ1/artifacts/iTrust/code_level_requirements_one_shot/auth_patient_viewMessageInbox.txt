@@ -1,0 +1,10 @@
+As a system user (patient), you can access your message inbox to view specific communications sent to you. To use this feature:
+
+1. Navigate to your message inbox, where messages are stored and displayed.
+2. Select a specific message to read by clicking on it.
+3. Upon selecting a message, the system will ensure the message is valid and accessible. If the message index is invalid or not found, you might be redirected to an error page or back to the inbox.
+4. Once a message is retrieved, its details such as sender's name, subject, sending date and time, and the full body content of the message will be displayed for your review.
+5. You will also have the option to reply to the message directly by clicking a designated "Reply" button or link within the interface.
+6. The system keeps track of which messages have been marked as read, ensuring the message inbox remains organized and updated.
+
+This process ensures secure and organized communication with regard to sensitive personal information, often used in contexts requiring confidentiality, such as healthcare, where doctor-patient messaging plays a crucial role.

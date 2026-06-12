@@ -1,0 +1,6 @@
+As an administrator using this system, you would:
+Review the current list of codes, each representing a specific lab procedure.
+To add a new code, fill out the form with relevant details such as the code, component, kind of property, time aspect, system, scale type, and method type. Each field needs to have appropriate valid information.
+To update an existing code, click on the specific field in the list, and the system will fill the form with the existing information. Modify any fields that need updating while ensuring unchanged details remain accurate.
+Submit the form using the 'Add Code' button to add a new code or the 'Update Code' button to update existing information.
+Based on your actions, the system will provide a confirmation or error message, helping you ensure that codes are added or updated correctly within the lab procedures list. This functionality helps maintain precise and up-to-date lab procedure information crucial for managing medical records.

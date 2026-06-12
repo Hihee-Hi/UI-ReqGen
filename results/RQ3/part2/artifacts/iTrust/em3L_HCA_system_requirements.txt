@@ -1,0 +1,137 @@
+[
+  {
+    "id": "0",
+    "title": "Patient Health Record and Care Management",
+    "description": "Enables healthcare professionals (HCPs), unlicensed assistive personnel (UAPs), and patients to access, update, and manage electronic health records. Supports patient demographic editing, office visit documentation, telemedicine data entry, PHR (Personal Health Record) updates, and viewing care histories. Patients can view their medical records, access logs, visited HCPs, and more. HCPs can monitor patient lists and generate reports, while UAPs assist in administrative and care-related tasks through a unified interface."
+  },
+  {
+    "id": "1",
+    "title": "Demographic and Personnel Information Management",
+    "description": "Allows patients and healthcare staff to edit their demographic data, while administrators and staff can view and manage personnel records. This includes updating staff credentials, editing patient demographics, and accessing role-based information views."
+  },
+  {
+    "id": "2",
+    "title": "System Testing and Transaction Auditing",
+    "description": "Provides system testers with tools for accessing the home interface and managing or reviewing transactional logs. Enables transparent auditing of system-level activities for security and compliance purposes."
+  },
+  {
+    "id": "3",
+    "title": "Patient Survey and Feedback Management",
+    "description": "Facilitates patient participation in surveys and allows healthcare providers to view survey results. Enables healthcare administrators to analyze patient feedback and improve services based on user input."
+  },
+  {
+    "id": "4",
+    "title": "Role-Based Home Navigation and User Forwarding",
+    "description": "Supports navigation to home dashboards based on user roles such as administrator, UAP, or PHA. Enables administrators to forward users to relevant pages, providing streamlined access to role-specific tools and functionalities."
+  },
+  {
+    "id": "5",
+    "title": "Laboratory Procedure Management",
+    "description": "Enables HCPs and UAPs to schedule, update, and manage laboratory procedures. Patients can view their lab results and statuses. The system ensures that lab operations are recorded, tracked, and accessible by authorized users."
+  },
+  {
+    "id": "6",
+    "title": "Hospital Assignment Administration",
+    "description": "Allows administrators to view and manage hospital assignments and listings. Supports administrative oversight of healthcare facility resources and personnel allocation."
+  },
+  {
+    "id": "7",
+    "title": "Secure Messaging and Email Notification System",
+    "description": "Enables secure communication among administrators, healthcare providers, and patients. Includes inbox and outbox management, replying to messages, viewing email history, and sending notifications. Supports message tracking and organizational transparency."
+  },
+  {
+    "id": "8",
+    "title": "Appointment Scheduling and Calendar Integration",
+    "description": "Supports scheduling and management of appointments for HCPs and patients. Integrates with calendar systems, allowing users to view, edit, and receive reminders for upcoming visits. Administrators can also define appointment types and trigger automated reminders."
+  },
+  {
+    "id": "9",
+    "title": "Adverse Event Monitoring and Analysis",
+    "description": "Provides functionality for patients to report adverse events and for PHAs to monitor and analyze these incidents using charts and dashboards. Enables healthcare oversight to ensure timely and accurate tracking of health risks."
+  },
+  {
+    "id": "10",
+    "title": "Prescription and Medication Records Management",
+    "description": "Allows HCPs and UAPs to edit and review patient prescriptions, generate reports, and track renewal needs. Patients can view their prescription history, including expired and active records, supporting continuity of care and medication compliance."
+  },
+  {
+    "id": "11",
+    "title": "Healthcare Personnel and Patient Enrollment",
+    "description": "Enables administrators and HCPs to add new users to the system, including ER personnel, HCPs, PHAs, UAPs, and patients. Streamlines onboarding processes and ensures all necessary user profiles are accurately created and maintained."
+  },
+  {
+    "id": "12",
+    "title": "Identification and Personnel Lookup Tools",
+    "description": "Provides utilities for retrieving patient and personnel IDs and viewing detailed personnel profiles. Enhances administrative efficiency by facilitating quick lookup and verification of healthcare users."
+  },
+  {
+    "id": "13",
+    "title": "Fake Email Handling Utility",
+    "description": "Displays and manages simulated or fake emails for testing purposes, ensuring email-related functionalities are safely tested without affecting real user accounts."
+  },
+  {
+    "id": "14",
+    "title": "National Drug Code (NDC) Management",
+    "description": "Allows administrators to edit NDCs and drug interaction information, supporting accurate pharmaceutical records and safe medication practices across the system."
+  },
+  {
+    "id": "15",
+    "title": "Visit Analytics and Graphical Reporting",
+    "description": "Provides visual analytics tools for administrators to view trends and statistics related to patient visits. Enables data-driven decision-making and healthcare service optimization."
+  },
+  {
+    "id": "16",
+    "title": "Tester Tools and Blackbox Utilities",
+    "description": "Grants testers access to menus and utilities for black-box testing of system behavior and performance. Ensures software integrity through robust validation tools."
+  },
+  {
+    "id": "17",
+    "title": "Database Display and Wiki Integration",
+    "description": "Displays system and wiki-integrated database records for informational or diagnostic purposes. Enables authorized users to examine backend data representations."
+  },
+  {
+    "id": "18",
+    "title": "Emergency Room Operations",
+    "description": "Provides ER staff with access to specialized home pages, menu interfaces, and emergency reporting functionalities. Streamlines documentation and coordination during critical care events."
+  },
+  {
+    "id": "19",
+    "title": "Healthcare Provider Consultation Interface",
+    "description": "Facilitates consultations among HCPs through a dedicated interface. Supports collaborative decision-making and case reviews across healthcare teams."
+  },
+  {
+    "id": "20",
+    "title": "Medical Coding Administration",
+    "description": "Allows administrators to manage standard medical coding systems, including CPT, ICD, and LOINC codes. Supports accurate clinical documentation, billing, and data reporting."
+  },
+  {
+    "id": "21",
+    "title": "Utility Testing Scripts",
+    "description": "Provides access to standalone testing utilities for development or QA purposes. Supports validation of individual components through isolated test cases."
+  },
+  {
+    "id": "22",
+    "title": "Chronic Disease Risk Assessment",
+    "description": "Enables healthcare staff to document and monitor patient risks related to chronic diseases. Supports early intervention strategies through structured data entry and review."
+  },
+  {
+    "id": "23",
+    "title": "Patient Diagnosis Records",
+    "description": "Allows patients to view their personal diagnosis history. Supports transparency and personal health awareness through access to clinical assessments."
+  },
+  {
+    "id": "24",
+    "title": "Report Request Management",
+    "description": "Supports administrators and healthcare staff in submitting and tracking requests for medical reports. Facilitates streamlined generation and retrieval of healthcare documentation."
+  },
+  {
+    "id": "25",
+    "title": "Patient Representative Management",
+    "description": "Allows healthcare providers to edit patient representative information. Ensures accurate representation records for legal or caregiving purposes."
+  },
+  {
+    "id": "26",
+    "title": "Password Reset Functionality",
+    "description": "Provides utility for resetting user passwords. Ensures secure and efficient account recovery for system users."
+  }
+]

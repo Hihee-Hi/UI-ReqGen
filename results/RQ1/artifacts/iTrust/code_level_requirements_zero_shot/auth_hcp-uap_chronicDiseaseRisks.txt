@@ -1,0 +1,5 @@
+To access and view the chronic disease risk factors as a healthcare user, begin by ensuring that you have the patient's unique identifier ready. This identification is crucial as it links the risks to specific patients. If no patient identifier is provided, you will be redirected to a page to obtain or enter one.
+
+Once you enter the patient identifier, the system retrieves and displays a list of chronic disease risks associated with that particular patient. This list will be shown in a tabular format, highlighting each disease and its corresponding risk factors. If there are no risk factors identified, the system informs you that no data is available.
+
+Throughout the process, you can navigate the system using the patient navigation tools, allowing seamless transitions between different patient-related functions.

@@ -1,0 +1,10 @@
+As an administrator using this system, you can automate the process of sending appointment reminders to patients. Here's how you achieve this:
+
+1. Start by entering the number of days before an appointment when you want to send the reminders into the provided "threshold" field.
+2. Submit the form to initiate the reminder sending process.
+3. The system will identify all upcoming appointments that fall within the specified threshold and send reminder messages to the respective patients.
+4. Each message will include details such as the appointment date and time, doctor’s name, and the number of days remaining until the appointment.
+5. After the process is complete, you'll see a confirmation indicating the number of reminder messages successfully sent.
+6. If an error occurs, such as entering an invalid value for the threshold, the system will display a relevant error message to guide you.
+
+This feature helps ensure patients are reliably informed about their upcoming appointments, enhancing scheduling efficiency and reducing missed appointments.

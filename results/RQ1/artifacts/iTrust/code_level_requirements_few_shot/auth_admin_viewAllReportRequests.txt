@@ -1,0 +1,7 @@
+As an administrator using this system, you would:
+Access a list of all pending and completed report requests from patients for review and approval.
+For each request, see details such as the patient’s name, the approver’s name, the dates the report was requested, approved, and viewed, along with its current status and any comments attached.
+You are provided with options to approve or reject the requests that are still pending approval.
+Upon approving a request, the system will mark it as approved, showing a confirmation message.
+If rejecting, you will need to provide a reason in the comment section. After confirmation, the request will be marked as rejected with the reason logged.
+This system allows you to efficiently manage and track report requests, ensuring proper authorization before any sensitive information is shared.

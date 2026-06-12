@@ -1,0 +1,6 @@
+As a healthcare provider (HCP) accessing this system, you would:  
+First, identify the patient whose laboratory procedures you want to view. If a patient's ID is not selected, the system will prompt you to choose one.  
+Once the patient is selected, you can view a detailed table displaying the patient's lab procedures. This table includes essential information such as lab codes, current rights, status, any added commentary, results, and the associated Office Visit ID, which helps in correlating procedures with specific patient visits.   
+The table also shows the last date when the procedure data was updated, providing insights into the timeliness of the data.  
+If you need to make updates to any lab procedure details, the system provides an option to update the information directly from the table, streamlining the workflow.  
+This system aids in effectively managing and reviewing laboratory data for patients, ensuring that all relevant information is easily accessible for analysis and updates.

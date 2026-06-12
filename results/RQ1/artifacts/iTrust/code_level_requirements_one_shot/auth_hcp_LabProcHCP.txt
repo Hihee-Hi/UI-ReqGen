@@ -1,0 +1,9 @@
+As a healthcare provider (HCP) using this system, you can:
+
+- View the laboratory procedures associated with your patients, categorized by patient name, lab code, rights, status, commentary, results, and related office visit details. This allows you to track and assess the progress of lab procedures and their outcomes.
+- Modify access rights to specific laboratory procedures, determining whether they are viewable by others depending on the privacy settings.
+- Update the information on individual lab procedures when necessary, ensuring that the records are accurate and reflect the latest details.
+- Navigate to the office visit record that is connected to a lab procedure, allowing further edits or updates to the visit's details.
+- Manage cases where no laboratory procedures are registered for a patient, which will be displayed with a “No Data” message for easier identification.
+
+This facilitates comprehensive management of laboratory procedures for patients in a structured and accessible manner while addressing privacy concerns through user-adjustable settings.

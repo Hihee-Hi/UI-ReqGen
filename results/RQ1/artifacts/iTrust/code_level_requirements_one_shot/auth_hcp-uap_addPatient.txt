@@ -1,0 +1,11 @@
+As a healthcare provider (HCP) using this system, you would:
+
+Start by filling out a brief form to provide the new patient's first name, last name, and email address. If the patient doesn't have an email address, you can use the hospital's assigned email address to ensure they can recover their password later.
+
+Submit the form to let the system process the patient registration. Once the process is completed, the system will create a unique Medical ID (MID) for the patient and generate a temporary password.
+
+After successful registration, you will receive on-screen confirmation displaying the new patient's MID and temporary password. You are encouraged to securely forward this information to the patient so they can access their account.
+
+You are then prompted to continue managing the patient's details and profile using a follow-up page for further actions, such as updating additional information or communicating specific instructions.
+
+This workflow is designed to make the patient registration process straightforward while safeguarding sensitive information such as security questions and passwords. It ensures a secure and efficient way to onboard new patients into the system.

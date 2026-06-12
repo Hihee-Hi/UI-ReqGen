@@ -1,0 +1,198 @@
+{
+    "0": [
+        "auth_hcp_editRepresentatives.txt"
+    ],
+    "1": [
+        "auth_hcp-uap_editPrescription.txt",
+        "auth_hcp-uap_getPrescriptionReport.txt",
+        "auth_patient_viewExpiredPrescriptionRecords.txt",
+        "auth_patient_viewPrescriptionInformation.txt",
+        "auth_patient_viewPrescriptionRecords.txt"
+    ],
+    "10": [
+        "auth_hcp-uap_chronicDiseaseRisks.txt",
+        "auth_hcp-uap_documentOfficeVisit.txt",
+        "auth_hcp-uap_editBasicHealth.txt",
+        "auth_hcp-uap_editOfficeVisit.txt",
+        "auth_hcp-uap_editPHR.txt",
+        "auth_hcp-uap_viewPatientOfficeVisitHistory.txt",
+        "auth_hcp-uap_viewReport.txt",
+        "auth_patient_viewMyRecords.txt",
+        "auth_patient_viewOfficeVisit.txt"
+    ],
+    "11": [
+        "auth_admin_home.txt",
+        "auth_forwardUser.txt",
+        "auth_uap_home.txt"
+    ],
+    "12": [
+        "auth_admin_editNDCInteractions.txt",
+        "auth_admin_editNDCodes.txt"
+    ],
+    "13": [
+        "auth_hcp-uap_addPatient.txt",
+        "auth_hcp_addUAP.txt"
+    ],
+    "14": [
+        "auth_patient_reportAdverseEvent.txt",
+        "auth_pha_adverseEventChart.txt",
+        "auth_pha_adverseEventDetails.txt",
+        "auth_pha_home.txt",
+        "auth_pha_menu.txt",
+        "auth_pha_monitorAdverseEvents.txt"
+    ],
+    "15": [
+        "auth_staff_editMyDemographics.txt",
+        "auth_staff_editPersonnel.txt"
+    ],
+    "16": [
+        "auth_hcp_viewAdditionalInfo.txt",
+        "auth_patient_addTelemedicineData.txt",
+        "auth_uap_addTelemedicineData.txt"
+    ],
+    "17": [
+        "auth_admin_editCPTProcedureCodes.txt",
+        "auth_admin_editICDCodes.txt",
+        "auth_admin_editLOINCCodes.txt"
+    ],
+    "18": [
+        "auth_hcp_reply.txt",
+        "auth_hcp_sendEmailNotification.txt",
+        "auth_hcp_sendMessage.txt",
+        "auth_patient_reply.txt",
+        "auth_patient_sendMessage.txt"
+    ],
+    "19": [
+        "auth_hcp_messageInbox.txt",
+        "auth_hcp_viewMessageInbox.txt",
+        "auth_hcp_viewMyMessages.txt",
+        "auth_patient_messageInbox.txt",
+        "auth_patient_viewMessageInbox.txt",
+        "auth_patient_viewMyMessages.txt"
+    ],
+    "2": [
+        "auth_hcp_messageOutbox.txt",
+        "auth_hcp_viewMessageOutbox.txt",
+        "auth_patient_messageOutbox.txt",
+        "auth_patient_viewMessageOutbox.txt"
+    ],
+    "20": [
+        "auth_admin_addER.txt",
+        "auth_admin_addHCP.txt",
+        "auth_admin_addPHA.txt"
+    ],
+    "21": [
+        "auth_hcp-uap_showEmailHistory.txt",
+        "auth_patient_showEmailHistory.txt"
+    ],
+    "22": [
+        "auth_admin_hospitalAssignments.txt",
+        "auth_admin_hospitalListing.txt"
+    ],
+    "23": [
+        "auth_patient_survey.txt",
+        "auth_patient_viewVisitedHCPs.txt",
+        "auth_surveyResults.txt"
+    ],
+    "24": [
+        "auth_getPersonnelID.txt",
+        "auth_patient_viewLHCP.txt",
+        "auth_viewPersonnel.txt",
+        "util_getUser.txt"
+    ],
+    "25": [
+        "auth_hcp-uap_updateLabProc.txt",
+        "auth_hcp_UpdateLabProc.txt"
+    ],
+    "26": [
+        "auth_tester_menu.txt",
+        "util_blackbox_blackbox.txt"
+    ],
+    "27": [
+        "auth_admin_viewAllReportRequests.txt",
+        "auth_hcp-uap_viewMyReportRequests.txt"
+    ],
+    "28": [
+        "util_showFakeEmails.txt"
+    ],
+    "29": [
+        "auth_getPatientID.txt",
+        "auth_hcp-uap_editPatient.txt",
+        "auth_patient_editMyDemographics.txt",
+        "auth_patient_information.txt",
+        "util_resetPassword.txt"
+    ],
+    "3": [
+        "auth_er_home.txt",
+        "auth_er_menu.txt",
+        "auth_hcp-er_emergencyReport.txt"
+    ],
+    "30": [
+        "util_andystestutil.txt"
+    ],
+    "31": [
+        "auth_tester_home.txt",
+        "util_transactionLog.txt"
+    ],
+    "32": [
+        "auth_patient_viewAccessLog.txt"
+    ],
+    "33": [
+        "auth_admin_visitGraph.txt",
+        "auth_pha_barchart.txt"
+    ],
+    "34": [
+        "auth_admin_sendAppointmentReminders.txt",
+        "auth_hcp_viewPrescriptionRenewalNeeds.txt",
+        "auth_hcp_visitReminders.txt"
+    ],
+    "35": [
+        "auth_admin_remindersMessageOutbox.txt",
+        "auth_admin_viewReminderMessage.txt"
+    ],
+    "4": [
+        "auth_admin_menu.txt",
+        "auth_hcp_hcpConsultation.txt",
+        "auth_hcp_menu.txt",
+        "auth_patient_menu.txt",
+        "auth_uap_menu.txt"
+    ],
+    "5": [
+        "auth_hcp-uap_editPatientList.txt",
+        "auth_hcp_editPatientList.txt",
+        "auth_hcp_monitorPatients.txt",
+        "auth_uap_getPatientMonitorList.txt"
+    ],
+    "6": [
+        "auth_admin_information.txt",
+        "auth_er_information.txt",
+        "auth_hcp_information.txt",
+        "auth_pha_information.txt",
+        "auth_uap_information.txt"
+    ],
+    "7": [
+        "util_displayDatabase.txt",
+        "util_displayWikiDatabase.txt"
+    ],
+    "8": [
+        "auth_hcp-uap_LabProcUAP.txt",
+        "auth_hcp_home.txt",
+        "auth_hcp_LabProcHCP.txt",
+        "auth_patient_home.txt",
+        "auth_patient_myDiagnoses.txt",
+        "auth_patient_viewLabProc.txt"
+    ],
+    "9": [
+        "auth_admin_editApptType.txt",
+        "auth_hcp_calendar.txt",
+        "auth_hcp_scheduleAppt.txt",
+        "auth_hcp_viewAppt.txt",
+        "auth_hcp_viewMyAppts.txt",
+        "auth_patient_calendar.txt",
+        "auth_patient_viewAppt.txt",
+        "auth_patient_viewMyAppts.txt"
+    ],
+    "Cluster": [
+        "Filename"
+    ]
+}

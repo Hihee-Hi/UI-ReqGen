@@ -1,0 +1,1 @@
+In step three  the _GCS_ announces its current set of recognized UAVs to the _GCSMiddleware_.

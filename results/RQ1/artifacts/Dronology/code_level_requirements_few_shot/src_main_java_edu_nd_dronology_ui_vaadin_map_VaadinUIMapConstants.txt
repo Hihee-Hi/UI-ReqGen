@@ -1,0 +1,1 @@
+This system allows users to interact with different map layers for various geographical views. Users can switch between online imagery maps and locally stored South Bend maps, choosing either satellite or standard views. This functionality enables detailed geographical analysis by leveraging both global and local map data sources.

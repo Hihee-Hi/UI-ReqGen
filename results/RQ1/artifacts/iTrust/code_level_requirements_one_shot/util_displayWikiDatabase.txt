@@ -1,0 +1,6 @@
+As a user accessing the system for testing purposes, you can:
+1. Open the page which provides a view of the database tables.
+2. View all the tables in the database. The system will iterate through each table and display its content in a structured manner.
+3. For each table, the column headers and data are displayed clearly, making it easy to verify the database content.
+4. Additionally, you can use links to navigate back to the main page or view an HTML formatted version of the database.
+This utility is helpful for quickly checking database tables and their contents during testing phases.

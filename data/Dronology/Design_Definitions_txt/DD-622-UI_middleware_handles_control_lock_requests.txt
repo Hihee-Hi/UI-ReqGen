@@ -1,0 +1,1 @@
+The _UIMiddleware_ shall forward control requests from UI clients to hold a control lock on a UAV.

@@ -1,0 +1,7 @@
+As an administrator using this system, you would:
+Enter the healthcare provider's (HCP) first name, last name, and email address to register them in the database.
+After you submit the form, the system will automatically generate a unique Medical ID (MID) for the new HCP.
+The system will also generate a temporary password that you will need to provide to the new HCP for login purposes.
+The successful addition of the HCP will be confirmed with a message displaying the HCP's MID and temporary password.
+From there, you can continue to manage the new HCP's information or update their details in other sections of the system.
+This process allows you to efficiently add new healthcare providers to the system while ensuring their credentials are securely initialized.
