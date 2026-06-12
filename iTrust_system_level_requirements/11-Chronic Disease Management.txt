@@ -1,3 +1,0 @@
-LHCPs can select a chronic disease (e.g., Diabetes, Heart Disease) and a patient to analyze risk factors. If the patient has three or more risk factors, a warning is displayed. If the disease's preconditions don't apply to the patient (e.g., testing adults for child diabetes), a prompt indicates no analysis can be performed.
-
-For patients diagnosed with certain chronic conditions (e.g., diabetes, asthma, circulatory diseases), if they haven’t had an office visit in over a year, they are displayed in a list. The list shows the patient's name, phone number, and email, sorted alphabetically by last and first name. If a patient meets the criteria and has multiple prescriptions, they appear once in the list.

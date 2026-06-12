@@ -1,1 +1,0 @@
-Patients over 50 who haven't received a flu shot during the specified months (September to December) of the current or previous year will be flagged. Similarly, patients under 19 who haven't followed the recommended immunization schedule, including the catch-up schedule if applicable, will also be flagged for reminders.

@@ -1,5 +1,0 @@
-In the iTrust system, patients, UAPs, and personal representatives can report blood pressure and glucose levels. If the values are outside the allowed ranges (systolic BP 40-240, diastolic BP 40-150, glucose 0-250), the user is prompted to correct the data. If more than ten data points are entered in one day, the system restricts further input.
-
-LHCPs and UAPs can add or remove patients from the monitoring list and specify which physiological data to monitor. Patients and their representatives can report data, which is saved with a timestamp and status (self-reported, reported by UAP, or reported by a representative).
-
-LHCPs can view monitoring data for all their patients, with out-of-range values highlighted. UAPs and patient representatives can report data only for patients they are authorized to monitor, with applicable fields displayed based on the monitoring settings.
