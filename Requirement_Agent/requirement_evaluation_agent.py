@@ -7,19 +7,22 @@ from .openai_client import chat_completion
 
 REQUIREMENT_EVALUATION_PROMPT = """
 Assume you are a software requirements analyst. Two clustering methods
-(K-MEANS, HIERARCHY/HCA) have been applied to cluster the same set of requirement
-texts, and a summary of the system-level functional requirements for each cluster
-has been provided.
+(K-MEANS, HIERARCHY) have been applied to cluster the same set of
+requirement texts, and a summary of the requirements for each cluster
+has been provided. Next, you will be given two sets of summaries based on the
+clustering results of the requirement texts.
 
-Please perform a horizontal comparison of the two clustering methods based on the
-following three aspects to evaluate which clustering method is the best:
-1. Whether the number of clusters is appropriate, avoiding clusters that are too
-coarse or too fragmented.
-2. Whether there is a clear thematic distinction between the clusters, avoiding
-repetition or ambiguous topic boundaries.
+Please perform a horizontal comparison of the two clustering methods based on
+the following three aspects to evaluate which clustering method is the best:
+1. The number of clusters is appropriate (e.g., whether it is too few or too many).
+   Considering that extracting requirements from the project requires more detailed
+   classification and listing, please appropriately break down and enumerate the
+   more specific situations.
+2. Whether there is a clear thematic distinction between the clusters
+   (avoiding repetition or ambiguity).
 3. Whether the summary for each cluster is readable and clear in meaning.
 
-Please indicate which clustering method performs best and briefly explain why.
+Please indicate which clustering method you think performs the best and briefly explain why.
 """.strip()
 
 
